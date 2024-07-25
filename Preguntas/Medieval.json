@@ -1,0 +1,378 @@
+[
+  {
+    "Texto": "¿En qué siglo comenzó la Edad Media?",
+    "RespuestaCorrecta": "V",
+    "Dificultad": "Facil",
+    "Pista": "Es el siglo que sigue al IV.",
+    "OpcionesRespuestas": ["V", "IV", "VI"]
+  },
+  {
+    "Texto": "¿Qué evento marcó el inicio de la Edad Media?",
+    "RespuestaCorrecta": "La caída del Imperio Romano de Occidente",
+    "Dificultad": "Facil",
+    "Pista": "Ocurrió en el año 476.",
+    "OpcionesRespuestas": [
+      "La caída del Imperio Romano de Occidente",
+      "La fundación de Roma",
+      "La coronación de Carlomagno"
+    ]
+  },
+  {
+    "Texto": "¿Qué sistema socioeconómico predominó en la Edad Media?",
+    "RespuestaCorrecta": "Feudalismo",
+    "Dificultad": "Facil",
+    "Pista": "Involucra a señores y vasallos.",
+    "OpcionesRespuestas": ["Feudalismo", "Capitalismo", "Socialismo"]
+  },
+  {
+    "Texto": "¿Qué institución tuvo gran poder durante la Edad Media?",
+    "RespuestaCorrecta": "La Iglesia Católica",
+    "Dificultad": "Facil",
+    "Pista": "Es una institución religiosa.",
+    "OpcionesRespuestas": [
+      "La Iglesia Católica",
+      "El Parlamento",
+      "La Universidad"
+    ]
+  },
+  {
+    "Texto": "¿Quién fue el líder de los francos que se coronó emperador en el año 800?",
+    "RespuestaCorrecta": "Carlomagno",
+    "Dificultad": "Media",
+    "Pista": "Su nombre significa 'Carlos el Grande'.",
+    "OpcionesRespuestas": ["Carlomagno", "Julio César", "Alejandro Magno"]
+  },
+  {
+    "Texto": "¿Cuál era la principal lengua escrita de la Edad Media en Europa?",
+    "RespuestaCorrecta": "Latín",
+    "Dificultad": "Facil",
+    "Pista": "Es una lengua clásica.",
+    "OpcionesRespuestas": ["Latín", "Griego", "Árabe"]
+  },
+  {
+    "Texto": "¿Cómo se llamaba el código de conducta de los caballeros medievales?",
+    "RespuestaCorrecta": "Caballería",
+    "Dificultad": "Media",
+    "Pista": "Es similar a 'cavalry' en inglés.",
+    "OpcionesRespuestas": ["Caballería", "Feudalismo", "Chivalry"]
+  },
+  {
+    "Texto": "¿Qué epidemia devastó Europa en el siglo XIV?",
+    "RespuestaCorrecta": "La Peste Negra",
+    "Dificultad": "Facil",
+    "Pista": "Era una enfermedad transmitida por ratas.",
+    "OpcionesRespuestas": ["La Peste Negra", "La Gripe Española", "El Cólera"]
+  },
+  {
+    "Texto": "¿Qué ciudad fue conquistada por los turcos otomanos en 1453?",
+    "RespuestaCorrecta": "Constantinopla",
+    "Dificultad": "Dificil",
+    "Pista": "Es la actual Estambul.",
+    "OpcionesRespuestas": ["Constantinopla", "Atenas", "Roma"]
+  },
+  {
+    "Texto": "¿Cuál era el título del líder supremo de la Iglesia Católica?",
+    "RespuestaCorrecta": "Papa",
+    "Dificultad": "Facil",
+    "Pista": "El actual reside en el Vaticano.",
+    "OpcionesRespuestas": ["Papa", "Obispo", "Cardenal"]
+  },
+  {
+    "Texto": "¿Qué conflicto bélico duró de 1337 a 1453?",
+    "RespuestaCorrecta": "La Guerra de los Cien Años",
+    "Dificultad": "Media",
+    "Pista": "Duró más de un siglo.",
+    "OpcionesRespuestas": [
+      "La Guerra de los Cien Años",
+      "La Guerra de los Treinta Años",
+      "La Guerra de las Dos Rosas"
+    ]
+  },
+  {
+    "Texto": "¿Qué orden militar fue disuelta en 1312 por el Papa Clemente V?",
+    "RespuestaCorrecta": "Los Templarios",
+    "Dificultad": "Dificil",
+    "Pista": "Eran conocidos como los 'Caballeros del Templo'.",
+    "OpcionesRespuestas": [
+      "Los Templarios",
+      "Los Hospitalarios",
+      "Los Teutónicos"
+    ]
+  },
+  {
+    "Texto": "¿Qué fue la Reconquista?",
+    "RespuestaCorrecta": "La recuperación de territorio ibérico por los cristianos",
+    "Dificultad": "Media",
+    "Pista": "Ocurrió principalmente en España y Portugal.",
+    "OpcionesRespuestas": [
+      "La recuperación de territorio ibérico por los cristianos",
+      "La expansión del Imperio Romano",
+      "La unificación de los reinos francos"
+    ]
+  },
+  {
+    "Texto": "¿Quién escribió 'La Divina Comedia'?",
+    "RespuestaCorrecta": "Dante Alighieri",
+    "Dificultad": "Media",
+    "Pista": "Era un poeta italiano.",
+    "OpcionesRespuestas": [
+      "Dante Alighieri",
+      "Giovanni Boccaccio",
+      "Francesco Petrarca"
+    ]
+  },
+  {
+    "Texto": "¿Qué imperio se extendió por gran parte de Europa Occidental después de la caída de Roma?",
+    "RespuestaCorrecta": "El Imperio Carolingio",
+    "Dificultad": "Dificil",
+    "Pista": "Fue establecido por los francos.",
+    "OpcionesRespuestas": [
+      "El Imperio Carolingio",
+      "El Imperio Bizantino",
+      "El Imperio Otomano"
+    ]
+  },
+  {
+    "Texto": "¿Qué batalla en 1066 cambió el curso de la historia inglesa?",
+    "RespuestaCorrecta": "La Batalla de Hastings",
+    "Dificultad": "Media",
+    "Pista": "Fue ganada por Guillermo el Conquistador.",
+    "OpcionesRespuestas": [
+      "La Batalla de Hastings",
+      "La Batalla de Agincourt",
+      "La Batalla de Bosworth"
+    ]
+  },
+  {
+    "Texto": "¿Qué construcción monumental se terminó en el año 537 en Constantinopla?",
+    "RespuestaCorrecta": "Santa Sofía",
+    "Dificultad": "Dificil",
+    "Pista": "Es una famosa catedral convertida en mezquita.",
+    "OpcionesRespuestas": [
+      "Santa Sofía",
+      "La Basílica de San Pedro",
+      "La Catedral de Chartres"
+    ]
+  },
+  {
+    "Texto": "¿Cuál era el objetivo de las Cruzadas?",
+    "RespuestaCorrecta": "Recuperar Tierra Santa",
+    "Dificultad": "Facil",
+    "Pista": "Involucraban a cristianos y musulmanes.",
+    "OpcionesRespuestas": [
+      "Recuperar Tierra Santa",
+      "Conquistar Constantinopla",
+      "Expandir el Imperio Romano"
+    ]
+  },
+  {
+    "Texto": "¿Quién escribió 'El Decamerón'?",
+    "RespuestaCorrecta": "Giovanni Boccaccio",
+    "Dificultad": "Dificil",
+    "Pista": "Era contemporáneo de Dante.",
+    "OpcionesRespuestas": [
+      "Giovanni Boccaccio",
+      "Dante Alighieri",
+      "Geoffrey Chaucer"
+    ]
+  },
+  {
+    "Texto": "¿Qué invento de Johannes Gutenberg revolucionó la difusión del conocimiento?",
+    "RespuestaCorrecta": "La imprenta",
+    "Dificultad": "Facil",
+    "Pista": "Permitió la producción masiva de libros.",
+    "OpcionesRespuestas": ["La imprenta", "El telescopio", "El microscopio"]
+  },
+  {
+    "Texto": "¿Cuál fue el conflicto religioso entre cristianos y musulmanes por el control de Tierra Santa?",
+    "RespuestaCorrecta": "Las Cruzadas",
+    "Dificultad": "Facil",
+    "Pista": "Incluyeron varias expediciones militares.",
+    "OpcionesRespuestas": [
+      "Las Cruzadas",
+      "La Reconquista",
+      "Las Guerras Púnicas"
+    ]
+  },
+  {
+    "Texto": "¿Qué rey inglés firmó la Carta Magna en 1215?",
+    "RespuestaCorrecta": "Juan Sin Tierra",
+    "Dificultad": "Media",
+    "Pista": "Era conocido por su apodo, que refleja la pérdida de territorios.",
+    "OpcionesRespuestas": [
+      "Juan Sin Tierra",
+      "Enrique II",
+      "Ricardo Corazón de León"
+    ]
+  },
+  {
+    "Texto": "¿Cuál fue la principal ruta de comercio entre Europa y Asia durante la Edad Media?",
+    "RespuestaCorrecta": "La Ruta de la Seda",
+    "Dificultad": "Facil",
+    "Pista": "Era famosa por el intercambio de mercancías valiosas como telas.",
+    "OpcionesRespuestas": [
+      "La Ruta de la Seda",
+      "La Ruta de las Especias",
+      "La Ruta del Ámbar"
+    ]
+  },
+  {
+    "Texto": "¿Qué ciudad italiana fue una de las principales potencias comerciales y marítimas durante la Edad Media?",
+    "RespuestaCorrecta": "Venecia",
+    "Dificultad": "Media",
+    "Pista": "Es conocida por sus canales y góndolas.",
+    "OpcionesRespuestas": ["Venecia", "Génova", "Florencia"]
+  },
+  {
+    "Texto": "¿Qué tratado puso fin a la Guerra de los Cien Años?",
+    "RespuestaCorrecta": "El Tratado de Picquigny",
+    "Dificultad": "Dificil",
+    "Pista": "Fue firmado en 1475.",
+    "OpcionesRespuestas": [
+      "El Tratado de Picquigny",
+      "El Tratado de Troyes",
+      "El Tratado de Utrecht"
+    ]
+  },
+  {
+    "Texto": "¿Qué rey francés fue conocido como 'El Rey Sol'?",
+    "RespuestaCorrecta": "Luis XIV",
+    "Dificultad": "Media",
+    "Pista": "Es famoso por su reinado en el siglo XVII, pero su apodo tiene origen en la Edad Media.",
+    "OpcionesRespuestas": ["Luis XIV", "Carlos V", "Felipe II"]
+  },
+  {
+    "Texto": "¿Qué conflicto civil en Inglaterra se libró entre las casas de Lancaster y York?",
+    "RespuestaCorrecta": "La Guerra de las Dos Rosas",
+    "Dificultad": "Media",
+    "Pista": "Las casas combatientes tenían emblemas florales.",
+    "OpcionesRespuestas": [
+      "La Guerra de las Dos Rosas",
+      "La Guerra de los Cien Años",
+      "La Guerra de Sucesión Española"
+    ]
+  },
+  {
+    "Texto": "¿Qué estilo arquitectónico es característico de la Edad Media y se refleja en catedrales como Notre-Dame?",
+    "RespuestaCorrecta": "Gótico",
+    "Dificultad": "Facil",
+    "Pista": "Se caracteriza por arcos apuntados y vitrales.",
+    "OpcionesRespuestas": ["Gótico", "Románico", "Barroco"]
+  },
+  {
+    "Texto": "¿Quién fue el rey visigodo que estableció su reino en España?",
+    "RespuestaCorrecta": "Alarico I",
+    "Dificultad": "Dificil",
+    "Pista": "También fue conocido por saquear Roma en 410.",
+    "OpcionesRespuestas": ["Alarico I", "Teodorico el Grande", "Ataúlfo"]
+  },
+  {
+    "Texto": "¿Qué rey se convirtió en emperador del Sacro Imperio Romano Germánico en el año 962?",
+    "RespuestaCorrecta": "Otón I",
+    "Dificultad": "Dificil",
+    "Pista": "Su nombre comienza con la letra 'O'.",
+    "OpcionesRespuestas": ["Otón I", "Carlos Magno", "Luis el Piadoso"]
+  },
+  {
+    "Texto": "¿Qué acontecimiento marcó el fin de la Reconquista en 1492?",
+    "RespuestaCorrecta": "La toma de Granada",
+    "Dificultad": "Facil",
+    "Pista": "Fue la última ciudad musulmana en la Península Ibérica.",
+    "OpcionesRespuestas": [
+      "La toma de Granada",
+      "La batalla de Covadonga",
+      "La firma del Tratado de Tordesillas"
+    ]
+  },
+  {
+    "Texto": "¿Qué filósofo medieval escribió 'Summa Theologica'?",
+    "RespuestaCorrecta": "Tomás de Aquino",
+    "Dificultad": "Media",
+    "Pista": "Es uno de los doctores de la Iglesia Católica.",
+    "OpcionesRespuestas": [
+      "Tomás de Aquino",
+      "San Agustín",
+      "Anselmo de Canterbury"
+    ]
+  },
+  {
+    "Texto": "¿Quién fue el autor de 'El Cantar de mio Cid'?",
+    "RespuestaCorrecta": "Anónimo",
+    "Dificultad": "Facil",
+    "Pista": "La obra no tiene un autor conocido.",
+    "OpcionesRespuestas": [
+      "Anónimo",
+      "Rodrigo Díaz de Vivar",
+      "Gonzalo de Berceo"
+    ]
+  },
+  {
+    "Texto": "¿Qué princesa francesa se casó con el rey Enrique II de Inglaterra y tuvo gran influencia en la política medieval?",
+    "RespuestaCorrecta": "Leonor de Aquitania",
+    "Dificultad": "Media",
+    "Pista": "Fue madre de Ricardo Corazón de León.",
+    "OpcionesRespuestas": [
+      "Leonor de Aquitania",
+      "Blanca de Castilla",
+      "Isabel de Aragón"
+    ]
+  },
+  {
+    "Texto": "¿Qué monarca inglés lideró la tercera cruzada y es conocido como 'Corazón de León'?",
+    "RespuestaCorrecta": "Ricardo I",
+    "Dificultad": "Media",
+    "Pista": "Su apodo refleja su valentía.",
+    "OpcionesRespuestas": ["Ricardo I", "Enrique II", "Juan Sin Tierra"]
+  },
+  {
+    "Texto": "¿Qué periodo histórico vino después de la Edad Media?",
+    "RespuestaCorrecta": "El Renacimiento",
+    "Dificultad": "Facil",
+    "Pista": "Es conocido por el renacer de las artes y ciencias.",
+    "OpcionesRespuestas": [
+      "El Renacimiento",
+      "La Edad Moderna",
+      "La Ilustración"
+    ]
+  },
+  {
+    "Texto": "¿Qué fue la Liga Hanseática?",
+    "RespuestaCorrecta": "Una alianza comercial y defensiva de ciudades del norte de Europa",
+    "Dificultad": "Dificil",
+    "Pista": "Incluía ciudades como Lübeck y Hamburgo.",
+    "OpcionesRespuestas": [
+      "Una alianza comercial y defensiva de ciudades del norte de Europa",
+      "Una confederación de monasterios",
+      "Un tratado de paz entre reinos"
+    ]
+  },
+  {
+    "Texto": "¿Qué documento limitó el poder del rey de Inglaterra y es considerado un precursor de las constituciones modernas?",
+    "RespuestaCorrecta": "La Carta Magna",
+    "Dificultad": "Facil",
+    "Pista": "Fue firmada en 1215.",
+    "OpcionesRespuestas": [
+      "La Carta Magna",
+      "El Edicto de Nantes",
+      "La Paz de Augsburgo"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso poema épico francés narra las hazañas de Carlomagno y su sobrino Roldán?",
+    "RespuestaCorrecta": "La Canción de Roldán",
+    "Dificultad": "Media",
+    "Pista": "El título incluye el nombre de su héroe principal.",
+    "OpcionesRespuestas": [
+      "La Canción de Roldán",
+      "El Cantar de los Nibelungos",
+      "La Epopeya de Gilgamesh"
+    ]
+  },
+  {
+    "Texto": "¿Quién fue el explorador vikingo que llegó a América alrededor del año 1000?",
+    "RespuestaCorrecta": "Leif Erikson",
+    "Dificultad": "Media",
+    "Pista": "Es conocido por descubrir Vinland.",
+    "OpcionesRespuestas": ["Leif Erikson", "Erik el Rojo", "Harald Hardrada"]
+  }
+]

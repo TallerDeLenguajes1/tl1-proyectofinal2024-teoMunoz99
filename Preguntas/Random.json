@@ -1,0 +1,698 @@
+[
+  {
+    "Texto": "¿Cuál es la capital de Argentina?",
+    "RespuestaCorrecta": "Buenos Aires",
+    "Dificultad": "Facil",
+    "Pista": "Es la ciudad más grande del país.",
+    "OpcionesRespuestas": ["Córdoba", "Rosario", "Buenos Aires"]
+  },
+  {
+    "Texto": "¿Cuál es el plato tradicional argentino que consiste en una masa rellena de carne y otros ingredientes?",
+    "RespuestaCorrecta": "Empanada",
+    "Dificultad": "Facil",
+    "Pista": "Es muy común en reuniones familiares y fiestas.",
+    "OpcionesRespuestas": ["Milanesa", "Asado", "Empanada"]
+  },
+  {
+    "Texto": "¿Qué streamer argentino es conocido por su apodo 'Coscu'?",
+    "RespuestaCorrecta": "Martín Pérez Disalvo",
+    "Dificultad": "Facil",
+    "Pista": "Es uno de los streamers más populares en Twitch.",
+    "OpcionesRespuestas": [
+      "Germán Garmendia",
+      "Robleis",
+      "Martín Pérez Disalvo"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el equipo de fútbol más popular de Argentina?",
+    "RespuestaCorrecta": "River Plate",
+    "Dificultad": "Facil",
+    "Pista": "Tiene el estadio con mayor capacidad en sudamerica.",
+    "OpcionesRespuestas": [ "San Lorenzo","River Plate", "Boca Juniors"]
+  },
+  {
+    "Texto": "¿De quién es la famosa frase '¿A quién de aquí le gustan las motos?'?",
+    "RespuestaCorrecta": "La Joaqui",
+    "Dificultad": "Media",
+    "Pista": "Es una cantante y rapera argentina.",
+    "OpcionesRespuestas": ["La Joaqui", "Nicki Nicole", "Cazzu"]
+  },
+  {
+    "Texto": "¿Qué youtuber argentino es conocido por su serie de videos 'Dibujando y hablando'?",
+    "RespuestaCorrecta": "Demente",
+    "Dificultad": "Media",
+    "Pista": "Su verdadero nombre es Martín Kovacs.",
+    "OpcionesRespuestas": ["Angie Velasco", "Luzu", "Demente"]
+  },
+  {
+    "Texto": "¿Cuál es el nombre del festival de música electrónica más grande de Argentina?",
+    "RespuestaCorrecta": "Creamfields",
+    "Dificultad": "Media",
+    "Pista": "Tiene lugar en Buenos Aires cada año.",
+    "OpcionesRespuestas": ["Lollapalooza", "Creamfields", "Cosquín Rock"]
+  },
+  {
+    "Texto": "¿Qué cantante argentino popularizó la canción 'Lamento Boliviano'?",
+    "RespuestaCorrecta": "Enanitos Verdes",
+    "Dificultad": "Media",
+    "Pista": "Es una banda de rock en español.",
+    "OpcionesRespuestas": ["Soda Stereo", "Los Pericos", "Enanitos Verdes"]
+  },
+  {
+    "Texto": "¿Qué cantante argentina ganó un Grammy Latino en 2020 por su álbum 'La Conquista del Espacio'?",
+    "RespuestaCorrecta": "Fito Páez",
+    "Dificultad": "Dificil",
+    "Pista": "Es uno de los músicos más influyentes del rock en español.",
+    "OpcionesRespuestas": [
+      "Fito Páez",
+      "Charly García",
+      "Luis Alberto Spinetta"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el dulce tradicional argentino que se utiliza comúnmente para acompañar el mate?",
+    "RespuestaCorrecta": "Dulce de leche",
+    "Dificultad": "Dificil",
+    "Pista": "Es similar al caramelo pero con una textura más suave.",
+    "OpcionesRespuestas": ["Alfajor", "Dulce de leche", "Churro"]
+  },
+  {
+    "Texto": "¿Qué actriz argentina protagonizó la serie 'Esperanza mía'?",
+    "RespuestaCorrecta": "Lali Espósito",
+    "Dificultad": "Dificil",
+    "Pista": "También es una reconocida cantante pop.",
+    "OpcionesRespuestas": ["Natalia Oreiro", "China Suárez", "Lali Espósito"]
+  },
+  {
+    "Texto": "¿Qué futbolista argentino fue apodado 'El Matador'?",
+    "RespuestaCorrecta": "Mario Kempes",
+    "Dificultad": "Dificil",
+    "Pista": "Fue uno de los goleadores de la Copa del Mundo de 1978.",
+    "OpcionesRespuestas": [
+      "Gabriel Batistuta",
+      "Mario Kempes",
+      "Claudio Caniggia"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el nombre del famoso cantante de tango argentino que falleció en un accidente aéreo en 1935?",
+    "RespuestaCorrecta": "Carlos Gardel",
+    "Dificultad": "Facil",
+    "Pista": "Es conocido como el 'Zorzal Criollo'.",
+    "OpcionesRespuestas": ["Carlos Gardel", "Aníbal Troilo", "Astor Piazzolla"]
+  },
+  {
+    "Texto": "¿Qué bebida se utiliza tradicionalmente para acompañar un asado argentino?",
+    "RespuestaCorrecta": "Vino tinto",
+    "Dificultad": "Facil",
+    "Pista": "Es una bebida alcohólica hecha de uvas.",
+    "OpcionesRespuestas": ["Cerveza", "Mate", "Vino tinto"]
+  },
+  {
+    "Texto": "¿Cuál es el nombre del barrio de Buenos Aires famoso por sus coloridas casas y su historia de inmigrantes italianos?",
+    "RespuestaCorrecta": "La Boca",
+    "Dificultad": "Facil",
+    "Pista": "Es también hogar del estadio de Boca Juniors.",
+    "OpcionesRespuestas": ["San Telmo", "Palermo", "La Boca"]
+  },
+  {
+    "Texto": "¿Qué comida argentina se suele comer los domingos en familia y se cocina a la parrilla?",
+    "RespuestaCorrecta": "Asado",
+    "Dificultad": "Facil",
+    "Pista": "Es una tradición argentina de carne a la parrilla.",
+    "OpcionesRespuestas": ["Milanesa", "Choripán", "Asado"]
+  },
+  {
+    "Texto": "¿Qué banda de rock argentina es conocida por la canción 'De música ligera'?",
+    "RespuestaCorrecta": "Soda Stereo",
+    "Dificultad": "Media",
+    "Pista": "Su vocalista fue Gustavo Cerati.",
+    "OpcionesRespuestas": [
+      "Soda Stereo",
+      "Los Fabulosos Cadillacs",
+      "Patricio Rey y sus Redonditos de Ricota"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el nombre del famoso festival de música que se celebra en la ciudad de Cosquín?",
+    "RespuestaCorrecta": "Cosquín Rock",
+    "Dificultad": "Media",
+    "Pista": "Es uno de los festivales de rock más importantes de Argentina.",
+    "OpcionesRespuestas": ["Lollapalooza", "Cosquín Rock", "Rock en Baradero"]
+  },
+  {
+    "Texto": "¿Qué futbolista argentino es conocido como 'La Pulga'?",
+    "RespuestaCorrecta": "Lionel Messi",
+    "Dificultad": "Media",
+    "Pista": "Es uno de los mejores jugadores del mundo y ha ganado varios Balones de Oro.",
+    "OpcionesRespuestas": ["Diego Maradona", "Lionel Messi", "Sergio Agüero"]
+  },
+  {
+    "Texto": "¿Cuál es el nombre del primer canal de televisión por suscripción en Argentina?",
+    "RespuestaCorrecta": "Canal Volver",
+    "Dificultad": "Media",
+    "Pista": "Este canal se dedica a retransmitir clásicos del cine y la televisión argentina.",
+    "OpcionesRespuestas": ["Canal Volver", "Telefe", "El Trece"]
+  },
+  {
+    "Texto": "¿Qué ciudad argentina es famosa por sus viñedos y la producción de vino Malbec?",
+    "RespuestaCorrecta": "Mendoza",
+    "Dificultad": "Dificil",
+    "Pista": "Es una de las principales regiones vitivinícolas del país.",
+    "OpcionesRespuestas": ["San Juan", "Salta", "Mendoza"]
+  },
+  {
+    "Texto": "¿Quién es el autor argentino del famoso libro 'El Aleph'?",
+    "RespuestaCorrecta": "Jorge Luis Borges",
+    "Dificultad": "Dificil",
+    "Pista": "Es uno de los escritores más importantes de la literatura argentina y universal.",
+    "OpcionesRespuestas": [
+      "Jorge Luis Borges",
+      "Julio Cortázar",
+      "Adolfo Bioy Casares"
+    ]
+  },
+  {
+    "Texto": "¿Qué director de cine argentino ganó un Oscar por la película 'El secreto de sus ojos'?",
+    "RespuestaCorrecta": "Juan José Campanella",
+    "Dificultad": "Dificil",
+    "Pista": "Es uno de los directores más reconocidos del cine argentino contemporáneo.",
+    "OpcionesRespuestas": [
+      "Juan José Campanella",
+      "Damián Szifron",
+      "Lucrecia Martel"
+    ]
+  },
+  {
+    "Texto": "¿Qué deportista argentino es conocido por haber ganado el torneo de tenis de Roland Garros en 2004?",
+    "RespuestaCorrecta": "Gastón Gaudio",
+    "Dificultad": "Dificil",
+    "Pista": "Es uno de los pocos argentinos en ganar un Grand Slam en singles.",
+    "OpcionesRespuestas": [
+      "Juan Martín del Potro",
+      "Guillermo Vilas",
+      "Gastón Gaudio"
+    ]
+  },
+  {
+    "Texto": "¿Qué cantante argentino es conocido por su éxito 'Color Esperanza'?",
+    "RespuestaCorrecta": "Diego Torres",
+    "Dificultad": "Facil",
+    "Pista": "Es hijo de la famosa cantante Lolita Torres.",
+    "OpcionesRespuestas": ["Diego Torres", "Charly García", "Sandro"]
+  },
+  {
+    "Texto": "¿Cuál es la ciudad más austral de Argentina y del mundo?",
+    "RespuestaCorrecta": "Ushuaia",
+    "Dificultad": "Facil",
+    "Pista": "Se encuentra en la provincia de Tierra del Fuego.",
+    "OpcionesRespuestas": ["Ushuaia", "Río Gallegos", "El Calafate"]
+  },
+  {
+    "Texto": "¿Qué bebida es típica de Argentina y se toma en una calabaza con una bombilla?",
+    "RespuestaCorrecta": "Mate",
+    "Dificultad": "Facil",
+    "Pista": "Es una infusión de yerba.",
+    "OpcionesRespuestas": ["Mate", "Té", "Café"]
+  },
+  {
+    "Texto": "¿Cuál es el nombre del famoso obelisco ubicado en la ciudad de Buenos Aires?",
+    "RespuestaCorrecta": "Obelisco de Buenos Aires",
+    "Dificultad": "Facil",
+    "Pista": "Se encuentra en la intersección de las avenidas 9 de Julio y Corrientes.",
+    "OpcionesRespuestas": [
+      "Obelisco de Buenos Aires",
+      "Monumento a la Bandera",
+      "Torre de los Ingleses"
+    ]
+  },
+  {
+    "Texto": "¿Qué escritora argentina ganó el Premio Nobel de Literatura en 1980?",
+    "RespuestaCorrecta": "Adolfo Bioy Casares",
+    "Dificultad": "Media",
+    "Pista": "Escribió la famosa obra 'La invención de Morel'.",
+    "OpcionesRespuestas": [
+      "Adolfo Bioy Casares",
+      "Jorge Luis Borges",
+      "Julio Cortázar"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el nombre del youtuber argentino conocido por sus videos de bromas y experimentos sociales?",
+    "RespuestaCorrecta": "Jero Freixas",
+    "Dificultad": "Media",
+    "Pista": "Es famoso por sus videos de humor sobre el fútbol.",
+    "OpcionesRespuestas": ["Jero Freixas", "Pablo Agustín", "Dani La Chepi"]
+  },
+  {
+    "Texto": "¿Qué actor argentino protagonizó la película 'El secreto de sus ojos'?",
+    "RespuestaCorrecta": "Ricardo Darín",
+    "Dificultad": "Media",
+    "Pista": "Es uno de los actores más reconocidos de Argentina.",
+    "OpcionesRespuestas": [
+      "Ricardo Darín",
+      "Guillermo Francella",
+      "Leonardo Sbaraglia"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el nombre del famoso conductor de televisión conocido por el programa 'Showmatch'?",
+    "RespuestaCorrecta": "Marcelo Tinelli",
+    "Dificultad": "Media",
+    "Pista": "Es uno de los conductores más influyentes de la televisión argentina.",
+    "OpcionesRespuestas": ["Marcelo Tinelli", "Marley", "Santiago del Moro"]
+  },
+  {
+    "Texto": "¿Qué escritora argentina es autora de la novela 'Rayuela'?",
+    "RespuestaCorrecta": "Julio Cortázar",
+    "Dificultad": "Dificil",
+    "Pista": "Es uno de los escritores más importantes del siglo XX.",
+    "OpcionesRespuestas": [
+      "Julio Cortázar",
+      "Jorge Luis Borges",
+      "Adolfo Bioy Casares"
+    ]
+  },
+  {
+    "Texto": "¿Qué músico argentino es conocido por ser el líder de la banda 'Patricio Rey y sus Redonditos de Ricota'?",
+    "RespuestaCorrecta": "Indio Solari",
+    "Dificultad": "Dificil",
+    "Pista": "Es una figura icónica del rock argentino.",
+    "OpcionesRespuestas": ["Indio Solari", "Gustavo Cerati", "Charly García"]
+  },
+  {
+    "Texto": "¿Qué deportista argentino ganó la medalla de oro en los Juegos Olímpicos de 2004 en tenis?",
+    "RespuestaCorrecta": "Gastón Gaudio",
+    "Dificultad": "Dificil",
+    "Pista": "Es uno de los pocos argentinos en ganar un Grand Slam en singles.",
+    "OpcionesRespuestas": [
+      "Gastón Gaudio",
+      "David Nalbandian",
+      "Guillermo Coria"
+    ]
+  },
+  {
+    "Texto": "¿Qué actriz argentina protagonizó la serie de televisión 'Muñeca Brava'?",
+    "RespuestaCorrecta": "Natalia Oreiro",
+    "Dificultad": "Dificil",
+    "Pista": "También es una reconocida cantante pop.",
+    "OpcionesRespuestas": ["Natalia Oreiro", "Nancy Dupláa", "Carla Peterson"]
+  },
+  {
+    "Texto": "¿Qué streamer argentino es conocido por sus videos de Minecraft y su nombre real es Tomás Luján?",
+    "RespuestaCorrecta": "Luzu",
+    "Dificultad": "Facil",
+    "Pista": "Es uno de los streamers más populares en YouTube.",
+    "OpcionesRespuestas": ["Luzu", "Coscu", "Duki"]
+  },
+  {
+    "Texto": "¿Qué famoso youtuber y streamer español es conocido por su serie 'Minecraft Extremo'?",
+    "RespuestaCorrecta": "AuronPlay",
+    "Dificultad": "Facil",
+    "Pista": "Su nombre real es Raúl Álvarez.",
+    "OpcionesRespuestas": ["Rubius", "Ibai", "AuronPlay"]
+  },
+  {
+    "Texto": "¿Qué youtuber y streamer español es conocido por sus vídeos de 'League of Legends' y 'Fortnite'?",
+    "RespuestaCorrecta": "TheGrefg",
+    "Dificultad": "Facil",
+    "Pista": "Tiene uno de los récords de espectadores en Twitch.",
+    "OpcionesRespuestas": ["TheGrefg", "Xokas", "Ibai"]
+  },
+  {
+    "Texto": "¿Qué streamer español organizó el evento de boxeo 'La Velada del Año'?",
+    "RespuestaCorrecta": "Ibai Llanos",
+    "Dificultad": "Facil",
+    "Pista": "Es conocido por sus retransmisiones de deportes y eventos especiales.",
+    "OpcionesRespuestas": ["Ibai Llanos", "AuronPlay", "Rubius"]
+  },
+  {
+    "Texto": "¿Qué youtuber español es conocido por su serie de vídeos 'RubiusOMG'?",
+    "RespuestaCorrecta": "Rubius",
+    "Dificultad": "Media",
+    "Pista": "Su nombre real es Rubén Doblas.",
+    "OpcionesRespuestas": ["Rubius", "AuronPlay", "Willyrex"]
+  },
+  {
+    "Texto": "¿Qué streamer argentino es conocido por su apodo 'Spreen'?",
+    "RespuestaCorrecta": "Iván Buhajeruk",
+    "Dificultad": "Media",
+    "Pista": "Es popular por sus streams de Minecraft.",
+    "OpcionesRespuestas": ["Spreen", "Coscu", "Luzu"]
+  },
+  {
+    "Texto": "¿Cuál es el nombre real del famoso youtuber 'MrBeast'?",
+    "RespuestaCorrecta": "Jimmy Donaldson",
+    "Dificultad": "Media",
+    "Pista": "Es conocido por sus vídeos de retos y filantropía.",
+    "OpcionesRespuestas": [
+      "Jimmy Donaldson",
+      "Felix Kjellberg",
+      "Mark Fischbach"
+    ]
+  },
+  {
+    "Texto": "¿Qué youtuber y streamer español es conocido por su apodo 'Xokas'?",
+    "RespuestaCorrecta": "Joaquín Domínguez",
+    "Dificultad": "Media",
+    "Pista": "Es conocido por sus opiniones controvertidas y sus streams de World of Warcraft.",
+    "OpcionesRespuestas": ["Xokas", "Ibai", "TheGrefg"]
+  },
+  {
+    "Texto": "¿Qué streamer estadounidense es conocido por sus transmisiones de videojuegos y su nombre real es Darren Watkins?",
+    "RespuestaCorrecta": "IShowSpeed",
+    "Dificultad": "Dificil",
+    "Pista": "Es conocido por su personalidad enérgica y sus streams de Fortnite.",
+    "OpcionesRespuestas": ["IShowSpeed", "Ninja", "Tfue"]
+  },
+  {
+    "Texto": "¿Qué streamer y youtuber español es conocido por su apodo 'Rubius' y su serie 'ElRubiusOMG'?",
+    "RespuestaCorrecta": "Rubén Doblas",
+    "Dificultad": "Dificil",
+    "Pista": "Es uno de los creadores de contenido más populares en habla hispana.",
+    "OpcionesRespuestas": ["Rubén Doblas", "AuronPlay", "Willyrex"]
+  },
+  {
+    "Texto": "¿Qué youtuber y streamer estadounidense es conocido por sus videos de retos extremos y filantropía?",
+    "RespuestaCorrecta": "MrBeast",
+    "Dificultad": "Dificil",
+    "Pista": "Ha donado millones de dólares a causas benéficas y personas necesitadas.",
+    "OpcionesRespuestas": ["MrBeast", "PewDiePie", "Markiplier"]
+  },
+  {
+    "Texto": "¿Qué streamer y youtuber español es conocido por sus vídeos de 'Minecraft' y 'Among Us'?",
+    "RespuestaCorrecta": "AuronPlay",
+    "Dificultad": "Dificil",
+    "Pista": "Su nombre real es Raúl Álvarez.",
+    "OpcionesRespuestas": ["AuronPlay", "Rubius", "Ibai"]
+  },
+  {
+    "Texto": "¿Qué futbolista argentino es conocido por el apodo 'El Pibe de Oro'?",
+    "RespuestaCorrecta": "Diego Maradona",
+    "Dificultad": "Facil",
+    "Pista": "Es famoso por el 'Gol del Siglo' y la 'Mano de Dios'.",
+    "OpcionesRespuestas": ["Lionel Messi", "Diego Maradona", "Carlos Tevez"]
+  },
+  {
+    "Texto": "¿Cuál es la provincia argentina famosa por sus paisajes de montañas y viñedos?",
+    "RespuestaCorrecta": "Mendoza",
+    "Dificultad": "Facil",
+    "Pista": "Es conocida por producir algunos de los mejores vinos del país.",
+    "OpcionesRespuestas": ["Mendoza", "San Juan", "Salta"]
+  },
+  {
+    "Texto": "¿Qué plato argentino consiste en una pieza de carne empanada y frita?",
+    "RespuestaCorrecta": "Milanesa",
+    "Dificultad": "Facil",
+    "Pista": "Se puede comer con papas fritas o en un sándwich.",
+    "OpcionesRespuestas": ["Milanesa", "Asado", "Empanada"]
+  },
+  {
+    "Texto": "¿Qué ciudad argentina es conocida por ser el lugar de nacimiento de Ernesto 'Che' Guevara?",
+    "RespuestaCorrecta": "Rosario",
+    "Dificultad": "Facil",
+    "Pista": "Es la tercera ciudad más grande de Argentina.",
+    "OpcionesRespuestas": ["Buenos Aires", "Córdoba", "Rosario"]
+  },
+  {
+    "Texto": "¿Qué banda de rock argentina es conocida por la canción 'La balsa'?",
+    "RespuestaCorrecta": "Los Gatos",
+    "Dificultad": "Media",
+    "Pista": "Fue una de las primeras bandas de rock en español.",
+    "OpcionesRespuestas": ["Los Gatos", "Soda Stereo", "Los Abuelos de la Nada"]
+  },
+  {
+    "Texto": "¿Qué actriz argentina protagonizó la película 'El Hilo Rojo'?",
+    "RespuestaCorrecta": "China Suárez",
+    "Dificultad": "Media",
+    "Pista": "Es una reconocida actriz y cantante.",
+    "OpcionesRespuestas": ["China Suárez", "Lali Espósito", "Natalia Oreiro"]
+  },
+  {
+    "Texto": "¿Cuál es el nombre del evento musical argentino que se celebra en Villa María?",
+    "RespuestaCorrecta": "Festival Internacional de Peñas",
+    "Dificultad": "Media",
+    "Pista": "Es uno de los festivales más importantes del interior del país.",
+    "OpcionesRespuestas": [
+      "Cosquín Rock",
+      "Festival Internacional de Peñas",
+      "Lollapalooza Argentina"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso dibujante argentino creó el personaje de Mafalda?",
+    "RespuestaCorrecta": "Quino",
+    "Dificultad": "Media",
+    "Pista": "Su verdadero nombre es Joaquín Salvador Lavado.",
+    "OpcionesRespuestas": ["Quino", "Caloi", "Nik"]
+  },
+  {
+    "Texto": "¿Qué escritor argentino escribió el cuento 'Casa tomada'?",
+    "RespuestaCorrecta": "Julio Cortázar",
+    "Dificultad": "Dificil",
+    "Pista": "Es uno de los autores más importantes de la literatura argentina.",
+    "OpcionesRespuestas": [
+      "Julio Cortázar",
+      "Jorge Luis Borges",
+      "Adolfo Bioy Casares"
+    ]
+  },
+  {
+    "Texto": "¿Qué músico argentino es conocido por su apodo 'El Flaco'?",
+    "RespuestaCorrecta": "Luis Alberto Spinetta",
+    "Dificultad": "Dificil",
+    "Pista": "Fue el líder de las bandas Almendra y Spinetta Jade.",
+    "OpcionesRespuestas": [
+      "Luis Alberto Spinetta",
+      "Charly García",
+      "Fito Páez"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso boxeador argentino es conocido por su apodo 'La Cobra'?",
+    "RespuestaCorrecta": "Santos Laciar",
+    "Dificultad": "Dificil",
+    "Pista": "Fue campeón mundial en dos categorías de peso.",
+    "OpcionesRespuestas": ["Santos Laciar", "Carlos Monzón", "Marcos Maidana"]
+  },
+  {
+    "Texto": "¿Qué cantante argentino es conocido por su estilo de cumbia villera y la canción 'Los dueños del pabellón'?",
+    "RespuestaCorrecta": "Pablo Lescano",
+    "Dificultad": "Dificil",
+    "Pista": "Es el líder de la banda Damas Gratis.",
+    "OpcionesRespuestas": ["Pablo Lescano", "El Polaco", "Rodrigo"]
+  },
+  {
+    "Texto": "¿Qué deportista argentino es conocido como 'El Toro' y ha jugado en equipos como Racing Club y la selección nacional?",
+    "RespuestaCorrecta": "Lautaro Martínez",
+    "Dificultad": "Facil",
+    "Pista": "Es un delantero muy reconocido en el fútbol internacional.",
+    "OpcionesRespuestas": ["Lautaro Martínez", "Sergio Agüero", "Paulo Dybala"]
+  },
+  {
+    "Texto": "¿Qué ciudad argentina es famosa por la Fiesta Nacional del Chocolate durante Semana Santa?",
+    "RespuestaCorrecta": "Bariloche",
+    "Dificultad": "Facil",
+    "Pista": "Es una ciudad turística ubicada en la región de los lagos.",
+    "OpcionesRespuestas": ["Bariloche", "Mendoza", "Córdoba"]
+  },
+  {
+    "Texto": "¿Qué baile tradicional argentino es reconocido mundialmente y se originó en Buenos Aires?",
+    "RespuestaCorrecta": "Tango",
+    "Dificultad": "Facil",
+    "Pista": "Es conocido por sus movimientos apasionados y elegantes.",
+    "OpcionesRespuestas": ["Tango", "Samba", "Chacarera"]
+  },
+  {
+    "Texto": "¿Qué famoso monumento en Buenos Aires es considerado un símbolo de la ciudad y de Argentina?",
+    "RespuestaCorrecta": "Obelisco",
+    "Dificultad": "Facil",
+    "Pista": "Se encuentra en la intersección de la Avenida 9 de Julio y Corrientes.",
+    "OpcionesRespuestas": ["Obelisco", "Casa Rosada", "Catedral Metropolitana"]
+  },
+  {
+    "Texto": "¿Qué artista argentino es conocido por la canción 'Llueve sobre mojado' junto a Joaquín Sabina?",
+    "RespuestaCorrecta": "Fito Páez",
+    "Dificultad": "Media",
+    "Pista": "Es uno de los músicos más influyentes del rock en español.",
+    "OpcionesRespuestas": ["Fito Páez", "Charly García", "Andrés Calamaro"]
+  },
+  {
+    "Texto": "¿Qué provincia argentina es famosa por su producción de yerba mate?",
+    "RespuestaCorrecta": "Misiones",
+    "Dificultad": "Media",
+    "Pista": "Se encuentra en la región del nordeste argentino.",
+    "OpcionesRespuestas": ["Misiones", "Corrientes", "Formosa"]
+  },
+  {
+    "Texto": "¿Qué famoso chef argentino es conocido por su programa 'Un pequeño gran chef'?",
+    "RespuestaCorrecta": "Donato De Santis",
+    "Dificultad": "Media",
+    "Pista": "Es también jurado en MasterChef Argentina.",
+    "OpcionesRespuestas": [
+      "Donato De Santis",
+      "Germán Martitegui",
+      "Mauro Colagreco"
+    ]
+  },
+  {
+    "Texto": "¿Qué cantante y actriz argentina es conocida por sus papeles en 'Casi Ángeles' y 'Esperanza mía'?",
+    "RespuestaCorrecta": "Lali Espósito",
+    "Dificultad": "Media",
+    "Pista": "Es una de las artistas jóvenes más populares en Argentina.",
+    "OpcionesRespuestas": ["Lali Espósito", "Tini Stoessel", "China Suárez"]
+  },
+  {
+    "Texto": "¿Qué escritor argentino escribió la novela 'Sobre héroes y tumbas'?",
+    "RespuestaCorrecta": "Ernesto Sabato",
+    "Dificultad": "Dificil",
+    "Pista": "Es una de las figuras más importantes de la literatura argentina del siglo XX.",
+    "OpcionesRespuestas": [
+      "Ernesto Sabato",
+      "Julio Cortázar",
+      "Adolfo Bioy Casares"
+    ]
+  },
+  {
+    "Texto": "¿Qué actor argentino es conocido por su papel en la película 'Relatos Salvajes'?",
+    "RespuestaCorrecta": "Ricardo Darín",
+    "Dificultad": "Dificil",
+    "Pista": "Es uno de los actores más reconocidos de Argentina.",
+    "OpcionesRespuestas": [
+      "Ricardo Darín",
+      "Leonardo Sbaraglia",
+      "Darío Grandinetti"
+    ]
+  },
+  {
+    "Texto": "¿Qué deportista argentino es conocido por haber ganado el Torneo de Roland Garros en 1977?",
+    "RespuestaCorrecta": "Guillermo Vilas",
+    "Dificultad": "Dificil",
+    "Pista": "Es uno de los tenistas más importantes de Argentina.",
+    "OpcionesRespuestas": [
+      "Guillermo Vilas",
+      "David Nalbandian",
+      "Juan Martín del Potro"
+    ]
+  },
+  {
+    "Texto": "¿Qué cantante argentino es conocido por sus éxitos 'Zamba para olvidar' y 'Al jardín de la república'?",
+    "RespuestaCorrecta": "Mercedes Sosa",
+    "Dificultad": "Dificil",
+    "Pista": "Es una de las voces más importantes del folklore argentino.",
+    "OpcionesRespuestas": [
+      "Mercedes Sosa",
+      "Atahualpa Yupanqui",
+      "Jorge Cafrune"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso músico argentino es conocido por liderar la banda 'Soda Stereo'?",
+    "RespuestaCorrecta": "Gustavo Cerati",
+    "Dificultad": "Facil",
+    "Pista": "Es considerado uno de los músicos más influyentes del rock latinoamericano.",
+    "OpcionesRespuestas": ["Gustavo Cerati", "Charly García", "Andrés Calamaro"]
+  },
+  {
+    "Texto": "¿Cuál es el nombre de la plaza principal ubicada en el centro histórico de Buenos Aires?",
+    "RespuestaCorrecta": "Plaza de Mayo",
+    "Dificultad": "Facil",
+    "Pista": "Es el lugar de importantes eventos históricos y políticos de Argentina.",
+    "OpcionesRespuestas": [
+      "Plaza de Mayo",
+      "Plaza San Martín",
+      "Plaza Congreso"
+    ]
+  },
+  {
+    "Texto": "¿Qué ciudad argentina es conocida por su festival internacional de cine?",
+    "RespuestaCorrecta": "Mar del Plata",
+    "Dificultad": "Facil",
+    "Pista": "Es uno de los eventos cinematográficos más importantes de América Latina.",
+    "OpcionesRespuestas": ["Mar del Plata", "Buenos Aires", "Córdoba"]
+  },
+  {
+    "Texto": "¿Qué famoso escritor argentino escribió la novela 'El túnel'?",
+    "RespuestaCorrecta": "Ernesto Sabato",
+    "Dificultad": "Facil",
+    "Pista": "Es una obra clave de la literatura argentina contemporánea.",
+    "OpcionesRespuestas": [
+      "Ernesto Sabato",
+      "Jorge Luis Borges",
+      "Julio Cortázar"
+    ]
+  },
+  {
+    "Texto": "¿Qué actriz argentina es conocida por su papel en la serie 'Los Simuladores'?",
+    "RespuestaCorrecta": "Alejandra Flechner",
+    "Dificultad": "Media",
+    "Pista": "Es una reconocida actriz de teatro, cine y televisión.",
+    "OpcionesRespuestas": [
+      "Alejandra Flechner",
+      "Nancy Dupláa",
+      "Mercedes Morán"
+    ]
+  },
+  {
+    "Texto": "¿Qué deportista argentino es conocido por haber ganado el oro olímpico en fútbol en los Juegos Olímpicos de Atenas 2004?",
+    "RespuestaCorrecta": "Carlos Tévez",
+    "Dificultad": "Media",
+    "Pista": "Es conocido por su apodo 'El Apache'.",
+    "OpcionesRespuestas": ["Carlos Tévez", "Lionel Messi", "Sergio Agüero"]
+  },
+  {
+    "Texto": "¿Qué famoso personaje de historieta argentina es conocido por su humor políticamente incorrecto?",
+    "RespuestaCorrecta": "Mafalda",
+    "Dificultad": "Media",
+    "Pista": "Fue creado por el dibujante Quino.",
+    "OpcionesRespuestas": ["Mafalda", "Isidoro Cañones", "Clemente"]
+  },
+  {
+    "Texto": "¿Qué actor argentino protagonizó la película 'El secreto de sus ojos'?",
+    "RespuestaCorrecta": "Ricardo Darín",
+    "Dificultad": "Media",
+    "Pista": "Es uno de los actores más reconocidos de Argentina.",
+    "OpcionesRespuestas": [
+      "Ricardo Darín",
+      "Guillermo Francella",
+      "Leonardo Sbaraglia"
+    ]
+  },
+  {
+    "Texto": "¿Qué escritor argentino es conocido por su obra 'El Aleph'?",
+    "RespuestaCorrecta": "Jorge Luis Borges",
+    "Dificultad": "Dificil",
+    "Pista": "Es considerado uno de los más grandes escritores de habla hispana del siglo XX.",
+    "OpcionesRespuestas": [
+      "Jorge Luis Borges",
+      "Julio Cortázar",
+      "Adolfo Bioy Casares"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso guitarrista argentino es conocido por su trabajo con la banda 'Pappo's Blues'?",
+    "RespuestaCorrecta": "Pappo",
+    "Dificultad": "Dificil",
+    "Pista": "Es considerado uno de los padres del rock argentino.",
+    "OpcionesRespuestas": ["Pappo", "Charly García", "Luis Alberto Spinetta"]
+  },
+  {
+    "Texto": "¿Qué famoso cómico argentino es conocido por su personaje 'Olmedo'?",
+    "RespuestaCorrecta": "Alberto Olmedo",
+    "Dificultad": "Dificil",
+    "Pista": "Fue uno de los comediantes más queridos de Argentina.",
+    "OpcionesRespuestas": ["Alberto Olmedo", "Francella", "Pepe Biondi"]
+  },
+  {
+    "Texto": "¿Qué cantante argentina es conocida como 'La Negra' y es una de las máximas exponentes del folklore?",
+    "RespuestaCorrecta": "Mercedes Sosa",
+    "Dificultad": "Dificil",
+    "Pista": "Es reconocida internacionalmente por su voz y compromiso social.",
+    "OpcionesRespuestas": [
+      "Mercedes Sosa",
+      "Chavela Vargas",
+      "Atahualpa Yupanqui"
+    ]
+  }
+]

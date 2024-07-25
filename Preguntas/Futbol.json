@@ -1,0 +1,380 @@
+[
+  {
+    "Texto": "¿Quién es conocido como 'La Pulga' en el fútbol?",
+    "RespuestaCorrecta": "Lionel Messi",
+    "Dificultad": "Facil",
+    "Pista": "Es un jugador argentino.",
+    "OpcionesRespuestas": ["Cristiano Ronaldo", "Lionel Messi", "Neymar"]
+  },
+  {
+    "Texto": "¿En qué país se encuentra el estadio Maracaná?",
+    "RespuestaCorrecta": "Brasil",
+    "Dificultad": "Facil",
+    "Pista": "Está en un país sudamericano.",
+    "OpcionesRespuestas": ["Brasil", "Argentina", "Uruguay"]
+  },
+  {
+    "Texto": "¿Qué equipo ganó la Champions League en 2020?",
+    "RespuestaCorrecta": "Bayern Múnich",
+    "Dificultad": "Facil",
+    "Pista": "Es un equipo alemán.",
+    "OpcionesRespuestas": ["Bayern Múnich", "Real Madrid", "Manchester City"]
+  },
+  {
+    "Texto": "¿Cuál es el equipo de fútbol más exitoso en Argentina?",
+    "RespuestaCorrecta": "River Plate",
+    "Dificultad": "Facil",
+    "Pista": "Su estadio se llama Monumental.",
+    "OpcionesRespuestas": ["Boca Juniors", "River Plate", "Independiente"]
+  },
+  {
+    "Texto": "¿Qué jugador es conocido como 'El Fenómeno'?",
+    "RespuestaCorrecta": "Ronaldo Nazário",
+    "Dificultad": "Facil",
+    "Pista": "Es un jugador brasileño.",
+    "OpcionesRespuestas": ["Ronaldinho", "Pelé", "Ronaldo Nazário"]
+  },
+  {
+    "Texto": "¿En qué año ganó España la Copa del Mundo?",
+    "RespuestaCorrecta": "2010",
+    "Dificultad": "Facil",
+    "Pista": "Fue en Sudáfrica.",
+    "OpcionesRespuestas": ["2010", "2006", "2014"]
+  },
+  {
+    "Texto": "¿Quién es el máximo goleador de la historia de la Champions League?",
+    "RespuestaCorrecta": "Cristiano Ronaldo",
+    "Dificultad": "Facil",
+    "Pista": "Es portugués.",
+    "OpcionesRespuestas": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Robert Lewandowski"
+    ]
+  },
+  {
+    "Texto": "¿Qué selección ganó la Copa América 2021?",
+    "RespuestaCorrecta": "Argentina",
+    "Dificultad": "Facil",
+    "Pista": "El equipo de Lionel Messi.",
+    "OpcionesRespuestas": ["Brasil", "Argentina", "Uruguay"]
+  },
+  {
+    "Texto": "¿Qué jugador es conocido como 'El Pibe de Oro'?",
+    "RespuestaCorrecta": "Diego Maradona",
+    "Dificultad": "Facil",
+    "Pista": "Es un ícono del fútbol argentino.",
+    "OpcionesRespuestas": [
+      "Lionel Messi",
+      "Diego Maradona",
+      "Gabriel Batistuta"
+    ]
+  },
+  {
+    "Texto": "¿En qué país se jugó la Copa del Mundo de 2018?",
+    "RespuestaCorrecta": "Rusia",
+    "Dificultad": "Facil",
+    "Pista": "Es el país más grande del mundo.",
+    "OpcionesRespuestas": ["Brasil", "Rusia", "Qatar"]
+  },
+  {
+    "Texto": "¿Quién es conocido como 'El Rey del Fútbol'?",
+    "RespuestaCorrecta": "Pelé",
+    "Dificultad": "Facil",
+    "Pista": "Es un jugador brasileño.",
+    "OpcionesRespuestas": ["Zico", "Pelé", "Romário"]
+  },
+  {
+    "Texto": "¿Cuál es el equipo de fútbol más exitoso en España?",
+    "RespuestaCorrecta": "Real Madrid",
+    "Dificultad": "Facil",
+    "Pista": "Su estadio es el Santiago Bernabéu.",
+    "OpcionesRespuestas": ["Real Madrid", "Barcelona", "Atlético Madrid"]
+  },
+  {
+    "Texto": "¿En qué año ganó Francia su primer Mundial de fútbol?",
+    "RespuestaCorrecta": "1998",
+    "Dificultad": "Facil",
+    "Pista": "Fue en el siglo XX.",
+    "OpcionesRespuestas": ["2018", "2002", "1998"]
+  },
+  {
+    "Texto": "¿Qué jugador es conocido como 'El Principito'?",
+    "RespuestaCorrecta": "Antoine Griezmann",
+    "Dificultad": "Facil",
+    "Pista": "Es un jugador francés.",
+    "OpcionesRespuestas": [
+      "Kylian Mbappé",
+      "Antoine Griezmann",
+      "Karim Benzema"
+    ]
+  },
+  {
+    "Texto": "¿Qué selección ha ganado más Copas del Mundo?",
+    "RespuestaCorrecta": "Brasil",
+    "Dificultad": "Facil",
+    "Pista": "Tiene 5 títulos mundiales.",
+    "OpcionesRespuestas": ["Brasil", "Alemania", "Italia"]
+  },
+  {
+    "Texto": "¿En qué club comenzó su carrera profesional Lionel Messi?",
+    "RespuestaCorrecta": "Barcelona",
+    "Dificultad": "Facil",
+    "Pista": "Es un club español.",
+    "OpcionesRespuestas": [
+      "Newell's Old Boys",
+      "Barcelona",
+      "Paris Saint-Germain"
+    ]
+  },
+  {
+    "Texto": "¿Quién es conocido como 'El Tigre' en el fútbol?",
+    "RespuestaCorrecta": "Radamel Falcao",
+    "Dificultad": "Facil",
+    "Pista": "Es un jugador colombiano.",
+    "OpcionesRespuestas": ["Carlos Bacca", "James Rodríguez", "Radamel Falcao"]
+  },
+  {
+    "Texto": "¿En qué país se encuentra el estadio Camp Nou?",
+    "RespuestaCorrecta": "España",
+    "Dificultad": "Facil",
+    "Pista": "Es el estadio del Barcelona.",
+    "OpcionesRespuestas": ["España", "Italia", "Francia"]
+  },
+  {
+    "Texto": "¿Qué equipo ganó la Copa Libertadores en 2018?",
+    "RespuestaCorrecta": "River Plate",
+    "Dificultad": "Facil",
+    "Pista": "Le ganó a su clásico rival en la final.",
+    "OpcionesRespuestas": ["Boca Juniors", "River Plate", "Gremio"]
+  },
+  {
+    "Texto": "¿Qué selección ganó la Eurocopa 2016?",
+    "RespuestaCorrecta": "Portugal",
+    "Dificultad": "Facil",
+    "Pista": "Su capitán es Cristiano Ronaldo.",
+    "OpcionesRespuestas": ["Alemania", "Francia", "Portugal"]
+  },
+  {
+    "Texto": "¿Cuál fue el primer equipo europeo en ganar la Copa Libertadores?",
+    "RespuestaCorrecta": "Ninguno",
+    "Dificultad": "Media",
+    "Pista": "Es un torneo sudamericano.",
+    "OpcionesRespuestas": ["Real Madrid", "Ninguno", "Barcelona"]
+  },
+  {
+    "Texto": "¿Qué equipo de la Premier League es conocido como 'The Red Devils'?",
+    "RespuestaCorrecta": "Manchester United",
+    "Dificultad": "Media",
+    "Pista": "Es el equipo más exitoso de Inglaterra.",
+    "OpcionesRespuestas": ["Arsenal", "Chelsea", "Manchester United"]
+  },
+  {
+    "Texto": "¿En qué año se fundó el FC Barcelona?",
+    "RespuestaCorrecta": "1899",
+    "Dificultad": "Media",
+    "Pista": "Fue en el siglo XIX.",
+    "OpcionesRespuestas": ["1899", "1902", "1910"]
+  },
+  {
+    "Texto": "¿Qué jugador ganó el Balón de Oro en 1998?",
+    "RespuestaCorrecta": "Zinedine Zidane",
+    "Dificultad": "Media",
+    "Pista": "Es un jugador francés.",
+    "OpcionesRespuestas": ["Zinedine Zidane", "Ronaldo Nazário", "Luis Figo"]
+  },
+  {
+    "Texto": "¿Cuál fue el primer equipo en ganar la Champions League bajo su nombre actual?",
+    "RespuestaCorrecta": "Olympique de Marsella",
+    "Dificultad": "Media",
+    "Pista": "Es un equipo francés.",
+    "OpcionesRespuestas": ["AC Milan", "Olympique de Marsella", "Ajax"]
+  },
+  {
+    "Texto": "¿En qué estadio se jugó la final del Mundial de 2014?",
+    "RespuestaCorrecta": "Maracaná",
+    "Dificultad": "Media",
+    "Pista": "Está en Brasil.",
+    "OpcionesRespuestas": ["Maracaná", "Estadio Azteca", "Santiago Bernabéu"]
+  },
+  {
+    "Texto": "¿Qué equipo tiene el apodo de 'Los Millonarios'?",
+    "RespuestaCorrecta": "River Plate",
+    "Dificultad": "Media",
+    "Pista": "Es un equipo argentino.",
+    "OpcionesRespuestas": ["River Plate", "Boca Juniors", "San Lorenzo"]
+  },
+  {
+    "Texto": "¿En qué año ganó Italia su último Mundial?",
+    "RespuestaCorrecta": "2006",
+    "Dificultad": "Media",
+    "Pista": "Fue en Alemania.",
+    "OpcionesRespuestas": ["2006", "1982", "1994"]
+  },
+  {
+    "Texto": "¿Qué jugador es conocido como 'El Niño'?",
+    "RespuestaCorrecta": "Fernando Torres",
+    "Dificultad": "Media",
+    "Pista": "Es un jugador español.",
+    "OpcionesRespuestas": ["David Villa", "Fernando Torres", "Raúl"]
+  },
+  {
+    "Texto": "¿Qué selección ganó la primera edición de la Copa del Mundo en 1930?",
+    "RespuestaCorrecta": "Uruguay",
+    "Dificultad": "Media",
+    "Pista": "El torneo se jugó en su país.",
+    "OpcionesRespuestas": ["Argentina", "Brasil", "Uruguay"]
+  },
+  {
+    "Texto": "¿Quién es el máximo goleador histórico del Real Madrid?",
+    "RespuestaCorrecta": "Cristiano Ronaldo",
+    "Dificultad": "Media",
+    "Pista": "Es portugués.",
+    "OpcionesRespuestas": ["Raúl", "Cristiano Ronaldo", "Alfredo Di Stéfano"]
+  },
+  {
+    "Texto": "¿En qué año ganó Brasil su primer Mundial de fútbol?",
+    "RespuestaCorrecta": "1958",
+    "Dificultad": "Media",
+    "Pista": "Fue en Suecia.",
+    "OpcionesRespuestas": ["1962", "1950", "1958"]
+  },
+  {
+    "Texto": "¿Qué club ganó la Copa Libertadores en 2019?",
+    "RespuestaCorrecta": "Flamengo",
+    "Dificultad": "Media",
+    "Pista": "Es un equipo brasileño.",
+    "OpcionesRespuestas": ["River Plate", "Boca Juniors", "Flamengo"]
+  },
+  {
+    "Texto": "¿Qué selección ganó la Eurocopa 2004?",
+    "RespuestaCorrecta": "Grecia",
+    "Dificultad": "Media",
+    "Pista": "Fue una sorpresa en la final contra Portugal.",
+    "OpcionesRespuestas": ["Grecia", "Portugal", "España"]
+  },
+  {
+    "Texto": "¿Cuál fue el resultado de la final del Mundial 1950 entre Brasil y Uruguay?",
+    "RespuestaCorrecta": "2-1 a favor de Uruguay",
+    "Dificultad": "Media",
+    "Pista": "Se conoce como el 'Maracanazo'.",
+    "OpcionesRespuestas": [
+      "2-1 a favor de Uruguay",
+      "2-1 a favor de Brasil",
+      "1-1"
+    ]
+  },
+  {
+    "Texto": "¿En qué club jugó la mayor parte de su carrera Francesco Totti?",
+    "RespuestaCorrecta": "AS Roma",
+    "Dificultad": "Media",
+    "Pista": "Es un club italiano.",
+    "OpcionesRespuestas": ["AC Milan", "AS Roma", "Juventus"]
+  },
+  {
+    "Texto": "¿Qué jugador argentino es conocido como 'El Matador'?",
+    "RespuestaCorrecta": "Mario Kempes",
+    "Dificultad": "Media",
+    "Pista": "Fue el máximo goleador del Mundial 1978.",
+    "OpcionesRespuestas": ["Gabriel Batistuta", "Mario Kempes", "Hernán Crespo"]
+  },
+  {
+    "Texto": "¿En qué país se encuentra el estadio Old Trafford?",
+    "RespuestaCorrecta": "Inglaterra",
+    "Dificultad": "Media",
+    "Pista": "Es el estadio del Manchester United.",
+    "OpcionesRespuestas": ["Inglaterra", "España", "Francia"]
+  },
+  {
+    "Texto": "¿Qué entrenador ganó la Champions League con el Inter de Milán en 2010?",
+    "RespuestaCorrecta": "José Mourinho",
+    "Dificultad": "Media",
+    "Pista": "Es conocido como 'The Special One'.",
+    "OpcionesRespuestas": ["José Mourinho", "Pep Guardiola", "Carlo Ancelotti"]
+  },
+  {
+    "Texto": "¿Cuál es el equipo más exitoso de la historia de la Copa Libertadores?",
+    "RespuestaCorrecta": "Independiente",
+    "Dificultad": "Media",
+    "Pista": "Es un equipo argentino.",
+    "OpcionesRespuestas": ["Boca Juniors", "Independiente", "River Plate"]
+  },
+  {
+    "Texto": "¿Qué jugador ha ganado más Copas del Mundo?",
+    "RespuestaCorrecta": "Pelé",
+    "Dificultad": "Dificil",
+    "Pista": "Ganó 3 mundiales con Brasil.",
+    "OpcionesRespuestas": ["Pelé", "Diego Maradona", "Zinedine Zidane"]
+  },
+  {
+    "Texto": "¿En qué año se fundó el club Santos FC?",
+    "RespuestaCorrecta": "1912",
+    "Dificultad": "Dificil",
+    "Pista": "Fue a principios del siglo XX.",
+    "OpcionesRespuestas": ["1908", "1912", "1920"]
+  },
+  {
+    "Texto": "¿Quién fue el entrenador del Barcelona durante la temporada del sextete en 2009?",
+    "RespuestaCorrecta": "Pep Guardiola",
+    "Dificultad": "Dificil",
+    "Pista": "Es un exjugador del Barcelona.",
+    "OpcionesRespuestas": ["Frank Rijkaard", "Pep Guardiola", "Luis Enrique"]
+  },
+  {
+    "Texto": "¿Qué jugador marcó el gol más rápido en la historia de los Mundiales?",
+    "RespuestaCorrecta": "Hakan Şükür",
+    "Dificultad": "Dificil",
+    "Pista": "Lo hizo en el Mundial 2002.",
+    "OpcionesRespuestas": ["Hakan Şükür", "Cristiano Ronaldo", "Miroslav Klose"]
+  },
+  {
+    "Texto": "¿Cuál fue el primer club en ganar la Copa de Europa (hoy Champions League)?",
+    "RespuestaCorrecta": "Real Madrid",
+    "Dificultad": "Dificil",
+    "Pista": "Lo ganó en 1956.",
+    "OpcionesRespuestas": ["Real Madrid", "Benfica", "AC Milan"]
+  },
+  {
+    "Texto": "¿Qué jugador tiene el récord de más goles en un solo Mundial?",
+    "RespuestaCorrecta": "Just Fontaine",
+    "Dificultad": "Dificil",
+    "Pista": "Es un jugador francés.",
+    "OpcionesRespuestas": ["Ronaldo Nazário", "Just Fontaine", "Gerd Müller"]
+  },
+  {
+    "Texto": "¿En qué año se jugó la primera final de la Copa Libertadores?",
+    "RespuestaCorrecta": "1960",
+    "Dificultad": "Dificil",
+    "Pista": "Fue en la década de 1960.",
+    "OpcionesRespuestas": ["1955", "1960", "1965"]
+  },
+  {
+    "Texto": "¿Qué jugador argentino es conocido por su apodo 'El Burrito'?",
+    "RespuestaCorrecta": "Ariel Ortega",
+    "Dificultad": "Dificil",
+    "Pista": "Jugó en River Plate.",
+    "OpcionesRespuestas": [
+      "Juan Román Riquelme",
+      "Ariel Ortega",
+      "Hernán Crespo"
+    ]
+  },
+  {
+    "Texto": "¿En qué país se encuentra el club Peñarol?",
+    "RespuestaCorrecta": "Uruguay",
+    "Dificultad": "Dificil",
+    "Pista": "Es un país sudamericano.",
+    "OpcionesRespuestas": ["Argentina", "Chile", "Uruguay"]
+  },
+  {
+    "Texto": "¿Quién fue el máximo goleador de la Copa Mundial de la FIFA 1986?",
+    "RespuestaCorrecta": "Gary Lineker",
+    "Dificultad": "Dificil",
+    "Pista": "Es un jugador inglés.",
+    "OpcionesRespuestas": [
+      "Diego Maradona",
+      "Gary Lineker",
+      "Karl-Heinz Rummenigge"
+    ]
+  }
+]
