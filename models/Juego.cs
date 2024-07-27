@@ -16,10 +16,10 @@ namespace EspacioJuego
     public class Juego
     {
         //Atributos------------------------------
-        public List<Pregunta> Preguntas { get; set; }
-        public Personaje Jugador1 { get; set; }
-        public Personaje Jugador2 { get; set; }
-        public int TurnoActual { get; set; }
+        private List<Pregunta> Preguntas { get; set; }
+        private Personaje Jugador1 { get; set; }
+        private Personaje Jugador2 { get; set; }
+        private int TurnoActual { get; set; }
         private string ModeloIA {get;set;}
         private string[] ModelosDisponibles = ["gpt-3.5-turbo", "gpt-4o"];
         //---------------------------------------
@@ -32,7 +32,7 @@ namespace EspacioJuego
         //---------------------------------------
 
         //Metodos--------------------------------
-        public void IniciarJuego()
+        private void IniciarJuego()
         {
             InicializarJugadores();
             ElegirTema();
@@ -40,7 +40,7 @@ namespace EspacioJuego
             IniciarDuelo().Wait();
             FinDelJuego();
         }
-        public void FinDelJuego()
+        private void FinDelJuego()
         {
             Personaje ganador = null;
             if (!QuedanPreguntas() || !Jugador1.EstaVivo() || !Jugador2.EstaVivo())
@@ -58,7 +58,7 @@ namespace EspacioJuego
             }
             Menu.MostrarMensaje(">>>>>>>>>>> Fin del Duelo <<<<<<<<<<<<");
         }
-        public List<Pregunta> CargarPreguntasDesdeJson(string _ruta)
+        private List<Pregunta> CargarPreguntasDesdeJson(string _ruta)
         {
             try
             {
@@ -71,7 +71,7 @@ namespace EspacioJuego
                 return new List<Pregunta>();
             }
         }
-        public List<Pregunta> RetornarDosPreguntas(Dificultad _dificultadBuscada)
+        private List<Pregunta> RetornarDosPreguntas(Dificultad _dificultadBuscada)
         {
             List<Pregunta> preguntasFiltradas = Preguntas.Where(o => o.Dificultad == _dificultadBuscada).ToList();
             if (preguntasFiltradas.Count >= 2)
@@ -90,7 +90,7 @@ namespace EspacioJuego
                 return null;
             }
         }
-        public void InicializarJugadores()
+        private void InicializarJugadores()
         {
             int _cantidadDeJugadores = 1 + Menu.MostrarMenu("Eliga la cantidad de jugadores", ["Jugador 1 vs CHAT GPT", "Jugador 1 vs Jugador 2"]);
             Jugador1 = new Personaje(Ingresar.NombreJugador("Ingrese el nombre del Jugador 1"));
@@ -106,7 +106,7 @@ namespace EspacioJuego
             }
             Menu.MostrarMensaje($"Duelo: {Jugador1.Nombre} VS {Jugador2.Nombre}");
         }
-        public bool QuedanPreguntas()
+        private bool QuedanPreguntas()
         {
             if (Preguntas.Count > 0)
             {
@@ -117,7 +117,7 @@ namespace EspacioJuego
                 return false;
             }
         }
-        public void GuardarGanador(Personaje ganador, string rutaJson)
+        private void GuardarGanador(Personaje ganador, string rutaJson)
         {
             List<Ranking> rankingList = new List<Ranking>();
 
@@ -133,7 +133,7 @@ namespace EspacioJuego
             string nuevoJsonString = JsonSerializer.Serialize(rankingList, new JsonSerializerOptions { WriteIndented = true });
             File.WriteAllText(rutaJson, nuevoJsonString);
         }
-        public List<Ranking> CargarRankingDesdeJson(string _ruta)
+        private List<Ranking> CargarRankingDesdeJson(string _ruta)
         {
             try
             {
@@ -146,7 +146,7 @@ namespace EspacioJuego
                 return new List<Ranking>();
             }
         }
-        public void ElegirTema()
+        private void ElegirTema()
         {
             int tema = Menu.MostrarMenu("Elije el tema", ["Random", "Era Medieval","Futbol"]);
             switch (tema)
@@ -168,7 +168,7 @@ namespace EspacioJuego
                     break;
             }
         }
-        public void MenuBuclePrincipal()
+        private void MenuBuclePrincipal()
         {
             int opcion = 0;
             do
@@ -195,7 +195,7 @@ namespace EspacioJuego
                 }
             } while (opcion != 3);
         }
-        public void MostrarRanking()
+        private void MostrarRanking()
         {
             Console.Clear();
             Console.WriteLine(Menu.tituloPrincipal);
@@ -208,7 +208,7 @@ namespace EspacioJuego
             Console.WriteLine("Press key");
             Console.ReadKey();
         }
-        public async Task IniciarDuelo()
+        private async Task IniciarDuelo()
         {
             while (Jugador1.EstaVivo() && Jugador2.EstaVivo() && QuedanPreguntas())
             {
@@ -224,7 +224,7 @@ namespace EspacioJuego
                 }
             }
         }
-        public async Task<bool> RespuestaIA(Pregunta _pregunta)
+        private async Task<bool> RespuestaIA(Pregunta _pregunta)
         {
             var chatGPT = new ChatGPT(ModeloIA);
             Menu.MostrarMensaje($"Responde {Jugador2.Nombre}\n\nPregunta: {_pregunta.Texto}\n\n" + string.Join("\n", _pregunta.OpcionesRespuestas) + "\n");
@@ -280,7 +280,7 @@ namespace EspacioJuego
             Dificultad dificultadAleatoria = (Dificultad)dificultades.GetValue(indiceAleatorio);
             return dificultadAleatoria;
         }
-        public async Task TurnoJugador(Personaje _jugador, Personaje _enemigo)
+        private async Task TurnoJugador(Personaje _jugador, Personaje _enemigo)
         {
             Ataque ataqueElegido = null;
             List<Pregunta> preguntasTurno = null;
