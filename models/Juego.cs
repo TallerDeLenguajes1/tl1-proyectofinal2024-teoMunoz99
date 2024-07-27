@@ -34,7 +34,7 @@ namespace EspacioJuego
         //Metodos--------------------------------
         public void IniciarJuego()
         {
-            int cantJugadores = InicializarJugadores();
+            InicializarJugadores();
             ElegirTema();
             TurnoActual = new Random().Next(1, 3);
             IniciarDuelo().Wait();
@@ -90,7 +90,7 @@ namespace EspacioJuego
                 return null;
             }
         }
-        public int InicializarJugadores()
+        public void InicializarJugadores()
         {
             int _cantidadDeJugadores = 1 + Menu.MostrarMenu("Eliga la cantidad de jugadores", ["Jugador 1 vs CHAT GPT", "Jugador 1 vs Jugador 2"]);
             Jugador1 = new Personaje(Ingresar.NombreJugador("Ingrese el nombre del Jugador 1"));
@@ -105,7 +105,6 @@ namespace EspacioJuego
                 Jugador2 = new Personaje(ModeloIA, true);
             }
             Menu.MostrarMensaje($"Duelo: {Jugador1.Nombre} VS {Jugador2.Nombre}");
-            return _cantidadDeJugadores;
         }
         public bool QuedanPreguntas()
         {
