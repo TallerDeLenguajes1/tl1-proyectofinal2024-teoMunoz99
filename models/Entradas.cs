@@ -3,7 +3,7 @@ namespace EspacioEntradas
     public static class Ingresar
     {
 
-        public static int Entero()
+        private static int Entero()
         {
             string num;
             int numeroIngresado;
@@ -22,7 +22,7 @@ namespace EspacioEntradas
             } while (!bandera);
             return numeroIngresado;
         }
-        public static string Cadena()
+        private static string Cadena()
         {
             string texto;
             do

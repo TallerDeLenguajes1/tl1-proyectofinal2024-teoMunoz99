@@ -20,7 +20,7 @@ namespace EspacioJuego
         private Personaje Jugador1 { get; set; }
         private Personaje Jugador2 { get; set; }
         private int TurnoActual { get; set; }
-        private string ModeloIA {get;set;}
+        private string ModeloIA { get; set; }
         private string[] ModelosDisponibles = ["gpt-3.5-turbo", "gpt-4o"];
         //---------------------------------------
 
@@ -148,7 +148,7 @@ namespace EspacioJuego
         }
         private void ElegirTema()
         {
-            int tema = Menu.MostrarMenu("Elije el tema", ["Random", "Era Medieval","Futbol"]);
+            int tema = Menu.MostrarMenu("Elije el tema", ["Random", "Internet/Memes/Youtubers...", "Argentina", "Futbol", "Era Medieval"]);
             switch (tema)
             {
                 case 0:
@@ -156,12 +156,20 @@ namespace EspacioJuego
                     Preguntas = CargarPreguntasDesdeJson(rutaPreguntasRandom);
                     break;
                 case 1:
-                    string rutaPreguntasEraMedieval = "./Preguntas/Medieval.json";
-                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasEraMedieval);
+                    string rutaPreguntasInternet = "./Preguntas/Random.json";
+                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasInternet);
                     break;
                 case 2:
+                    string rutaPreguntasArg = "./Preguntas/Random.json";
+                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasArg);
+                    break;
+                case 3:
                     string rutaPreguntasFutbol = "./Preguntas/Futbol.json";
                     Preguntas = CargarPreguntasDesdeJson(rutaPreguntasFutbol);
+                    break;
+                case 4:
+                    string rutaPreguntasEraMedieval = "./Preguntas/Medieval.json";
+                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasEraMedieval);
                     break;
                 default:
                     Menu.MostrarMensaje("Opcion incorrecta");

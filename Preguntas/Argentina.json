@@ -1,0 +1,362 @@
+[
+  {
+    "Texto": "¿Quién fue el primer presidente de Argentina?",
+    "RespuestaCorrecta": "Bernardino Rivadavia",
+    "Dificultad": "Medio",
+    "Pista": "Fue elegido en 1826.",
+    "OpcionesRespuestas": [
+      "Bernardino Rivadavia",
+      "Domingo Faustino Sarmiento",
+      "Juan Domingo Perón"
+    ]
+  },
+  {
+    "Texto": "¿En qué año se declaró la independencia de Argentina?",
+    "RespuestaCorrecta": "1816",
+    "Dificultad": "Facil",
+    "Pista": "Ocurrió en Tucumán.",
+    "OpcionesRespuestas": ["1816", "1810", "1820"]
+  },
+  {
+    "Texto": "¿Qué líder militar argentino es conocido como el 'Padre de la Patria'?",
+    "RespuestaCorrecta": "José de San Martín",
+    "Dificultad": "Facil",
+    "Pista": "Fue un general clave en la independencia sudamericana.",
+    "OpcionesRespuestas": [
+      "José de San Martín",
+      "Manuel Belgrano",
+      "Juan Manuel de Rosas"
+    ]
+  },
+  {
+    "Texto": "¿Qué provincia argentina es conocida por sus cataratas?",
+    "RespuestaCorrecta": "Misiones",
+    "Dificultad": "Facil",
+    "Pista": "Allí se encuentran las Cataratas del Iguazú.",
+    "OpcionesRespuestas": ["Misiones", "Salta", "Mendoza"]
+  },
+  {
+    "Texto": "¿Cuál es el deporte nacional de Argentina?",
+    "RespuestaCorrecta": "El pato",
+    "Dificultad": "Medio",
+    "Pista": "Es un deporte ecuestre tradicional.",
+    "OpcionesRespuestas": ["El pato", "El fútbol", "El rugby"]
+  },
+  {
+    "Texto": "¿Qué escritor argentino es autor de 'El Aleph'?",
+    "RespuestaCorrecta": "Jorge Luis Borges",
+    "Dificultad": "Facil",
+    "Pista": "Es uno de los escritores más reconocidos del país.",
+    "OpcionesRespuestas": [
+      "Jorge Luis Borges",
+      "Julio Cortázar",
+      "Adolfo Bioy Casares"
+    ]
+  },
+  {
+    "Texto": "¿Qué ciudad es la capital de la provincia de Córdoba?",
+    "RespuestaCorrecta": "Córdoba",
+    "Dificultad": "Facil",
+    "Pista": "Es una de las ciudades más grandes de Argentina.",
+    "OpcionesRespuestas": ["Córdoba", "Rosario", "Salta"]
+  },
+  {
+    "Texto": "¿Qué presidente argentino implementó el Plan Austral en 1985?",
+    "RespuestaCorrecta": "Raúl Alfonsín",
+    "Dificultad": "Medio",
+    "Pista": "Fue presidente entre 1983 y 1989.",
+    "OpcionesRespuestas": ["Raúl Alfonsín", "Carlos Menem", "Néstor Kirchner"]
+  },
+  {
+    "Texto": "¿Qué famoso músico argentino es conocido por la banda 'Soda Stereo'?",
+    "RespuestaCorrecta": "Gustavo Cerati",
+    "Dificultad": "Facil",
+    "Pista": "Es uno de los íconos del rock en español.",
+    "OpcionesRespuestas": [
+      "Gustavo Cerati",
+      "Charly García",
+      "Luis Alberto Spinetta"
+    ]
+  },
+  {
+    "Texto": "¿Qué escritora argentina ganó el Premio Nobel de la Paz en 1980?",
+    "RespuestaCorrecta": "Adolfo Pérez Esquivel",
+    "Dificultad": "Medio",
+    "Pista": "Es conocido por su trabajo en derechos humanos.",
+    "OpcionesRespuestas": [
+      "Adolfo Pérez Esquivel",
+      "Estela de Carlotto",
+      "Marta Minujín"
+    ]
+  },
+  {
+    "Texto": "¿Qué batalla significó el fin del dominio español en Argentina?",
+    "RespuestaCorrecta": "La Batalla de Ayacucho",
+    "Dificultad": "Medio",
+    "Pista": "Ocurrió en 1824 en el Perú.",
+    "OpcionesRespuestas": [
+      "La Batalla de Ayacucho",
+      "La Batalla de San Lorenzo",
+      "La Batalla de Chacabuco"
+    ]
+  },
+  {
+    "Texto": "¿Qué presidente argentino fue derrocado en el golpe militar de 1976?",
+    "RespuestaCorrecta": "Isabel Perón",
+    "Dificultad": "Medio",
+    "Pista": "Fue la primera mujer en asumir la presidencia en Argentina.",
+    "OpcionesRespuestas": ["Isabel Perón", "Arturo Frondizi", "Héctor Cámpora"]
+  },
+  {
+    "Texto": "¿Qué famosa pintora argentina es conocida por sus obras surrealistas?",
+    "RespuestaCorrecta": "Leonor Fini",
+    "Dificultad": "Medio",
+    "Pista": "Fue una artista de renombre internacional.",
+    "OpcionesRespuestas": ["Leonor Fini", "Marta Minujín", "Raquel Forner"]
+  },
+  {
+    "Texto": "¿Qué importante líder sindical argentino fundó la CGT en 1930?",
+    "RespuestaCorrecta": "Luis Gay",
+    "Dificultad": "Medio",
+    "Pista": "La CGT es la Confederación General del Trabajo.",
+    "OpcionesRespuestas": ["Luis Gay", "Juan Domingo Perón", "Agustín Tosco"]
+  },
+  {
+    "Texto": "¿En qué ciudad se firmó la Declaración de Independencia de Argentina?",
+    "RespuestaCorrecta": "San Miguel de Tucumán",
+    "Dificultad": "Facil",
+    "Pista": "Ocurrió en una provincia del noroeste del país.",
+    "OpcionesRespuestas": ["San Miguel de Tucumán", "Córdoba", "Buenos Aires"]
+  },
+  {
+    "Texto": "¿Qué famoso músico argentino es conocido como el 'Padre del Tango'?",
+    "RespuestaCorrecta": "Carlos Gardel",
+    "Dificultad": "Facil",
+    "Pista": "Es una leyenda del tango argentino.",
+    "OpcionesRespuestas": ["Carlos Gardel", "Astor Piazzolla", "Aníbal Troilo"]
+  },
+  {
+    "Texto": "¿Qué famoso poeta y novelista argentino escribió 'Martín Fierro'?",
+    "RespuestaCorrecta": "José Hernández",
+    "Dificultad": "Facil",
+    "Pista": "Es una obra clave de la literatura gauchesca.",
+    "OpcionesRespuestas": [
+      "José Hernández",
+      "Jorge Luis Borges",
+      "Leopoldo Lugones"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso músico argentino es conocido por su banda 'Patricio Rey y sus Redonditos de Ricota'?",
+    "RespuestaCorrecta": "Carlos 'Indio' Solari",
+    "Dificultad": "Facil",
+    "Pista": "Es una figura icónica del rock argentino.",
+    "OpcionesRespuestas": [
+      "Carlos 'Indio' Solari",
+      "Charly García",
+      "Luis Alberto Spinetta"
+    ]
+  },
+  {
+    "Texto": "¿Qué ciudad argentina es conocida como 'La Docta'?",
+    "RespuestaCorrecta": "Córdoba",
+    "Dificultad": "Medio",
+    "Pista": "Es conocida por sus universidades.",
+    "OpcionesRespuestas": ["Córdoba", "Rosario", "Mendoza"]
+  },
+  {
+    "Texto": "¿Quién fue el primer gobernador de Buenos Aires en la época colonial?",
+    "RespuestaCorrecta": "Juan de Garay",
+    "Dificultad": "Medio",
+    "Pista": "Fundó la ciudad en 1580.",
+    "OpcionesRespuestas": [
+      "Juan de Garay",
+      "Pedro de Mendoza",
+      "Martín de Álzaga"
+    ]
+  },
+  {
+    "Texto": "¿Qué provincia argentina es conocida como la 'Cuna de la Bandera'?",
+    "RespuestaCorrecta": "Santa Fe",
+    "Dificultad": "Medio",
+    "Pista": "La ciudad de Rosario en esta provincia es donde se izó por primera vez la bandera argentina.",
+    "OpcionesRespuestas": ["Santa Fe", "Buenos Aires", "Córdoba"]
+  },
+  {
+    "Texto": "¿Qué cantante argentino es conocido como el 'Zorzal Criollo'?",
+    "RespuestaCorrecta": "Carlos Gardel",
+    "Dificultad": "Facil",
+    "Pista": "Es una leyenda del tango.",
+    "OpcionesRespuestas": [
+      "Carlos Gardel",
+      "Atahualpa Yupanqui",
+      "Alberto Castillo"
+    ]
+  },
+  {
+    "Texto": "¿En qué año murió Eva Perón?",
+    "RespuestaCorrecta": "1952",
+    "Dificultad": "Medio",
+    "Pista": "Fue esposa de Juan Domingo Perón.",
+    "OpcionesRespuestas": ["1952", "1946", "1955"]
+  },
+  {
+    "Texto": "¿Qué científico argentino ganó el Premio Nobel de Química en 1970?",
+    "RespuestaCorrecta": "Luis Federico Leloir",
+    "Dificultad": "Medio",
+    "Pista": "Fue galardonado por sus descubrimientos sobre los nucleótidos de azúcar.",
+    "OpcionesRespuestas": [
+      "Luis Federico Leloir",
+      "César Milstein",
+      "Bernardo Houssay"
+    ]
+  },
+  {
+    "Texto": "¿Qué provincia argentina es famosa por sus viñedos?",
+    "RespuestaCorrecta": "Mendoza",
+    "Dificultad": "Facil",
+    "Pista": "Es una de las regiones vitivinícolas más importantes de Argentina.",
+    "OpcionesRespuestas": ["Mendoza", "San Juan", "La Rioja"]
+  },
+  {
+    "Texto": "¿Qué escritor argentino escribió 'Rayuela'?",
+    "RespuestaCorrecta": "Julio Cortázar",
+    "Dificultad": "Facil",
+    "Pista": "Es uno de los autores más influyentes de la literatura latinoamericana.",
+    "OpcionesRespuestas": [
+      "Julio Cortázar",
+      "Jorge Luis Borges",
+      "Adolfo Bioy Casares"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el nombre del teatro más famoso de Buenos Aires?",
+    "RespuestaCorrecta": "Teatro Colón",
+    "Dificultad": "Facil",
+    "Pista": "Es conocido por su acústica excepcional.",
+    "OpcionesRespuestas": [
+      "Teatro Colón",
+      "Teatro San Martín",
+      "Teatro Gran Rex"
+    ]
+  },
+  {
+    "Texto": "¿Qué general argentino lideró el Ejército de los Andes para liberar Chile y Perú?",
+    "RespuestaCorrecta": "José de San Martín",
+    "Dificultad": "Facil",
+    "Pista": "Es considerado uno de los libertadores de Sudamérica.",
+    "OpcionesRespuestas": [
+      "José de San Martín",
+      "Manuel Belgrano",
+      "Juan Martín de Pueyrredón"
+    ]
+  },
+  {
+    "Texto": "¿Qué famosa avenida de Buenos Aires es conocida por el Obelisco?",
+    "RespuestaCorrecta": "Avenida 9 de Julio",
+    "Dificultad": "Facil",
+    "Pista": "Es una de las avenidas más anchas del mundo.",
+    "OpcionesRespuestas": [
+      "Avenida 9 de Julio",
+      "Avenida Corrientes",
+      "Avenida de Mayo"
+    ]
+  },
+  {
+    "Texto": "¿Qué presidente argentino implementó el Plan Austral?",
+    "RespuestaCorrecta": "Raúl Alfonsín",
+    "Dificultad": "Medio",
+    "Pista": "Fue presidente entre 1983 y 1989.",
+    "OpcionesRespuestas": ["Raúl Alfonsín", "Carlos Menem", "Néstor Kirchner"]
+  },
+  {
+    "Texto": "¿Qué líder militar y político argentino fue conocido como el 'Restaurador de las Leyes'?",
+    "RespuestaCorrecta": "Juan Manuel de Rosas",
+    "Dificultad": "Medio",
+    "Pista": "Gobernó Buenos Aires con mano dura en el siglo XIX.",
+    "OpcionesRespuestas": [
+      "Juan Manuel de Rosas",
+      "Domingo Faustino Sarmiento",
+      "Bartolomé Mitre"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso jugador de fútbol argentino es conocido por la 'Mano de Dios'?",
+    "RespuestaCorrecta": "Diego Maradona",
+    "Dificultad": "Facil",
+    "Pista": "Es considerado uno de los mejores futbolistas de todos los tiempos.",
+    "OpcionesRespuestas": [
+      "Diego Maradona",
+      "Lionel Messi",
+      "Gabriel Batistuta"
+    ]
+  },
+  {
+    "Texto": "¿Qué provincia argentina es conocida por sus glaciares?",
+    "RespuestaCorrecta": "Santa Cruz",
+    "Dificultad": "Facil",
+    "Pista": "Allí se encuentra el famoso Glaciar Perito Moreno.",
+    "OpcionesRespuestas": ["Santa Cruz", "Chubut", "Río Negro"]
+  },
+  {
+    "Texto": "¿Qué importante plaza de Buenos Aires es conocida por ser el lugar de muchas manifestaciones políticas?",
+    "RespuestaCorrecta": "Plaza de Mayo",
+    "Dificultad": "Facil",
+    "Pista": "Es el lugar donde se encuentra la Casa Rosada.",
+    "OpcionesRespuestas": [
+      "Plaza de Mayo",
+      "Plaza San Martín",
+      "Plaza Congreso"
+    ]
+  },
+  {
+    "Texto": "¿Qué actriz argentina es conocida por su papel en la serie 'Casi Ángeles'?",
+    "RespuestaCorrecta": "Lali Espósito",
+    "Dificultad": "Medio",
+    "Pista": "Ha tenido una exitosa carrera como cantante y actriz.",
+    "OpcionesRespuestas": ["Lali Espósito", "China Suárez", "Brenda Asnicar"]
+  },
+  {
+    "Texto": "¿Qué famoso músico argentino fue miembro de la banda 'Los Abuelos de la Nada'?",
+    "RespuestaCorrecta": "Andrés Calamaro",
+    "Dificultad": "Medio",
+    "Pista": "Es conocido tanto por su trabajo en bandas como por su carrera solista.",
+    "OpcionesRespuestas": [
+      "Andrés Calamaro",
+      "Charly García",
+      "Luis Alberto Spinetta"
+    ]
+  },
+  {
+    "Texto": "¿Qué provincia argentina es conocida por la Quebrada de Humahuaca?",
+    "RespuestaCorrecta": "Jujuy",
+    "Dificultad": "Facil",
+    "Pista": "Es un destino turístico famoso por sus paisajes y cultura.",
+    "OpcionesRespuestas": ["Jujuy", "Salta", "Tucumán"]
+  },
+  {
+    "Texto": "¿Qué famoso poema épico argentino fue escrito por José Hernández?",
+    "RespuestaCorrecta": "Martín Fierro",
+    "Dificultad": "Facil",
+    "Pista": "Es una obra clave de la literatura gauchesca.",
+    "OpcionesRespuestas": ["Martín Fierro", "Don Segundo Sombra", "Facundo"]
+  },
+  {
+    "Texto": "¿Qué famosa actriz y cantante argentina es conocida por su papel en 'Patito Feo'?",
+    "RespuestaCorrecta": "Laura Esquivel",
+    "Dificultad": "Medio",
+    "Pista": "Interpretó a la protagonista de la serie.",
+    "OpcionesRespuestas": ["Laura Esquivel", "Lali Espósito", "China Suárez"]
+  },
+  {
+    "Texto": "¿Qué famoso escritor argentino es autor de 'El túnel'?",
+    "RespuestaCorrecta": "Ernesto Sabato",
+    "Dificultad": "Medio",
+    "Pista": "Es una de las figuras más importantes de la literatura argentina del siglo XX.",
+    "OpcionesRespuestas": [
+      "Ernesto Sabato",
+      "Jorge Luis Borges",
+      "Julio Cortázar"
+    ]
+  }
+]

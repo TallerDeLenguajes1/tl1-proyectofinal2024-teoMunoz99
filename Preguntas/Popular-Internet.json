@@ -1,0 +1,1046 @@
+[
+  {
+    "Texto": "¿Qué streamer argentino es conocido por su apodo 'Coscu'?",
+    "RespuestaCorrecta": "Martín Pérez Disalvo",
+    "Dificultad": "Facil",
+    "Pista": "Es uno de los streamers más populares en Twitch.",
+    "OpcionesRespuestas": [
+      "Germán Garmendia",
+      "Robleis",
+      "Martín Pérez Disalvo"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el nombre real del streamer conocido como 'Ibai'?",
+    "RespuestaCorrecta": "Ibai Llanos",
+    "Dificultad": "Facil",
+    "Pista": "Es conocido por su carisma y narración de deportes.",
+    "OpcionesRespuestas": ["Ibai Llanos", "Rubén Doblas", "Martín Pérez"]
+  },
+  {
+    "Texto": "¿Qué popular YouTuber es conocido por su serie 'HolaSoyGerman'?",
+    "RespuestaCorrecta": "Germán Garmendia",
+    "Dificultad": "Facil",
+    "Pista": "Es uno de los YouTubers más populares de habla hispana.",
+    "OpcionesRespuestas": [
+      "Felipe Castanhari",
+      "Germán Garmendia",
+      "Rubén Doblas"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el nombre del misterioso evento en el que se pidió 'salvar' a una YouTuber?",
+    "RespuestaCorrecta": "Save Marina Joyce",
+    "Dificultad": "Medio",
+    "Pista": "Ocurrió en 2016 y generó mucho revuelo en las redes.",
+    "OpcionesRespuestas": [
+      "Free Britney",
+      "Save Marina Joyce",
+      "Help Amanda Cerny"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el apodo del YouTuber Rubén Doblas?",
+    "RespuestaCorrecta": "El Rubius",
+    "Dificultad": "Facil",
+    "Pista": "Es uno de los YouTubers más conocidos de España.",
+    "OpcionesRespuestas": ["El Rubius", "Willyrex", "Fernanfloo"]
+  },
+  {
+    "Texto": "¿Qué popular meme presenta a un chico haciendo el baile 'Gangnam Style'?",
+    "RespuestaCorrecta": "PSY",
+    "Dificultad": "Facil",
+    "Pista": "Es un artista surcoreano.",
+    "OpcionesRespuestas": ["PSY", "BTS", "G-Dragon"]
+  },
+  {
+    "Texto": "¿Qué famoso YouTuber español es conocido por su apodo 'AuronPlay'?",
+    "RespuestaCorrecta": "Raúl Álvarez",
+    "Dificultad": "Facil",
+    "Pista": "Es conocido por sus videos de humor y críticas.",
+    "OpcionesRespuestas": ["Raúl Álvarez", "Alexby11", "Vegetta777"]
+  },
+  {
+    "Texto": "¿Quién es el streamer conocido por su apodo 'Ninja'?",
+    "RespuestaCorrecta": "Tyler Blevins",
+    "Dificultad": "Facil",
+    "Pista": "Es famoso por sus transmisiones de Fortnite.",
+    "OpcionesRespuestas": ["PewDiePie", "Tyler Blevins", "DrLupo"]
+  },
+  {
+    "Texto": "¿Qué es 'Pepe the Frog'?",
+    "RespuestaCorrecta": "Un meme",
+    "Dificultad": "Facil",
+    "Pista": "Es una rana verde que aparece en muchos contextos de internet.",
+    "OpcionesRespuestas": ["Una canción", "Un videojuego", "Un meme"]
+  },
+  {
+    "Texto": "¿Qué YouTuber es conocido por su serie 'Epic Rap Battles of History'?",
+    "RespuestaCorrecta": "Nice Peter",
+    "Dificultad": "Medio",
+    "Pista": "Colabora con EpicLLOYD en sus videos.",
+    "OpcionesRespuestas": ["Nice Peter", "Smosh", "Ryan Higa"]
+  },
+  {
+    "Texto": "¿Cuál es el nombre del YouTuber famoso por su canal 'Smosh'?",
+    "RespuestaCorrecta": "Anthony Padilla",
+    "Dificultad": "Facil",
+    "Pista": "Es uno de los fundadores del canal.",
+    "OpcionesRespuestas": ["Anthony Padilla", "Ian Hecox", "Shane Dawson"]
+  },
+  {
+    "Texto": "¿Qué popular meme se originó con un gato que toca el piano?",
+    "RespuestaCorrecta": "Keyboard Cat",
+    "Dificultad": "Medio",
+    "Pista": "El video muestra un gato tocando un teclado musical.",
+    "OpcionesRespuestas": ["Nyan Cat", "Keyboard Cat", "Grumpy Cat"]
+  },
+  {
+    "Texto": "¿Quién es el creador del canal de YouTube 'Marques Brownlee'?",
+    "RespuestaCorrecta": "Marques Brownlee",
+    "Dificultad": "Facil",
+    "Pista": "Es conocido por sus reseñas de tecnología.",
+    "OpcionesRespuestas": [
+      "Marques Brownlee",
+      "Linus Sebastian",
+      "Jonathan Morrison"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso evento de internet involucró la frase 'Leave Britney Alone'?",
+    "RespuestaCorrecta": "Un video viral de Chris Crocker",
+    "Dificultad": "Medio",
+    "Pista": "El video fue una defensa apasionada de Britney Spears.",
+    "OpcionesRespuestas": [
+      "Un video viral de Chris Crocker",
+      "Un tweet de Justin Timberlake",
+      "Una campaña de fans"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso YouTuber es conocido por sus videos de 'Life Hacks'?",
+    "RespuestaCorrecta": "Troom Troom",
+    "Dificultad": "Medio",
+    "Pista": "El canal presenta trucos de vida poco convencionales.",
+    "OpcionesRespuestas": ["Troom Troom", "5-Minute Crafts", "BuzzFeed"]
+  },
+  {
+    "Texto": "¿Quién es el streamer conocido por su apodo 'Shroud'?",
+    "RespuestaCorrecta": "Michael Grzesiek",
+    "Dificultad": "Facil",
+    "Pista": "Es famoso por su habilidad en juegos de disparos.",
+    "OpcionesRespuestas": ["Michael Grzesiek", "NICKMERCS", "TimTheTatman"]
+  },
+  {
+    "Texto": "¿Qué evento viral involucró una búsqueda masiva de una niña en peligro?",
+    "RespuestaCorrecta": "Salven a Marina Joyce",
+    "Dificultad": "Medio",
+    "Pista": "La búsqueda fue organizada por sus fans preocupados.",
+    "OpcionesRespuestas": [
+      "Salven a Marina Joyce",
+      "Busquen a Emily",
+      "Ayuda a Sarah"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso YouTuber creó el canal 'PewDiePie'?",
+    "RespuestaCorrecta": "Felix Kjellberg",
+    "Dificultad": "Facil",
+    "Pista": "Es el canal con más suscriptores individuales.",
+    "OpcionesRespuestas": ["Felix Kjellberg", "Markiplier", "Jacksepticeye"]
+  },
+  {
+    "Texto": "¿Qué famoso streamer y YouTuber español es conocido por su apodo 'TheGrefg'?",
+    "RespuestaCorrecta": "David Cánovas",
+    "Dificultad": "Facil",
+    "Pista": "Es conocido por sus transmisiones de videojuegos.",
+    "OpcionesRespuestas": ["David Cánovas", "Samuel de Luque", "Alexby11"]
+  },
+  {
+    "Texto": "¿Qué es 'Nyan Cat'?",
+    "RespuestaCorrecta": "Un meme",
+    "Dificultad": "Facil",
+    "Pista": "Es un gato con cuerpo de pop-tart que vuela en el espacio.",
+    "OpcionesRespuestas": [
+      "Un meme",
+      "Un videojuego",
+      "Una serie de televisión"
+    ]
+  },
+  {
+    "Texto": "¿Quién es el creador del meme 'Nyan Cat'?",
+    "RespuestaCorrecta": "Chris Torres",
+    "Dificultad": "Medio",
+    "Pista": "El meme presenta un gato con cuerpo de pop-tart volando por el espacio.",
+    "OpcionesRespuestas": ["Chris Torres", "Andrew Hussie", "Rebecca Sugar"]
+  },
+  {
+    "Texto": "¿Qué YouTuber es conocido por su serie 'Will It Blend?'?",
+    "RespuestaCorrecta": "Tom Dickson",
+    "Dificultad": "Medio",
+    "Pista": "Es el fundador de Blendtec.",
+    "OpcionesRespuestas": ["Tom Dickson", "Mark Rober", "Linus Sebastian"]
+  },
+  {
+    "Texto": "¿Qué popular meme involucra a un gato que gruñe y se ve enfadado?",
+    "RespuestaCorrecta": "Grumpy Cat",
+    "Dificultad": "Facil",
+    "Pista": "El gato tiene una expresión facial que parece constantemente molesto.",
+    "OpcionesRespuestas": ["Grumpy Cat", "Lil Bub", "Keyboard Cat"]
+  },
+  {
+    "Texto": "¿Qué famoso YouTuber español es conocido por su apodo 'Willyrex'?",
+    "RespuestaCorrecta": "Guillermo Díaz",
+    "Dificultad": "Facil",
+    "Pista": "Es uno de los pioneros en YouTube de habla hispana.",
+    "OpcionesRespuestas": ["Guillermo Díaz", "Rubén Doblas", "Samuel de Luque"]
+  },
+  {
+    "Texto": "¿Qué streamer es conocido por su habilidad en juegos de disparos y su apodo 'Shroud'?",
+    "RespuestaCorrecta": "Michael Grzesiek",
+    "Dificultad": "Facil",
+    "Pista": "Es famoso por sus transmisiones en Twitch y YouTube.",
+    "OpcionesRespuestas": ["Michael Grzesiek", "Tyler Blevins", "DrLupo"]
+  },
+  {
+    "Texto": "¿Cuál es el nombre del YouTuber conocido por su serie 'Unbox Therapy'?",
+    "RespuestaCorrecta": "Lewis Hilsenteger",
+    "Dificultad": "Facil",
+    "Pista": "Se dedica a revisar productos tecnológicos.",
+    "OpcionesRespuestas": [
+      "Lewis Hilsenteger",
+      "Marques Brownlee",
+      "Austin Evans"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber es conocido por su serie 'The Annoying Orange'?",
+    "RespuestaCorrecta": "Dane Boedigheimer",
+    "Dificultad": "Medio",
+    "Pista": "El personaje principal es una naranja parlante.",
+    "OpcionesRespuestas": [
+      "Dane Boedigheimer",
+      "Ray William Johnson",
+      "Toby Turner"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso evento de internet se conoce como 'Harlem Shake'?",
+    "RespuestaCorrecta": "Un meme viral de baile",
+    "Dificultad": "Facil",
+    "Pista": "Involucra un grupo de personas bailando de forma descontrolada.",
+    "OpcionesRespuestas": [
+      "Un meme viral de baile",
+      "Un videojuego",
+      "Una campaña publicitaria"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el apodo del famoso streamer de Minecraft conocido como 'Dream'?",
+    "RespuestaCorrecta": "Clay",
+    "Dificultad": "Medio",
+    "Pista": "Es conocido por su serie de 'Minecraft Manhunt'.",
+    "OpcionesRespuestas": ["Clay", "George", "Alex"]
+  },
+  {
+    "Texto": "¿Qué popular YouTuber es conocido por sus experimentos con materiales como 'Slime'?",
+    "RespuestaCorrecta": "Karina Garcia",
+    "Dificultad": "Facil",
+    "Pista": "Es conocida como la 'Reina del Slime'.",
+    "OpcionesRespuestas": ["Karina Garcia", "Rosanna Pansino", "Miranda Sings"]
+  },
+  {
+    "Texto": "¿Qué YouTuber es famoso por su canal de juegos 'Jacksepticeye'?",
+    "RespuestaCorrecta": "Seán McLoughlin",
+    "Dificultad": "Facil",
+    "Pista": "Es conocido por su energía y acento irlandés.",
+    "OpcionesRespuestas": [
+      "Seán McLoughlin",
+      "Felix Kjellberg",
+      "Mark Fischbach"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso meme presenta a un perro de la raza Shiba Inu con frases en Comic Sans?",
+    "RespuestaCorrecta": "Doge",
+    "Dificultad": "Facil",
+    "Pista": "El meme incluye frases como 'such wow' y 'very cool'.",
+    "OpcionesRespuestas": ["Doge", "Cheems", "Long Dog"]
+  },
+  {
+    "Texto": "¿Qué YouTuber es conocido por su apodo 'KSI'?",
+    "RespuestaCorrecta": "Olajide Olatunji",
+    "Dificultad": "Facil",
+    "Pista": "Es también un boxeador y músico.",
+    "OpcionesRespuestas": ["Olajide Olatunji", "Deji Olatunji", "Logan Paul"]
+  },
+  {
+    "Texto": "¿Qué streamer es conocido por su apodo 'Pokimane'?",
+    "RespuestaCorrecta": "Imane Anys",
+    "Dificultad": "Facil",
+    "Pista": "Es una de las streamers más populares en Twitch.",
+    "OpcionesRespuestas": ["Imane Anys", "Valkyrae", "LilyPichu"]
+  },
+  {
+    "Texto": "¿Qué YouTuber es conocido por su canal de educación y ciencia 'Vsauce'?",
+    "RespuestaCorrecta": "Michael Stevens",
+    "Dificultad": "Facil",
+    "Pista": "Sus videos exploran preguntas y conceptos interesantes.",
+    "OpcionesRespuestas": ["Michael Stevens", "Derek Muller", "Destin Sandlin"]
+  },
+  {
+    "Texto": "¿Qué famoso meme involucra a un hombre diciendo 'It's over 9000!'?",
+    "RespuestaCorrecta": "Dragon Ball Z",
+    "Dificultad": "Facil",
+    "Pista": "La frase se refiere al poder de un personaje en la serie.",
+    "OpcionesRespuestas": ["Dragon Ball Z", "Naruto", "One Piece"]
+  },
+  {
+    "Texto": "¿Qué streamer es conocido por su apodo 'xQc'?",
+    "RespuestaCorrecta": "Félix Lengyel",
+    "Dificultad": "Facil",
+    "Pista": "Es un exjugador profesional de Overwatch.",
+    "OpcionesRespuestas": ["Félix Lengyel", "Ludwig Ahgren", "Sodapoppin"]
+  },
+  {
+    "Texto": "¿Qué YouTuber es conocido por sus videos de teoría de juegos y cine?",
+    "RespuestaCorrecta": "MatPat",
+    "Dificultad": "Facil",
+    "Pista": "Su canal se llama 'The Game Theorists'.",
+    "OpcionesRespuestas": ["MatPat", "Austin Evans", "Doug Walker"]
+  },
+  {
+    "Texto": "¿Qué famoso evento de internet involucró la frase 'The dress is blue and black'?",
+    "RespuestaCorrecta": "Un debate viral sobre los colores de un vestido",
+    "Dificultad": "Medio",
+    "Pista": "Ocurrió en 2015 y dividió a las opiniones en internet.",
+    "OpcionesRespuestas": [
+      "Un debate viral sobre los colores de un vestido",
+      "Un meme sobre moda",
+      "Un reto de redes sociales"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber es conocido por su apodo 'MrBeast'?",
+    "RespuestaCorrecta": "Jimmy Donaldson",
+    "Dificultad": "Facil",
+    "Pista": "Es conocido por sus desafíos y donaciones millonarias.",
+    "OpcionesRespuestas": ["Jimmy Donaldson", "Jake Paul", "Logan Paul"]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su serie 'Paranormal' y su canal 'Dementes'?",
+    "RespuestaCorrecta": "Damián Kuc",
+    "Dificultad": "Medio",
+    "Pista": "Se especializa en videos de misterio y terror.",
+    "OpcionesRespuestas": ["Damián Kuc", "Martín Pérez", "Pablo Agustín"]
+  },
+  {
+    "Texto": "¿Quién es el YouTuber argentino conocido por su canal de cocina 'Locos x el Asado'?",
+    "RespuestaCorrecta": "Juan Manuel Barrientos",
+    "Dificultad": "Medio",
+    "Pista": "Se centra en la parrilla y el asado.",
+    "OpcionesRespuestas": [
+      "Juan Manuel Barrientos",
+      "Germán Garmendia",
+      "Lucas Castel"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por sus videos de humor y su apodo 'Momo'?",
+    "RespuestaCorrecta": "Gerónimo Benavides",
+    "Dificultad": "Facil",
+    "Pista": "Es conocido por sus comentarios sobre fútbol y actualidad.",
+    "OpcionesRespuestas": ["Gerónimo Benavides", "Robleis", "El Bananero"]
+  },
+  {
+    "Texto": "¿Cuál es el nombre real del YouTuber argentino conocido como 'Robleis'?",
+    "RespuestaCorrecta": "Tomás Arbillaga",
+    "Dificultad": "Facil",
+    "Pista": "Es famoso por sus videos de gaming y desafíos.",
+    "OpcionesRespuestas": ["Tomás Arbillaga", "Martín Pérez", "Lucas Castel"]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de vlogs y viajes 'Luisito Comunica'?",
+    "RespuestaCorrecta": "Luis Arturo Villar Sudek",
+    "Dificultad": "Facil",
+    "Pista": "Es uno de los YouTubers más populares en Latinoamérica.",
+    "OpcionesRespuestas": [
+      "Luis Arturo Villar Sudek",
+      "Germán Garmendia",
+      "Martín Pérez"
+    ]
+  },
+  {
+    "Texto": "¿Qué streamer argentino es conocido por su apodo 'El Demente'?",
+    "RespuestaCorrecta": "Martín Kovacs",
+    "Dificultad": "Facil",
+    "Pista": "Es popular por sus videos de humor y crítica social.",
+    "OpcionesRespuestas": [
+      "Martín Kovacs",
+      "Tomás Arbillaga",
+      "Gerónimo Benavides"
+    ]
+  },
+  {
+    "Texto": "¿Quién es el creador del canal de YouTube 'Te lo resumo así nomás'?",
+    "RespuestaCorrecta": "Jorge Pinarello",
+    "Dificultad": "Facil",
+    "Pista": "Es conocido por resumir películas y series en pocos minutos.",
+    "OpcionesRespuestas": ["Jorge Pinarello", "Martín Pérez", "Damián Kuc"]
+  },
+  {
+    "Texto": "¿Qué famoso meme argentino involucra a una niña y la frase '¡Piedra libre para...!'?",
+    "RespuestaCorrecta": "La niña del meme de los cumpleaños",
+    "Dificultad": "Facil",
+    "Pista": "Es un video viral de una fiesta de cumpleaños.",
+    "OpcionesRespuestas": [
+      "La niña del meme de los cumpleaños",
+      "El meme de '¿Querés llorar?'",
+      "El meme de 'No lo soñé'"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su apodo 'Paul' y su canal de juegos 'Paulsancho'?",
+    "RespuestaCorrecta": "Paulsancho",
+    "Dificultad": "Facil",
+    "Pista": "Es famoso por sus videos de Minecraft y Fortnite.",
+    "OpcionesRespuestas": ["Paulsancho", "Tomás Arbillaga", "Lucas Castel"]
+  },
+  {
+    "Texto": "¿Qué popular evento de internet en Argentina involucró una transmisión en vivo de un casamiento?",
+    "RespuestaCorrecta": "El casamiento de Rial y Loly",
+    "Dificultad": "Medio",
+    "Pista": "Fue uno de los eventos más vistos en YouTube Argentina.",
+    "OpcionesRespuestas": [
+      "El casamiento de Rial y Loly",
+      "La fiesta de XV de Rubí",
+      "El concierto de Tini Stoessel"
+    ]
+  },
+  {
+    "Texto": "¿Qué streamer argentino es conocido por su apodo 'Revenant'?",
+    "RespuestaCorrecta": "Rodrigo Gallo",
+    "Dificultad": "Medio",
+    "Pista": "Es popular en Twitch y YouTube por sus transmisiones de juegos de terror.",
+    "OpcionesRespuestas": [
+      "Rodrigo Gallo",
+      "Gerónimo Benavides",
+      "Martín Pérez"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de análisis de cine 'ZEPfilms'?",
+    "RespuestaCorrecta": "Nicolás Amelio-Ortiz",
+    "Dificultad": "Medio",
+    "Pista": "Se especializa en reseñas y análisis de películas.",
+    "OpcionesRespuestas": ["Nicolás Amelio-Ortiz", "Damián Kuc", "Lucas Castel"]
+  },
+  {
+    "Texto": "¿Quién es el creador del canal de YouTube 'El canal de las preguntas'?",
+    "RespuestaCorrecta": "Pablo Agustín",
+    "Dificultad": "Medio",
+    "Pista": "Es conocido por sus videos de comedia y entretenimiento.",
+    "OpcionesRespuestas": ["Pablo Agustín", "Martín Pérez", "Tomás Arbillaga"]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de tecnología 'Gasti Games'?",
+    "RespuestaCorrecta": "Gastón De Prat",
+    "Dificultad": "Medio",
+    "Pista": "Se especializa en reseñas y unboxings de productos tecnológicos.",
+    "OpcionesRespuestas": [
+      "Gastón De Prat",
+      "Nicolás Amelio-Ortiz",
+      "Rodrigo Gallo"
+    ]
+  },
+  {
+    "Texto": "¿Qué popular YouTuber argentino es conocido por su canal de ciencia y tecnología 'QuantumFracture'?",
+    "RespuestaCorrecta": "José Luis Crespo",
+    "Dificultad": "Medio",
+    "Pista": "Explica conceptos científicos de manera sencilla y divertida.",
+    "OpcionesRespuestas": ["José Luis Crespo", "Gastón De Prat", "Damián Kuc"]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de entretenimiento 'Lyna Vallejos'?",
+    "RespuestaCorrecta": "Lyna Vallejos",
+    "Dificultad": "Facil",
+    "Pista": "Es conocida por sus videos de Roblox y Minecraft.",
+    "OpcionesRespuestas": ["Lyna Vallejos", "Lucas Castel", "Tomás Arbillaga"]
+  },
+  {
+    "Texto": "¿Qué famoso evento de internet en Argentina involucró la frase '¿Querés llorar?'?",
+    "RespuestaCorrecta": "El meme de '¿Querés llorar?'",
+    "Dificultad": "Facil",
+    "Pista": "Es un video viral de una conversación entre dos amigas.",
+    "OpcionesRespuestas": [
+      "El meme de '¿Querés llorar?'",
+      "El meme de 'Piedra libre para...'",
+      "El meme de 'No lo soñé'"
+    ]
+  },
+  {
+    "Texto": "¿Qué streamer argentino es conocido por su apodo 'GoD'?",
+    "RespuestaCorrecta": "Fernando de la Mora",
+    "Dificultad": "Medio",
+    "Pista": "Es famoso por sus transmisiones de League of Legends.",
+    "OpcionesRespuestas": [
+      "Fernando de la Mora",
+      "Gerónimo Benavides",
+      "Tomás Arbillaga"
+    ]
+  },
+  {
+    "Texto": "¿Qué popular YouTuber argentino es conocido por su canal de comedia 'El Bananero'?",
+    "RespuestaCorrecta": "Adrián Nario",
+    "Dificultad": "Facil",
+    "Pista": "Es famoso por sus parodias y humor irreverente.",
+    "OpcionesRespuestas": ["Adrián Nario", "Martín Pérez", "Pablo Agustín"]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de gaming 'Pimpeano'?",
+    "RespuestaCorrecta": "Luciano Spinelli",
+    "Dificultad": "Medio",
+    "Pista": "Es popular por sus videos de Minecraft y Among Us.",
+    "OpcionesRespuestas": [
+      "Luciano Spinelli",
+      "Lucas Castel",
+      "Tomás Arbillaga"
+    ]
+  },
+  {
+    "Texto": "¿Qué TikToker argentino es conocido por sus videos de humor y su apodo 'Fran MG'?",
+    "RespuestaCorrecta": "Franco Marginet",
+    "Dificultad": "Facil",
+    "Pista": "Es famoso por sus imitaciones y parodias.",
+    "OpcionesRespuestas": [
+      "Franco Marginet",
+      "Gerónimo Benavides",
+      "Rodrigo Gallo"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el nombre real del famoso TikToker argentino conocido como 'Kong'?",
+    "RespuestaCorrecta": "Gonzalo Fonseca",
+    "Dificultad": "Medio",
+    "Pista": "Es popular por sus videos de comedia y trends.",
+    "OpcionesRespuestas": [
+      "Gonzalo Fonseca",
+      "Luciano Spinelli",
+      "Martín Kovacs"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso meme argentino involucra la frase 'No lo soñé'?",
+    "RespuestaCorrecta": "El meme de la canción 'El pibe de los astilleros'",
+    "Dificultad": "Medio",
+    "Pista": "Es una frase de una canción popular de Los Redondos.",
+    "OpcionesRespuestas": [
+      "El meme de la canción 'El pibe de los astilleros'",
+      "El meme de '¿Querés llorar?'",
+      "El meme de 'Piedra libre para...'"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso YouTuber argentino es conocido por su apodo 'CoDforfun'?",
+    "RespuestaCorrecta": "Lucas Castel",
+    "Dificultad": "Facil",
+    "Pista": "Es famoso por sus videos de gaming y retos.",
+    "OpcionesRespuestas": [
+      "Lucas Castel",
+      "Tomás Arbillaga",
+      "Gerónimo Benavides"
+    ]
+  },
+  {
+    "Texto": "¿Qué tendencia de TikTok se hizo viral en Argentina con la canción 'Ella no es tuya'?",
+    "RespuestaCorrecta": "El challenge de baile",
+    "Dificultad": "Medio",
+    "Pista": "Involucra a personas bailando una coreografía específica.",
+    "OpcionesRespuestas": [
+      "El challenge de baile",
+      "El lip-sync",
+      "La parodia cómica"
+    ]
+  },
+  {
+    "Texto": "¿Qué TikToker argentino es conocido por sus videos de magia y trucos?",
+    "RespuestaCorrecta": "Matías Dorantes",
+    "Dificultad": "Medio",
+    "Pista": "Es famoso por sus ilusiones y efectos visuales.",
+    "OpcionesRespuestas": [
+      "Matías Dorantes",
+      "Franco Marginet",
+      "Gonzalo Fonseca"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso evento de internet en Argentina involucró la frase 'Salven a Marina Joyce'?",
+    "RespuestaCorrecta": "Un supuesto secuestro",
+    "Dificultad": "Facil",
+    "Pista": "Generó una gran preocupación entre sus seguidores.",
+    "OpcionesRespuestas": [
+      "Un supuesto secuestro",
+      "Un hackeo de cuentas",
+      "Una campaña de marketing"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de análisis político y social 'El Robot de Platon'?",
+    "RespuestaCorrecta": "Ángel David Revilla",
+    "Dificultad": "Medio",
+    "Pista": "Se dedica a discutir temas de actualidad y filosofía.",
+    "OpcionesRespuestas": [
+      "Ángel David Revilla",
+      "Pablo Agustín",
+      "Jorge Pinarello"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso meme argentino involucra a un hombre diciendo 'Esto es para vos'?",
+    "RespuestaCorrecta": "El meme del hincha de fútbol",
+    "Dificultad": "Medio",
+    "Pista": "Se originó en un video de un hincha celebrando un gol.",
+    "OpcionesRespuestas": [
+      "El meme del hincha de fútbol",
+      "El meme de '¿Querés llorar?'",
+      "El meme de 'Piedra libre para...'"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de educación 'El traductor de ingeniería'?",
+    "RespuestaCorrecta": "Rodrigo Álvarez",
+    "Dificultad": "Medio",
+    "Pista": "Explica conceptos complejos de ingeniería de manera sencilla.",
+    "OpcionesRespuestas": [
+      "Rodrigo Álvarez",
+      "Nicolás Amelio-Ortiz",
+      "Gastón De Prat"
+    ]
+  },
+  {
+    "Texto": "¿Qué popular evento de internet en Argentina involucró la frase 'La concha de tu hermana'?",
+    "RespuestaCorrecta": "El video viral del hincha enojado",
+    "Dificultad": "Facil",
+    "Pista": "Es un video de un hincha de fútbol expresando su frustración.",
+    "OpcionesRespuestas": [
+      "El video viral del hincha enojado",
+      "El meme de 'No lo soñé'",
+      "El meme de '¿Querés llorar?'"
+    ]
+  },
+  {
+    "Texto": "¿Qué TikToker argentino es conocido por sus videos de fitness y estilo de vida?",
+    "RespuestaCorrecta": "Nico Occhiato",
+    "Dificultad": "Medio",
+    "Pista": "Es popular por sus rutinas de ejercicios y consejos de salud.",
+    "OpcionesRespuestas": [
+      "Nico Occhiato",
+      "Franco Marginet",
+      "Gonzalo Fonseca"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de viajes 'Alan x el Mundo'?",
+    "RespuestaCorrecta": "Alan Estrada",
+    "Dificultad": "Facil",
+    "Pista": "Documenta sus viajes por diferentes partes del mundo.",
+    "OpcionesRespuestas": ["Alan Estrada", "Jorge Pinarello", "Rodrigo Álvarez"]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de tecnología 'TecnoEspie'?",
+    "RespuestaCorrecta": "Santiago Sosa",
+    "Dificultad": "Medio",
+    "Pista": "Se especializa en reseñas y noticias de tecnología.",
+    "OpcionesRespuestas": [
+      "Santiago Sosa",
+      "Nicolás Amelio-Ortiz",
+      "Rodrigo Álvarez"
+    ]
+  },
+  {
+    "Texto": "¿Qué tendencia de TikTok se hizo viral en Argentina con la canción 'Tusa'?",
+    "RespuestaCorrecta": "El challenge de lipsync",
+    "Dificultad": "Medio",
+    "Pista": "Involucra a personas sincronizando los labios con la canción.",
+    "OpcionesRespuestas": [
+      "El challenge de lipsync",
+      "El challenge de baile",
+      "La parodia cómica"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de comedia 'El Demente'?",
+    "RespuestaCorrecta": "Martín Kovacs",
+    "Dificultad": "Facil",
+    "Pista": "Es conocido por sus videos de humor y crítica social.",
+    "OpcionesRespuestas": [
+      "Martín Kovacs",
+      "Tomás Arbillaga",
+      "Gerónimo Benavides"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso meme argentino involucra a un hombre diciendo 'Es jueves... y tu cuerpo lo sabe'?",
+    "RespuestaCorrecta": "El meme de los jueves",
+    "Dificultad": "Medio",
+    "Pista": "Es un meme que celebra el inicio del fin de semana.",
+    "OpcionesRespuestas": [
+      "El meme de los jueves",
+      "El meme de '¿Querés llorar?'",
+      "El meme de 'No lo soñé'"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de cocina 'Cocinero Improvisado'?",
+    "RespuestaCorrecta": "Tomás Benítez",
+    "Dificultad": "Medio",
+    "Pista": "Es famoso por sus recetas fáciles y rápidas.",
+    "OpcionesRespuestas": ["Tomás Benítez", "Gastón De Prat", "Lucas Castel"]
+  },
+  {
+    "Texto": "¿Qué TikToker argentino es conocido por sus videos de comedia y su apodo 'El Kiño'?",
+    "RespuestaCorrecta": "Julián Serrano",
+    "Dificultad": "Facil",
+    "Pista": "Es famoso por sus parodias y sketchs cómicos.",
+    "OpcionesRespuestas": [
+      "Julián Serrano",
+      "Franco Marginet",
+      "Gonzalo Fonseca"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso YouTuber argentino es conocido por su canal de automóviles 'TanoVlogs'?",
+    "RespuestaCorrecta": "Juan Ignacio",
+    "Dificultad": "Medio",
+    "Pista": "Se dedica a reseñar y probar diferentes vehículos.",
+    "OpcionesRespuestas": ["Juan Ignacio", "Martín Pérez", "Rodrigo Gallo"]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de análisis de videojuegos 'DayoScript'?",
+    "RespuestaCorrecta": "José Altozano",
+    "Dificultad": "Facil",
+    "Pista": "Se especializa en análisis profundos y ensayos sobre videojuegos.",
+    "OpcionesRespuestas": ["José Altozano", "Gastón De Prat", "Pablo Agustín"]
+  },
+  {
+    "Texto": "¿Qué tendencia de TikTok se hizo viral en Argentina con la canción 'Hawái'?",
+    "RespuestaCorrecta": "El challenge de lipsync",
+    "Dificultad": "Medio",
+    "Pista": "Involucra a personas sincronizando los labios con la canción.",
+    "OpcionesRespuestas": [
+      "El challenge de lipsync",
+      "El challenge de baile",
+      "La parodia cómica"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso meme argentino involucra a una mujer diciendo 'Mirá cómo me ponés'?",
+    "RespuestaCorrecta": "El meme de Thelma Fardin",
+    "Dificultad": "Facil",
+    "Pista": "Se originó en una denuncia pública por abuso.",
+    "OpcionesRespuestas": [
+      "El meme de Thelma Fardin",
+      "El meme de '¿Querés llorar?'",
+      "El meme de 'No lo soñé'"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de música 'Viru Kumbieron'?",
+    "RespuestaCorrecta": "Víctor Hugo Morales",
+    "Dificultad": "Medio",
+    "Pista": "Es popular por sus covers de cumbia y reguetón.",
+    "OpcionesRespuestas": [
+      "Víctor Hugo Morales",
+      "Gastón De Prat",
+      "Tomás Benítez"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso evento de internet en Argentina involucró la frase '¡Gracias, totales!'?",
+    "RespuestaCorrecta": "La despedida de Soda Stereo",
+    "Dificultad": "Medio",
+    "Pista": "Es una frase icónica de Gustavo Cerati.",
+    "OpcionesRespuestas": [
+      "La despedida de Soda Stereo",
+      "El meme de 'No lo soñé'",
+      "El meme de '¿Querés llorar?'"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de tecnología 'Techarg'?",
+    "RespuestaCorrecta": "Julián Huarte",
+    "Dificultad": "Medio",
+    "Pista": "Se especializa en reseñas y noticias de tecnología.",
+    "OpcionesRespuestas": [
+      "Julián Huarte",
+      "Nicolás Amelio-Ortiz",
+      "Rodrigo Álvarez"
+    ]
+  },
+  {
+    "Texto": "¿Qué tendencia de TikTok se hizo viral en Argentina con la canción 'Peaches'?",
+    "RespuestaCorrecta": "El challenge de baile",
+    "Dificultad": "Medio",
+    "Pista": "Involucra a personas bailando una coreografía específica.",
+    "OpcionesRespuestas": [
+      "El challenge de baile",
+      "El challenge de lipsync",
+      "La parodia cómica"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de comedia 'Dosogas'?",
+    "RespuestaCorrecta": "Mathi Sellanes",
+    "Dificultad": "Facil",
+    "Pista": "Es famoso por sus videos de bromas y retos.",
+    "OpcionesRespuestas": ["Mathi Sellanes", "Lucas Castel", "Martín Kovacs"]
+  },
+  {
+    "Texto": "¿Qué famoso meme argentino involucra a un hombre diciendo 'Yo no estoy solo, estoy con Dios'?",
+    "RespuestaCorrecta": "El meme del hombre religioso",
+    "Dificultad": "Medio",
+    "Pista": "Se originó en un video viral de una entrevista en la calle.",
+    "OpcionesRespuestas": [
+      "El meme del hombre religioso",
+      "El meme de '¿Querés llorar?'",
+      "El meme de 'No lo soñé'"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de críticas de películas 'Cinéfilo enmascarado'?",
+    "RespuestaCorrecta": "Diego Álvarez",
+    "Dificultad": "Medio",
+    "Pista": "Se especializa en análisis y críticas de cine.",
+    "OpcionesRespuestas": [
+      "Diego Álvarez",
+      "Nicolás Amelio-Ortiz",
+      "Gastón De Prat"
+    ]
+  },
+  {
+    "Texto": "¿Qué tendencia de TikTok se hizo viral en Argentina con la canción 'Savage Love'?",
+    "RespuestaCorrecta": "El challenge de baile",
+    "Dificultad": "Medio",
+    "Pista": "Involucra a personas bailando una coreografía específica.",
+    "OpcionesRespuestas": [
+      "El challenge de baile",
+      "El challenge de lipsync",
+      "La parodia cómica"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de comedia 'Marito Baracus'?",
+    "RespuestaCorrecta": "Mariano Bondar",
+    "Dificultad": "Facil",
+    "Pista": "Es famoso por sus videos de parodias y sketchs cómicos.",
+    "OpcionesRespuestas": ["Mariano Bondar", "Lucas Castel", "Tomás Benítez"]
+  },
+  {
+    "Texto": "¿Qué famoso meme argentino involucra a una mujer diciendo 'Por qué no te callas'?",
+    "RespuestaCorrecta": "El meme de la señora enojada",
+    "Dificultad": "Facil",
+    "Pista": "Se originó en un video viral de una discusión en la calle.",
+    "OpcionesRespuestas": [
+      "El meme de la señora enojada",
+      "El meme de '¿Querés llorar?'",
+      "El meme de 'No lo soñé'"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de análisis de fútbol 'Cracks'?",
+    "RespuestaCorrecta": "Nicolás Parrilla",
+    "Dificultad": "Medio",
+    "Pista": "Se especializa en análisis y comentarios sobre partidos de fútbol.",
+    "OpcionesRespuestas": [
+      "Nicolás Parrilla",
+      "Pablo Agustín",
+      "Rodrigo Álvarez"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso TikToker argentino es conocido por su apodo 'Nico Quiroga'?",
+    "RespuestaCorrecta": "Nicolás Quiroga",
+    "Dificultad": "Facil",
+    "Pista": "Es popular por sus videos de comedia y lip-sync.",
+    "OpcionesRespuestas": [
+      "Juanpa Zurita",
+      "Nicolás Quiroga",
+      "Franco Marginet"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de reseñas de películas y series 'Zepfilms'?",
+    "RespuestaCorrecta": "Nicolás Amelio-Ortiz",
+    "Dificultad": "Medio",
+    "Pista": "Analiza películas y series de manera detallada.",
+    "OpcionesRespuestas": [
+      "Julián Serrano",
+      "Nicolás Amelio-Ortiz",
+      "Lucas Castel"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso meme argentino involucra a un hombre diciendo '¡Qué nivel, Maribel!'?",
+    "RespuestaCorrecta": "El meme del hombre sorprendido",
+    "Dificultad": "Facil",
+    "Pista": "Se originó en un video viral de una fiesta.",
+    "OpcionesRespuestas": [
+      "El meme del hombre sorprendido",
+      "El meme de 'No lo soñé'",
+      "El meme de '¿Querés llorar?'"
+    ]
+  },
+  {
+    "Texto": "¿Qué TikToker argentino es conocido por sus videos de baile y tendencias?",
+    "RespuestaCorrecta": "Camila Cavallo",
+    "Dificultad": "Facil",
+    "Pista": "Es famosa por sus coreografías y participación en trends.",
+    "OpcionesRespuestas": [
+      "Camila Cavallo",
+      "Franco Marginet",
+      "Gonzalo Fonseca"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso evento de internet en Argentina involucró la frase '¿Dónde está mi amiga?'?",
+    "RespuestaCorrecta": "El caso de Micaela Ortega",
+    "Dificultad": "Medio",
+    "Pista": "Fue una búsqueda viral de una joven desaparecida.",
+    "OpcionesRespuestas": [
+      "El caso de Micaela Ortega",
+      "El caso de Thelma Fardin",
+      "El caso de Marina Joyce"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de tecnología y gadgets 'TecnoEspie'?",
+    "RespuestaCorrecta": "Rodrigo Ponce de León",
+    "Dificultad": "Medio",
+    "Pista": "Se especializa en reseñas y análisis de tecnología.",
+    "OpcionesRespuestas": [
+      "Rodrigo Ponce de León",
+      "Nicolás Amelio-Ortiz",
+      "Gastón De Prat"
+    ]
+  },
+  {
+    "Texto": "¿Qué tendencia de TikTok se hizo viral en Argentina con la canción 'Say So'?",
+    "RespuestaCorrecta": "El challenge de baile",
+    "Dificultad": "Medio",
+    "Pista": "Involucra a personas bailando una coreografía específica.",
+    "OpcionesRespuestas": [
+      "El challenge de baile",
+      "El challenge de lipsync",
+      "La parodia cómica"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de gaming 'AngryJoeShow'?",
+    "RespuestaCorrecta": "Joe Vargas",
+    "Dificultad": "Facil",
+    "Pista": "Es conocido por sus críticas y análisis de videojuegos.",
+    "OpcionesRespuestas": ["Joe Vargas", "Martín Kovacs", "Julián Serrano"]
+  },
+  {
+    "Texto": "¿Qué famoso meme argentino involucra a una mujer diciendo 'Sí, soy esa'?",
+    "RespuestaCorrecta": "El meme de la mujer orgullosa",
+    "Dificultad": "Facil",
+    "Pista": "Se originó en un video viral de una mujer orgullosa de su logro.",
+    "OpcionesRespuestas": [
+      "El meme de la mujer orgullosa",
+      "El meme de 'No lo soñé'",
+      "El meme de '¿Querés llorar?'"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de vlogs y lifestyle 'Tomi D'?",
+    "RespuestaCorrecta": "Tomás Decibe",
+    "Dificultad": "Medio",
+    "Pista": "Documenta su vida y comparte consejos de estilo de vida.",
+    "OpcionesRespuestas": ["Tomás Decibe", "Gastón De Prat", "Lucas Castel"]
+  },
+  {
+    "Texto": "¿Qué TikToker argentino es conocido por sus videos de comedia y apodo 'Santi Maratea'?",
+    "RespuestaCorrecta": "Santiago Maratea",
+    "Dificultad": "Facil",
+    "Pista": "Es famoso por sus parodias y sketchs cómicos.",
+    "OpcionesRespuestas": [
+      "Santiago Maratea",
+      "Franco Marginet",
+      "Gonzalo Fonseca"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso evento de internet en Argentina involucró la frase '¡Me quiero ir!'?",
+    "RespuestaCorrecta": "El video viral de un niño frustrado",
+    "Dificultad": "Facil",
+    "Pista": "Se originó en un video de un niño enojado con su familia.",
+    "OpcionesRespuestas": [
+      "El video viral de un niño frustrado",
+      "El caso de Marina Joyce",
+      "El caso de Thelma Fardin"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de tecnología 'Ciencia Geek'?",
+    "RespuestaCorrecta": "Diego Cataño",
+    "Dificultad": "Medio",
+    "Pista": "Se especializa en explicaciones científicas y tecnológicas.",
+    "OpcionesRespuestas": [
+      "Diego Cataño",
+      "Nicolás Amelio-Ortiz",
+      "Rodrigo Álvarez"
+    ]
+  },
+  {
+    "Texto": "¿Qué tendencia de TikTok se hizo viral en Argentina con la canción 'Levitating'?",
+    "RespuestaCorrecta": "El challenge de lipsync",
+    "Dificultad": "Medio",
+    "Pista": "Involucra a personas sincronizando los labios con la canción.",
+    "OpcionesRespuestas": [
+      "El challenge de lipsync",
+      "El challenge de baile",
+      "La parodia cómica"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de análisis de películas 'Cinéfilo enmascarado'?",
+    "RespuestaCorrecta": "Diego Álvarez",
+    "Dificultad": "Medio",
+    "Pista": "Se especializa en análisis y críticas de cine.",
+    "OpcionesRespuestas": [
+      "Diego Álvarez",
+      "Nicolás Amelio-Ortiz",
+      "Gastón De Prat"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso meme argentino involucra a un hombre diciendo 'No es un adiós, es un hasta luego'?",
+    "RespuestaCorrecta": "El meme de la despedida",
+    "Dificultad": "Facil",
+    "Pista": "Se originó en un video viral de una despedida emotiva.",
+    "OpcionesRespuestas": [
+      "El meme de la despedida",
+      "El meme de 'No lo soñé'",
+      "El meme de '¿Querés llorar?'"
+    ]
+  },
+  {
+    "Texto": "¿Qué YouTuber argentino es conocido por su canal de comedia 'Marito Baracus'?",
+    "RespuestaCorrecta": "Mariano Bondar",
+    "Dificultad": "Facil",
+    "Pista": "Es famoso por sus videos de parodias y sketchs cómicos.",
+    "OpcionesRespuestas": ["Mariano Bondar", "Lucas Castel", "Tomás Benítez"]
+  },
+  {
+    "Texto": "¿Qué famoso meme argentino involucra a una mujer diciendo 'Yo no estoy sola, estoy con Dios'?",
+    "RespuestaCorrecta": "El meme del hombre religioso",
+    "Dificultad": "Medio",
+    "Pista": "Se originó en un video viral de una entrevista en la calle.",
+    "OpcionesRespuestas": [
+      "El meme del hombre religioso",
+      "El meme de '¿Querés llorar?'",
+      "El meme de 'No lo soñé'"
+    ]
+  }
+]
