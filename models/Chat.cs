@@ -11,7 +11,7 @@ namespace EspacioIA
         //Atributos------------------------------------------
         private string ApiKey;
         private string Url = "https://api.openai.com/v1/chat/completions";
-        private string Comportamiento = "Responde la pregunta devolviendo una de las opciones, la que consideres correcta";
+        private string Comportamiento = "Responde la pregunta devolviendo una de las opciones, la que consideres correcta. Recuerda solo devolver la opcion.";
         private string ModeloUsado;// gpt-4o o gpt-3.5-turbo
         //---------------------------------------------------
         //Constructor----------------------------------------

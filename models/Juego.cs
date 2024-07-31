@@ -156,11 +156,11 @@ namespace EspacioJuego
                     Preguntas = CargarPreguntasDesdeJson(rutaPreguntasRandom);
                     break;
                 case 1:
-                    string rutaPreguntasInternet = "./Preguntas/Random.json";
+                    string rutaPreguntasInternet = "./Preguntas/PopularInternet.json";
                     Preguntas = CargarPreguntasDesdeJson(rutaPreguntasInternet);
                     break;
                 case 2:
-                    string rutaPreguntasArg = "./Preguntas/Random.json";
+                    string rutaPreguntasArg = "./Preguntas/Argentina.json";
                     Preguntas = CargarPreguntasDesdeJson(rutaPreguntasArg);
                     break;
                 case 3:
