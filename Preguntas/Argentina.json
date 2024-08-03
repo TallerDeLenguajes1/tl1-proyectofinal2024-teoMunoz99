@@ -2,7 +2,7 @@
   {
     "Texto": "¿Quién fue el primer presidente de Argentina?",
     "RespuestaCorrecta": "Bernardino Rivadavia",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Fue elegido en 1826.",
     "OpcionesRespuestas": [
       "Bernardino Rivadavia",
@@ -38,7 +38,7 @@
   {
     "Texto": "¿Cuál es el deporte nacional de Argentina?",
     "RespuestaCorrecta": "El pato",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Es un deporte ecuestre tradicional.",
     "OpcionesRespuestas": ["El pato", "El fútbol", "El rugby"]
   },
@@ -63,7 +63,7 @@
   {
     "Texto": "¿Qué presidente argentino implementó el Plan Austral en 1985?",
     "RespuestaCorrecta": "Raúl Alfonsín",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Fue presidente entre 1983 y 1989.",
     "OpcionesRespuestas": ["Raúl Alfonsín", "Carlos Menem", "Néstor Kirchner"]
   },
@@ -81,7 +81,7 @@
   {
     "Texto": "¿Qué escritora argentina ganó el Premio Nobel de la Paz en 1980?",
     "RespuestaCorrecta": "Adolfo Pérez Esquivel",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Es conocido por su trabajo en derechos humanos.",
     "OpcionesRespuestas": [
       "Adolfo Pérez Esquivel",
@@ -92,7 +92,7 @@
   {
     "Texto": "¿Qué batalla significó el fin del dominio español en Argentina?",
     "RespuestaCorrecta": "La Batalla de Ayacucho",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Ocurrió en 1824 en el Perú.",
     "OpcionesRespuestas": [
       "La Batalla de Ayacucho",
@@ -103,21 +103,21 @@
   {
     "Texto": "¿Qué presidente argentino fue derrocado en el golpe militar de 1976?",
     "RespuestaCorrecta": "Isabel Perón",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Fue la primera mujer en asumir la presidencia en Argentina.",
     "OpcionesRespuestas": ["Isabel Perón", "Arturo Frondizi", "Héctor Cámpora"]
   },
   {
     "Texto": "¿Qué famosa pintora argentina es conocida por sus obras surrealistas?",
     "RespuestaCorrecta": "Leonor Fini",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Fue una artista de renombre internacional.",
     "OpcionesRespuestas": ["Leonor Fini", "Marta Minujín", "Raquel Forner"]
   },
   {
     "Texto": "¿Qué importante líder sindical argentino fundó la CGT en 1930?",
     "RespuestaCorrecta": "Luis Gay",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "La CGT es la Confederación General del Trabajo.",
     "OpcionesRespuestas": ["Luis Gay", "Juan Domingo Perón", "Agustín Tosco"]
   },
@@ -160,14 +160,14 @@
   {
     "Texto": "¿Qué ciudad argentina es conocida como 'La Docta'?",
     "RespuestaCorrecta": "Córdoba",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Es conocida por sus universidades.",
     "OpcionesRespuestas": ["Córdoba", "Rosario", "Mendoza"]
   },
   {
     "Texto": "¿Quién fue el primer gobernador de Buenos Aires en la época colonial?",
     "RespuestaCorrecta": "Juan de Garay",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Fundó la ciudad en 1580.",
     "OpcionesRespuestas": [
       "Juan de Garay",
@@ -178,7 +178,7 @@
   {
     "Texto": "¿Qué provincia argentina es conocida como la 'Cuna de la Bandera'?",
     "RespuestaCorrecta": "Santa Fe",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "La ciudad de Rosario en esta provincia es donde se izó por primera vez la bandera argentina.",
     "OpcionesRespuestas": ["Santa Fe", "Buenos Aires", "Córdoba"]
   },
@@ -196,14 +196,14 @@
   {
     "Texto": "¿En qué año murió Eva Perón?",
     "RespuestaCorrecta": "1952",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Fue esposa de Juan Domingo Perón.",
     "OpcionesRespuestas": ["1952", "1946", "1955"]
   },
   {
     "Texto": "¿Qué científico argentino ganó el Premio Nobel de Química en 1970?",
     "RespuestaCorrecta": "Luis Federico Leloir",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Fue galardonado por sus descubrimientos sobre los nucleótidos de azúcar.",
     "OpcionesRespuestas": [
       "Luis Federico Leloir",
@@ -265,14 +265,14 @@
   {
     "Texto": "¿Qué presidente argentino implementó el Plan Austral?",
     "RespuestaCorrecta": "Raúl Alfonsín",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Fue presidente entre 1983 y 1989.",
     "OpcionesRespuestas": ["Raúl Alfonsín", "Carlos Menem", "Néstor Kirchner"]
   },
   {
     "Texto": "¿Qué líder militar y político argentino fue conocido como el 'Restaurador de las Leyes'?",
     "RespuestaCorrecta": "Juan Manuel de Rosas",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Gobernó Buenos Aires con mano dura en el siglo XIX.",
     "OpcionesRespuestas": [
       "Juan Manuel de Rosas",
@@ -312,14 +312,14 @@
   {
     "Texto": "¿Qué actriz argentina es conocida por su papel en la serie 'Casi Ángeles'?",
     "RespuestaCorrecta": "Lali Espósito",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Ha tenido una exitosa carrera como cantante y actriz.",
     "OpcionesRespuestas": ["Lali Espósito", "China Suárez", "Brenda Asnicar"]
   },
   {
     "Texto": "¿Qué famoso músico argentino fue miembro de la banda 'Los Abuelos de la Nada'?",
     "RespuestaCorrecta": "Andrés Calamaro",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Es conocido tanto por su trabajo en bandas como por su carrera solista.",
     "OpcionesRespuestas": [
       "Andrés Calamaro",
@@ -344,14 +344,14 @@
   {
     "Texto": "¿Qué famosa actriz y cantante argentina es conocida por su papel en 'Patito Feo'?",
     "RespuestaCorrecta": "Laura Esquivel",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Interpretó a la protagonista de la serie.",
     "OpcionesRespuestas": ["Laura Esquivel", "Lali Espósito", "China Suárez"]
   },
   {
     "Texto": "¿Qué famoso escritor argentino es autor de 'El túnel'?",
     "RespuestaCorrecta": "Ernesto Sabato",
-    "Dificultad": "Medio",
+    "Dificultad": "Media",
     "Pista": "Es una de las figuras más importantes de la literatura argentina del siglo XX.",
     "OpcionesRespuestas": [
       "Ernesto Sabato",
