@@ -137,6 +137,10 @@ namespace EspacioJuego
         {
             try
             {
+                if (!File.Exists(_ruta))
+                {
+                    File.WriteAllText(_ruta, "[]");
+                }
                 string ranking = File.ReadAllText(_ruta);
                 return JsonSerializer.Deserialize<List<Ranking>>(ranking);
             }
@@ -209,9 +213,16 @@ namespace EspacioJuego
             Console.WriteLine(Menu.tituloPrincipal);
             Console.WriteLine(">>>MEJORES PUNTUACIONES\n");
             List<Ranking> lista = CargarRankingDesdeJson("./Ranking/Ranking.json");
-            foreach (var item in lista)
+            if (lista.Count == 0)
             {
-                Console.WriteLine($"{item.Nombre} - {item.CantidadDeAciertos}");
+                Console.WriteLine("El Ranking esta vacio\n");
+            }
+            else
+            {
+                foreach (var item in lista)
+                {
+                    Console.WriteLine($"{item.Nombre} - {item.CantidadDeAciertos}");
+                }
             }
             Console.WriteLine("Press key");
             Console.ReadKey();
