@@ -28,9 +28,9 @@ namespace EspacioPersonaje
             PistasDisponibles = 1;
             SaltosDisponibles = 1;
             Ataques = new List<Ataque>(){
-                new Ataque("Ataque Ligero", 10, Dificultad.Facil),
-                new Ataque("Ataque Medio", 20, Dificultad.Media),
-                new Ataque("Ataque Pesado", 30, Dificultad.Dificil)
+                new Ataque("Ataque Ligero", 15, Dificultad.Facil),
+                new Ataque("Ataque Medio", 25, Dificultad.Media),
+                new Ataque("Ataque Pesado", 35, Dificultad.Dificil)
             };
             EsIA = _esIA;
         }

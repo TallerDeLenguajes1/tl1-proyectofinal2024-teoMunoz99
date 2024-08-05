@@ -3,6 +3,8 @@ using System.Text;
 using System.Text.Json;
 using EspacioPregunta;
 using DotNetEnv;
+using EspacioAtaque;
+using EspacioMenu;
 
 namespace EspacioIA
 {
@@ -11,17 +13,18 @@ namespace EspacioIA
         //Atributos------------------------------------------
         private string ApiKey;
         private string Url = "https://api.openai.com/v1/chat/completions";
-        private string Comportamiento = "Responde la pregunta devolviendo una de las opciones, la que consideres correcta. Recuerda solo devolver la opcion.";
+        private string Comportamiento = "Devuelve solo la opción correcta, sin añadir nada más. Si las opciones son: [opción 1], [opción 2], [opción 3] responde únicamente con la opción correcta.";
         private string ModeloUsado;// gpt-4o o gpt-3.5-turbo
         //---------------------------------------------------
         //Constructor----------------------------------------
-        public ChatGPT(string _modelo)
+        public ChatGPT(string _modelo, string _dificultad)
         {
             // Cargo la variable con la key desde archivo .env
             Env.Load();
             // Leo la key desde el archivo .env
             ApiKey = Env.GetString("OPENAI_API_KEY");
             ModeloUsado = _modelo; // guardo el modelo a usar
+            Comportamiento +=" " + _dificultad;
         }
         //---------------------------------------------------
         //Metodos--------------------------------------------

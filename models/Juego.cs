@@ -22,6 +22,7 @@ namespace EspacioJuego
         private int TurnoActual { get; set; }
         private string ModeloIA { get; set; }
         private string[] ModelosDisponibles = ["gpt-3.5-turbo", "gpt-4o"];
+        private string DificultadElegida { get; set; }
         //---------------------------------------
 
         //Constructor----------------------------
@@ -92,7 +93,7 @@ namespace EspacioJuego
         }
         private void InicializarJugadores()
         {
-            int _cantidadDeJugadores = 1 + Menu.MostrarMenu("Eliga la cantidad de jugadores", ["Jugador 1 vs CHAT GPT", "Jugador 1 vs Jugador 2"]);
+            int _cantidadDeJugadores = 1 + Menu.MostrarMenu("Elija la cantidad de jugadores", ["Jugador 1 vs CHAT GPT", "Jugador 1 vs Jugador 2"]);
             Jugador1 = new Personaje(Ingresar.NombreJugador("Ingrese el nombre del Jugador 1"));
             if (_cantidadDeJugadores == 2)
             {
@@ -102,6 +103,7 @@ namespace EspacioJuego
             {
                 int opcion = Menu.MostrarMenu("Elija el modelo de IA", ModelosDisponibles);
                 ModeloIA = ModelosDisponibles[opcion];
+                DificultadElegida = DefinirDificultad(ModeloIA);
                 Jugador2 = new Personaje(ModeloIA, true);
             }
             Menu.MostrarMensaje($"Duelo: {Jugador1.Nombre} VS {Jugador2.Nombre}");
@@ -245,7 +247,7 @@ namespace EspacioJuego
         }
         private async Task<bool> RespuestaIA(Pregunta _pregunta)
         {
-            var chatGPT = new ChatGPT(ModeloIA);
+            var chatGPT = new ChatGPT(ModeloIA, DificultadElegida);
             Menu.MostrarMensaje($"Responde {Jugador2.Nombre}\n\nPregunta: {_pregunta.Texto}\n\n" + string.Join("\n", _pregunta.OpcionesRespuestas) + "\n");
             Task<string> respuestaTask = chatGPT.ObtenerRespuesta(_pregunta);
             while (!respuestaTask.IsCompleted)
@@ -355,6 +357,27 @@ namespace EspacioJuego
             {
                 Menu.MostrarMensaje($"Respuesta incorrecta, {_jugador.Nombre} no ataca");
             }
+        }
+        private string DefinirDificultad(string modelo)
+        {
+            int indiceDificultad = Menu.MostrarMenu($"Elije la dificultad de {modelo}", ["Facil", "Media", "Dificil"]);
+            string dificultad;
+            switch (indiceDificultad)
+            {
+                case 0:
+                    dificultad = "Tu nivel de inteligencia sera la de un estudiante de secundaria.";
+                    break;
+                case 1:
+                    dificultad = "Tu nivel de inteligencia sera la de un estudiante universitario avanzado.";
+                    break;
+                case 2:
+                    dificultad = "Eres una experta en todos los temas. Responde con precisión eligiendo la opción más correcta.";
+                    break;
+                default:
+                    dificultad = "Responde lo que consideres correcto";
+                    break;
+            }
+            return dificultad;
         }
         //---------------------------------------
     }

@@ -28,13 +28,13 @@ namespace EspacioPregunta
         public bool VerificarRespuesta(Personaje _jugador)
         {
             string respuestaElegida = Menu.MostrarOpcionesRespuestas(Texto, OpcionesRespuestas, _jugador);
-            if (respuestaElegida.Equals(">>>Pedir una pista", StringComparison.OrdinalIgnoreCase))
+            if (respuestaElegida.Equals($">>>Pedir una pista ({_jugador.PistasDisponibles})", StringComparison.OrdinalIgnoreCase))
             {
                 _jugador.PistasDisponibles--;
                 Menu.MostrarMensaje($"Pista: {Pista}");
                 int indiceResputesta = Menu.MostrarMenu(Texto, OpcionesRespuestas);
                 return OpcionesRespuestas[indiceResputesta].Equals(RespuestaCorrecta, StringComparison.OrdinalIgnoreCase);
-            }else if (respuestaElegida.Equals(">>>Saltar pregunta", StringComparison.OrdinalIgnoreCase)){
+            }else if (respuestaElegida.Equals($">>>Saltar pregunta ({_jugador.SaltosDisponibles})", StringComparison.OrdinalIgnoreCase)){
                 _jugador.SaltosDisponibles--;
                 Menu.MostrarMensaje($"Saltaste la pregunta");
                 return true;

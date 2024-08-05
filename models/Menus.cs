@@ -69,11 +69,11 @@ namespace EspacioMenu
             }
             if (_jugador.PistasDisponibles >= 1)
             {
-                opciones.Add(">>>Pedir una pista");
+                opciones.Add($">>>Pedir una pista ({_jugador.PistasDisponibles})");
             }
             if (_jugador.SaltosDisponibles >= 1)
             {
-                opciones.Add(">>>Saltar pregunta");
+                opciones.Add($">>>Saltar pregunta ({_jugador.SaltosDisponibles})");
             }
             int indice = 0;//Acá guardare el indice, lo arranco en la primer opcion
             ConsoleKey teclaPresionada;//En esta variable guardare la tecla que se precione

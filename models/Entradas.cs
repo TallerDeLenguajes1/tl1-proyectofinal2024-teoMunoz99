@@ -32,7 +32,11 @@ namespace EspacioEntradas
                 {
                     Console.WriteLine("Debe ingresar al menos 3 caracteres");
                 }
-            } while (texto == null || texto.Length < 3);
+                if (texto.Length > 10)
+                {
+                    Console.WriteLine("El nombre no puede tener mas de 10 caracteres");
+                }
+            } while (texto == null || texto.Length < 3 || texto.Length > 10);
             return texto;
         }
         public static string NombreJugador(string cadena)

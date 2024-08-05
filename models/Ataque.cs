@@ -23,13 +23,13 @@ namespace EspacioAtaque
             switch (_dificultad)
             {
                 case Dificultad.Facil:
-                Danio = 10;
+                Danio = 15;
                 break;
                 case Dificultad.Media:
-                Danio = 20;
+                Danio = 25;
                 break;
                 case Dificultad.Dificil:
-                Danio = 30;
+                Danio = 35;
                 break;
                 default:
                 break;
