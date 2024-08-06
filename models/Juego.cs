@@ -59,12 +59,26 @@ namespace EspacioJuego
             }
             Menu.MostrarMensaje(">>>>>>>>>>> Fin del Duelo <<<<<<<<<<<<");
         }
-        private List<Pregunta> CargarPreguntasDesdeJson(string _ruta)
+        private List<Pregunta> CargarPreguntasDesdeJson(string _ruta, string _rutaAlternativa)
         {
             try
             {
-                string preguntas = File.ReadAllText(_ruta);
-                return JsonSerializer.Deserialize<List<Pregunta>>(preguntas);
+                // Intento cargar las preguntas desde la ruta principal
+                if (File.Exists(_ruta))
+                {
+                    string preguntas = File.ReadAllText(_ruta);
+                    return JsonSerializer.Deserialize<List<Pregunta>>(preguntas);
+                }
+                // Si no existe el archivo en la ruta principal, intento cargarlo desde la ruta alternativa
+                else if (File.Exists(_rutaAlternativa))
+                {
+                    string preguntas = File.ReadAllText(_rutaAlternativa);
+                    return JsonSerializer.Deserialize<List<Pregunta>>(preguntas);
+                }
+                else
+                {
+                    throw new FileNotFoundException("No se encontraron preguntas en ninguna de las rutas especificadas.");
+                }
             }
             catch (System.Exception e)
             {
@@ -167,23 +181,28 @@ namespace EspacioJuego
             {
                 case 0:
                     string rutaPreguntasRandom = "../../../Preguntas/Random.json";
-                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasRandom);
+                    string rutaPreguntasRandomAlternativa = "./Preguntas/Random.json";
+                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasRandom, rutaPreguntasRandomAlternativa);
                     break;
                 case 1:
                     string rutaPreguntasInternet = "../../../Preguntas/PopularInternet.json";
-                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasInternet);
+                    string rutaPreguntasInternetAlternativa = "./Preguntas/PopularInternet.json";
+                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasInternet, rutaPreguntasInternetAlternativa);
                     break;
                 case 2:
                     string rutaPreguntasArg = "../../../Preguntas/Argentina.json";
-                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasArg);
+                    string rutaPreguntasArgAlternativa = "./Preguntas/Argentina.json";
+                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasArg, rutaPreguntasArgAlternativa);
                     break;
                 case 3:
                     string rutaPreguntasFutbol = "../../../Preguntas/Futbol.json";
-                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasFutbol);
+                    string rutaPreguntasFutbolAlternativa = "./Preguntas/Futbol.json";
+                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasFutbol, rutaPreguntasFutbolAlternativa);
                     break;
                 case 4:
                     string rutaPreguntasEraMedieval = "../../../Preguntas/Medieval.json";
-                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasEraMedieval);
+                    string rutaPreguntasEraMedievalAlt = "./Preguntas/Medieval.json";
+                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasEraMedieval,rutaPreguntasEraMedievalAlt);
                     break;
                 default:
                     Menu.MostrarMensaje("Opcion incorrecta");

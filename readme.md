@@ -33,7 +33,7 @@ Para obetener tu clave api debes ingresar al sitio de [OpenIA](https://openai.co
 
 ### Paso 1: Crear el Archivo `.env`
 
-1. En el directorio raíz de tu proyecto, crea un archivo llamado `.env`. Para correr el juego desde un acceso directo debes crear el archivo `.env` dentro de la carpeta `net8.0`
+1. En el directorio raíz de tu proyecto, crea un archivo llamado `.env`.
 
 2. Dentro de este archivo, agrega la siguiente línea con tu clave API de ChatGPT:
     ```bash
