@@ -49,7 +49,7 @@ namespace EspacioJuego
                 ganador = Jugador1.Vida > Jugador2.Vida ? Jugador1 : Jugador2.Vida > Jugador1.Vida ? Jugador2 : null;
                 if (ganador != null)
                 {
-                    GuardarGanador(ganador, "../../../Ranking/Ranking.json");
+                    GuardarGanador(ganador,"./Ranking/Ranking.json","../../../Ranking/Ranking.json");
                     Menu.MostrarMensaje($"GANADOR: {ganador.Nombre}");
                 }
                 else
@@ -133,39 +133,61 @@ namespace EspacioJuego
                 return false;
             }
         }
-        private void GuardarGanador(Personaje ganador, string rutaJson)
+        private void GuardarGanador(Personaje ganador, string rutaJson, string rutaAlt)
         {
-            string directoryPath = Path.GetDirectoryName(rutaJson);
-            if (!Directory.Exists(directoryPath))
-            {
-                Directory.CreateDirectory(directoryPath);
-            }
-            List<Ranking> rankingList = new List<Ranking>();
+            string rutaFinal;
+            // Verifico si alguna de las rutas existe
             if (File.Exists(rutaJson))
             {
-                string jsonString = File.ReadAllText(rutaJson);
-                rankingList = JsonSerializer.Deserialize<List<Ranking>>(jsonString) ?? new List<Ranking>();
+                rutaFinal = rutaJson;
             }
-            rankingList.Add(new Ranking(ganador.Nombre, ganador.CantidadDeAciertos));
-            rankingList = rankingList.OrderByDescending(r => r.CantidadDeAciertos).ToList();
-
-            string nuevoJsonString = JsonSerializer.Serialize(rankingList, new JsonSerializerOptions { WriteIndented = true });
-            File.WriteAllText(rutaJson, nuevoJsonString);
-        }
-        private List<Ranking> CargarRankingDesdeJson(string _ruta)
-        {
-            try
+            else if (File.Exists(rutaAlt))
             {
-                string directoryPath = Path.GetDirectoryName(_ruta);
+                rutaFinal = rutaAlt;
+            }
+            else
+            {
+                // Si ninguna existe, uso la ruta principal
+                rutaFinal = rutaJson;
+                string directoryPath = Path.GetDirectoryName(rutaFinal);
+                // Creo el directorio de la ruta principal si no existe
                 if (!Directory.Exists(directoryPath))
                 {
                     Directory.CreateDirectory(directoryPath);
                 }
-                if (!File.Exists(_ruta))
+            }
+            // Cargo la lista de ranking existente o creo una nueva si no existe el archivo
+            List<Ranking> rankingList = new List<Ranking>();
+            if (File.Exists(rutaFinal))
+            {
+                string jsonString = File.ReadAllText(rutaFinal);
+                rankingList = JsonSerializer.Deserialize<List<Ranking>>(jsonString) ?? new List<Ranking>();
+            }
+            // Agregar el nuevo ganador y ordenar la lista
+            rankingList.Add(new Ranking(ganador.Nombre, ganador.CantidadDeAciertos));
+            rankingList = rankingList.OrderByDescending(r => r.CantidadDeAciertos).ToList();
+            // Guardar la lista actualizada en el archivo
+            string nuevoJsonString = JsonSerializer.Serialize(rankingList, new JsonSerializerOptions { WriteIndented = true });
+            File.WriteAllText(rutaFinal, nuevoJsonString);
+        }
+        private List<Ranking> CargarRankingDesdeJson(string rutaJson, string rutaAlt)
+        {
+            string rutaFinal;
+            try
+            {
+                if (File.Exists(rutaJson))
                 {
-                    File.WriteAllText(_ruta, "[]");
+                    rutaFinal = rutaJson;
                 }
-                string ranking = File.ReadAllText(_ruta);
+                else if (File.Exists(rutaAlt))
+                {
+                    rutaFinal = rutaAlt;
+                }
+                else
+                {
+                    return new List<Ranking>();
+                }
+                string ranking = File.ReadAllText(rutaFinal);
                 return JsonSerializer.Deserialize<List<Ranking>>(ranking);
             }
             catch (System.Exception e)
@@ -202,7 +224,7 @@ namespace EspacioJuego
                 case 4:
                     string rutaPreguntasEraMedieval = "../../../Preguntas/Medieval.json";
                     string rutaPreguntasEraMedievalAlt = "./Preguntas/Medieval.json";
-                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasEraMedieval,rutaPreguntasEraMedievalAlt);
+                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasEraMedieval, rutaPreguntasEraMedievalAlt);
                     break;
                 default:
                     Menu.MostrarMensaje("Opcion incorrecta");
@@ -241,7 +263,7 @@ namespace EspacioJuego
             Console.Clear();
             Console.WriteLine(Menu.tituloPrincipal);
             Console.WriteLine(">>>MEJORES PUNTUACIONES\n");
-            List<Ranking> lista = CargarRankingDesdeJson("../../../Ranking/Ranking.json");
+            List<Ranking> lista = CargarRankingDesdeJson("../../../Ranking/Ranking.json","./Ranking/Ranking.json");
             if (lista.Count == 0)
             {
                 Console.WriteLine("El Ranking esta vacio\n");
