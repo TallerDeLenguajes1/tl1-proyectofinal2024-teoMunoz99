@@ -49,7 +49,7 @@ namespace EspacioJuego
                 ganador = Jugador1.Vida > Jugador2.Vida ? Jugador1 : Jugador2.Vida > Jugador1.Vida ? Jugador2 : null;
                 if (ganador != null)
                 {
-                    GuardarGanador(ganador, "./Ranking/Ranking.json");
+                    GuardarGanador(ganador, "../../../Ranking/Ranking.json");
                     Menu.MostrarMensaje($"GANADOR: {ganador.Nombre}");
                 }
                 else
@@ -121,14 +121,17 @@ namespace EspacioJuego
         }
         private void GuardarGanador(Personaje ganador, string rutaJson)
         {
+            string directoryPath = Path.GetDirectoryName(rutaJson);
+            if (!Directory.Exists(directoryPath))
+            {
+                Directory.CreateDirectory(directoryPath);
+            }
             List<Ranking> rankingList = new List<Ranking>();
-
             if (File.Exists(rutaJson))
             {
                 string jsonString = File.ReadAllText(rutaJson);
                 rankingList = JsonSerializer.Deserialize<List<Ranking>>(jsonString) ?? new List<Ranking>();
             }
-
             rankingList.Add(new Ranking(ganador.Nombre, ganador.CantidadDeAciertos));
             rankingList = rankingList.OrderByDescending(r => r.CantidadDeAciertos).ToList();
 
@@ -139,6 +142,11 @@ namespace EspacioJuego
         {
             try
             {
+                string directoryPath = Path.GetDirectoryName(_ruta);
+                if (!Directory.Exists(directoryPath))
+                {
+                    Directory.CreateDirectory(directoryPath);
+                }
                 if (!File.Exists(_ruta))
                 {
                     File.WriteAllText(_ruta, "[]");
@@ -158,23 +166,23 @@ namespace EspacioJuego
             switch (tema)
             {
                 case 0:
-                    string rutaPreguntasRandom = "./Preguntas/Random.json";
+                    string rutaPreguntasRandom = "../../../Preguntas/Random.json";
                     Preguntas = CargarPreguntasDesdeJson(rutaPreguntasRandom);
                     break;
                 case 1:
-                    string rutaPreguntasInternet = "./Preguntas/PopularInternet.json";
+                    string rutaPreguntasInternet = "../../../Preguntas/PopularInternet.json";
                     Preguntas = CargarPreguntasDesdeJson(rutaPreguntasInternet);
                     break;
                 case 2:
-                    string rutaPreguntasArg = "./Preguntas/Argentina.json";
+                    string rutaPreguntasArg = "../../../Preguntas/Argentina.json";
                     Preguntas = CargarPreguntasDesdeJson(rutaPreguntasArg);
                     break;
                 case 3:
-                    string rutaPreguntasFutbol = "./Preguntas/Futbol.json";
+                    string rutaPreguntasFutbol = "../../../Preguntas/Futbol.json";
                     Preguntas = CargarPreguntasDesdeJson(rutaPreguntasFutbol);
                     break;
                 case 4:
-                    string rutaPreguntasEraMedieval = "./Preguntas/Medieval.json";
+                    string rutaPreguntasEraMedieval = "../../../Preguntas/Medieval.json";
                     Preguntas = CargarPreguntasDesdeJson(rutaPreguntasEraMedieval);
                     break;
                 default:
@@ -214,7 +222,7 @@ namespace EspacioJuego
             Console.Clear();
             Console.WriteLine(Menu.tituloPrincipal);
             Console.WriteLine(">>>MEJORES PUNTUACIONES\n");
-            List<Ranking> lista = CargarRankingDesdeJson("./Ranking/Ranking.json");
+            List<Ranking> lista = CargarRankingDesdeJson("../../../Ranking/Ranking.json");
             if (lista.Count == 0)
             {
                 Console.WriteLine("El Ranking esta vacio\n");
