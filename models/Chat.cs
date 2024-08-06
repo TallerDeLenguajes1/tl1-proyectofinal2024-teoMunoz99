@@ -19,12 +19,29 @@ namespace EspacioIA
         //Constructor----------------------------------------
         public ChatGPT(string _modelo, string _dificultad)
         {
+            string rutaPrincipal = Path.Combine(Directory.GetCurrentDirectory(), ".env");
+            string rutaAlternativa = @"../../../.env";
+
+            // Intento cargar el archivo .env desde la ruta principal
+            if (File.Exists(rutaPrincipal))
+            {
+                Env.Load(rutaPrincipal);
+            }
+            // Si no lo encuentra en la ruta principal, intentar cargarlo desde la ruta alternativa
+            else if (File.Exists(rutaAlternativa))
+            {
+                Env.Load(rutaAlternativa);
+            }
+            else
+            {
+                throw new FileNotFoundException("No se encontró el archivo .env en ninguna de las rutas especificadas.");
+            }
             // Cargo la variable con la key desde archivo .env
-            Env.Load();
+            //Env.Load();
             // Leo la key desde el archivo .env
             ApiKey = Env.GetString("OPENAI_API_KEY");
             ModeloUsado = _modelo; // guardo el modelo a usar
-            Comportamiento +=" " + _dificultad;
+            Comportamiento += " " + _dificultad;
         }
         //---------------------------------------------------
         //Metodos--------------------------------------------
