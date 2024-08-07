@@ -49,7 +49,7 @@ namespace EspacioJuego
                 ganador = Jugador1.Vida > Jugador2.Vida ? Jugador1 : Jugador2.Vida > Jugador1.Vida ? Jugador2 : null;
                 if (ganador != null)
                 {
-                    GuardarGanador(ganador,"./Ranking/Ranking.json","../../../Ranking/Ranking.json");
+                    GuardarGanador(ganador, "./Ranking/Ranking.json", "../../../Ranking/Ranking.json");
                     Menu.MostrarMensaje($"GANADOR: {ganador.Nombre}");
                 }
                 else
@@ -107,7 +107,8 @@ namespace EspacioJuego
         }
         private void InicializarJugadores()
         {
-            int _cantidadDeJugadores = 1 + Menu.MostrarMenu("Elija la cantidad de jugadores", ["Jugador 1 vs CHAT GPT", "Jugador 1 vs Jugador 2"]);
+            int _cantidadDeJugadores = 1 + Menu.MostrarMenu("Elija la cantidad de jugadores", ["Jugador 1 vs CHAT GPT", "Jugador 1 vs Jugador 2", "\n<< Volver atras"]);
+            if (_cantidadDeJugadores == 3) VolverAlMenuPrincipal();
             Jugador1 = new Personaje(Ingresar.NombreJugador("Ingrese el nombre del Jugador 1"));
             if (_cantidadDeJugadores == 2)
             {
@@ -124,14 +125,7 @@ namespace EspacioJuego
         }
         private bool QuedanPreguntas()
         {
-            if (Preguntas.Count > 0)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return Preguntas.GroupBy(p => p.Dificultad).Any(g => g.Count() >= 2);
         }
         private void GuardarGanador(Personaje ganador, string rutaJson, string rutaAlt)
         {
@@ -198,7 +192,7 @@ namespace EspacioJuego
         }
         private void ElegirTema()
         {
-            int tema = Menu.MostrarMenu("Elije el tema", ["Random", "Internet/Memes/Youtubers...", "Argentina", "Futbol", "Era Medieval"]);
+            int tema = Menu.MostrarMenu("Elije el tema", ["Random", "Internet/Memes/Youtubers...", "Argentina", "Futbol", "Era Medieval", "Argentina2"]);
             switch (tema)
             {
                 case 0:
@@ -225,6 +219,11 @@ namespace EspacioJuego
                     string rutaPreguntasEraMedieval = "../../../Preguntas/Medieval.json";
                     string rutaPreguntasEraMedievalAlt = "./Preguntas/Medieval.json";
                     Preguntas = CargarPreguntasDesdeJson(rutaPreguntasEraMedieval, rutaPreguntasEraMedievalAlt);
+                    break;
+                case 5:
+                    string rutaPreguntasArg2 = "../../../Preguntas/Argentina2.json";
+                    string rutaPreguntasArgAlternativa2 = "./Preguntas/Argentina2.json";
+                    Preguntas = CargarPreguntasDesdeJson(rutaPreguntasArg2, rutaPreguntasArgAlternativa2);
                     break;
                 default:
                     Menu.MostrarMensaje("Opcion incorrecta");
@@ -263,7 +262,7 @@ namespace EspacioJuego
             Console.Clear();
             Console.WriteLine(Menu.tituloPrincipal);
             Console.WriteLine(">>>MEJORES PUNTUACIONES\n");
-            List<Ranking> lista = CargarRankingDesdeJson("../../../Ranking/Ranking.json","./Ranking/Ranking.json");
+            List<Ranking> lista = CargarRankingDesdeJson("../../../Ranking/Ranking.json", "./Ranking/Ranking.json");
             if (lista.Count == 0)
             {
                 Console.WriteLine("El Ranking esta vacio\n");
@@ -359,7 +358,7 @@ namespace EspacioJuego
 
             if (_jugador.EsIA)
             {
-                Menu.MostarMensajeEnDuelo("ataca", _jugador, _enemigo);
+                Menu.MostarMensajeEnDuelo("Ataca", _jugador, _enemigo);
                 preguntasTurno = RetornarDosPreguntasAleatorias();
                 ataqueElegido = new Ataque(preguntasTurno[0].Dificultad);
             }
@@ -367,7 +366,7 @@ namespace EspacioJuego
             {
                 do
                 {
-                    Menu.MostarMensajeEnDuelo("ataca", _jugador, _enemigo);
+                    Menu.MostarMensajeEnDuelo("Ataca", _jugador, _enemigo);
                     ataqueElegido = _jugador.ElegirAtaque();
                     preguntasTurno = RetornarDosPreguntas(ataqueElegido.Dificultad);
                     if (preguntasTurno == null || ataqueElegido == null)
@@ -390,7 +389,7 @@ namespace EspacioJuego
             {
                 Menu.MostrarMensaje("Respuesta correcta");
                 _jugador.AumentarHabilidad(true);
-                Menu.MostarMensajeEnDuelo("defiende", _enemigo, _jugador);
+                Menu.MostarMensajeEnDuelo("Defiende", _enemigo, _jugador);
                 if (_enemigo.EsIA)
                 {
                     respuestaEnemigo = await RespuestaIA(preguntasTurno[1]);
@@ -427,6 +426,10 @@ namespace EspacioJuego
                     break;
             }
             return dificultad;
+        }
+        private void VolverAlMenuPrincipal()
+        {
+            MenuBuclePrincipal();
         }
         //---------------------------------------
     }

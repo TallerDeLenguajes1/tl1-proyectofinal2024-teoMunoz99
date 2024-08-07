@@ -1,0 +1,53 @@
+[
+  {
+    "Texto": "¿Quién fue el primer presidente de Argentina?",
+    "RespuestaCorrecta": "Bernardino Rivadavia",
+    "Dificultad": "Media",
+    "Pista": "Fue elegido en 1826.",
+    "OpcionesRespuestas": [
+      "Bernardino Rivadavia",
+      "Domingo Faustino Sarmiento",
+      "Juan Domingo Perón"
+    ]
+  },
+  {
+    "Texto": "¿En qué año se declaró la independencia de Argentina?",
+    "RespuestaCorrecta": "1816",
+    "Dificultad": "Facil",
+    "Pista": "Ocurrió en Tucumán.",
+    "OpcionesRespuestas": ["1816", "1810", "1820"]
+  },
+  {
+    "Texto": "¿Qué líder militar argentino es conocido como el 'Padre de la Patria'?",
+    "RespuestaCorrecta": "José de San Martín",
+    "Dificultad": "Facil",
+    "Pista": "Fue un general clave en la independencia sudamericana.",
+    "OpcionesRespuestas": [
+      "José de San Martín",
+      "Manuel Belgrano",
+      "Juan Manuel de Rosas"
+    ]
+  },
+  {
+    "Texto": "¿Qué líder militar argentino es conocido como el 'Padre de la Patria'?",
+    "RespuestaCorrecta": "José de San Martín",
+    "Dificultad": "Facil",
+    "Pista": "Fue un general clave en la independencia sudamericana.",
+    "OpcionesRespuestas": [
+      "José de San Martín",
+      "Manuel Belgrano",
+      "Juan Manuel de Rosas"
+    ]
+  },
+  {
+    "Texto": "¿Qué líder militar argentino es conocido como el 'Padre de la Patria'?",
+    "RespuestaCorrecta": "José de San Martín",
+    "Dificultad": "Facil",
+    "Pista": "Fue un general clave en la independencia sudamericana.",
+    "OpcionesRespuestas": [
+      "José de San Martín",
+      "Manuel Belgrano",
+      "Juan Manuel de Rosas"
+    ]
+  }
+]

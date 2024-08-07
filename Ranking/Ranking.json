@@ -1,6 +1,22 @@
 [
   {
+    "Nombre": "PEPE",
+    "CantidadDeAciertos": 19
+  },
+  {
     "Nombre": "pad",
     "CantidadDeAciertos": 3
+  },
+  {
+    "Nombre": "Tadeo",
+    "CantidadDeAciertos": 1
+  },
+  {
+    "Nombre": "gpt-3.5-turbo",
+    "CantidadDeAciertos": 1
+  },
+  {
+    "Nombre": "gpt-3.5-turbo",
+    "CantidadDeAciertos": 1
   }
 ]
