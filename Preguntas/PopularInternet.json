@@ -1042,5 +1042,111 @@
       "El meme de '¿Querés llorar?'",
       "El meme de 'No lo soñé'"
     ]
+  },
+  {
+    "Texto": "¿Qué meme de internet popularizó la frase '¿Por qué no te callas?'?",
+    "RespuestaCorrecta": "El rey Juan Carlos I",
+    "Dificultad": "Dificil",
+    "Pista": "Se originó en una cumbre internacional en 2007.",
+    "OpcionesRespuestas": [
+      "El rey Juan Carlos I",
+      "Hugo Chávez",
+      "Donald Trump"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el nombre real de 'Slender Man', el personaje ficticio creado como una leyenda urbana en internet?",
+    "RespuestaCorrecta": "No tiene un nombre real",
+    "Dificultad": "Dificil",
+    "Pista": "Fue creado en un foro de internet en 2009.",
+    "OpcionesRespuestas": [
+      "Victor Surge",
+      "No tiene un nombre real",
+      "Eric Knudsen"
+    ]
+  },
+  {
+    "Texto": "¿Qué videojuego es conocido por la leyenda urbana del 'Cartucho Maldito' llamado 'Ben Drowned'?",
+    "RespuestaCorrecta": "The Legend of Zelda: Majora's Mask",
+    "Dificultad": "Dificil",
+    "Pista": "Es un juego de una popular saga de Nintendo.",
+    "OpcionesRespuestas": [
+      "Super Mario 64",
+      "The Legend of Zelda: Majora's Mask",
+      "Pokémon Red"
+    ]
+  },
+  {
+    "Texto": "¿Qué es el 'CreepyPasta' conocido como 'Jeff the Killer'?",
+    "RespuestaCorrecta": "Un relato de terror sobre un asesino en serie",
+    "Dificultad": "Dificil",
+    "Pista": "Su rostro está desfigurado y siempre sonriente.",
+    "OpcionesRespuestas": [
+      "Una película de terror",
+      "Un relato de terror sobre un asesino en serie",
+      "Un videojuego de terror"
+    ]
+  },
+  {
+    "Texto": "¿Qué youtuber argentino es conocido por su serie de videos 'La Escuelita de Momo'?",
+    "RespuestaCorrecta": "Momo Sampler",
+    "Dificultad": "Dificil",
+    "Pista": "Su canal se dedica a la crítica social y el análisis político.",
+    "OpcionesRespuestas": ["El Demente", "Momo Sampler", "Dross"]
+  },
+  {
+    "Texto": "¿Cuál es la teoría conspirativa que involucra un supuesto programa de control mental de la CIA conocido como 'MKUltra'?",
+    "RespuestaCorrecta": "Un proyecto secreto para manipular mentes",
+    "Dificultad": "Dificil",
+    "Pista": "Está relacionado con la Guerra Fría y el uso de drogas psicodélicas.",
+    "OpcionesRespuestas": [
+      "Un proyecto para crear super soldados",
+      "Un proyecto secreto para manipular mentes",
+      "Un proyecto para desarrollar tecnologías de espionaje"
+    ]
+  },
+  {
+    "Texto": "¿Qué meme viral utiliza la frase '¡Dame mi dab!'?",
+    "RespuestaCorrecta": "Un video de una competencia de baile",
+    "Dificultad": "Dificil",
+    "Pista": "Se hizo popular en redes sociales en 2017.",
+    "OpcionesRespuestas": [
+      "Un meme de un programa de televisión",
+      "Un video de una competencia de baile",
+      "Un sketch de un youtuber"
+    ]
+  },
+  {
+    "Texto": "¿Qué es 'Cicada 3301'?",
+    "RespuestaCorrecta": "Un grupo que lanza complejos desafíos criptográficos",
+    "Dificultad": "Dificil",
+    "Pista": "Apareció por primera vez en 2012 con un mensaje en internet.",
+    "OpcionesRespuestas": [
+      "Un ARG de terror",
+      "Un grupo que lanza complejos desafíos criptográficos",
+      "Un foro de internet sobre conspiraciones"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso meme argentino consiste en una foto de Ricardo Fort con la frase '¡Lo dejo a tu criterio!'?",
+    "RespuestaCorrecta": "Una foto sacada de un reality show",
+    "Dificultad": "Dificil",
+    "Pista": "Es un meme que se originó en un programa de televisión.",
+    "OpcionesRespuestas": [
+      "Una campaña publicitaria",
+      "Una foto sacada de un reality show",
+      "Un video viral en YouTube"
+    ]
+  },
+  {
+    "Texto": "¿Qué creepypasta es famoso por la historia de una serie de televisión perdida llamada 'Candle Cove'?",
+    "RespuestaCorrecta": "Un foro de discusión donde la gente recuerda haber visto la serie",
+    "Dificultad": "Dificil",
+    "Pista": "La serie nunca existió, pero muchos dicen recordarla.",
+    "OpcionesRespuestas": [
+      "Un episodio perdido de una serie infantil",
+      "Un foro de discusión donde la gente recuerda haber visto la serie",
+      "Un relato corto publicado en Reddit"
+    ]
   }
 ]

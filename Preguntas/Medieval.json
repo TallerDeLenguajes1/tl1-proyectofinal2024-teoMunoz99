@@ -64,13 +64,6 @@
     "OpcionesRespuestas": ["La Peste Negra", "La Gripe Española", "El Cólera"]
   },
   {
-    "Texto": "¿Qué ciudad fue conquistada por los turcos otomanos en 1453?",
-    "RespuestaCorrecta": "Constantinopla",
-    "Dificultad": "Dificil",
-    "Pista": "Es la actual Estambul.",
-    "OpcionesRespuestas": ["Constantinopla", "Atenas", "Roma"]
-  },
-  {
     "Texto": "¿Cuál era el título del líder supremo de la Iglesia Católica?",
     "RespuestaCorrecta": "Papa",
     "Dificultad": "Facil",

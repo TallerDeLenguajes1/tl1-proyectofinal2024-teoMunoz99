@@ -54,20 +54,6 @@
     ]
   },
   {
-    "Texto": "¿Qué ciudad es la capital de la provincia de Córdoba?",
-    "RespuestaCorrecta": "Córdoba",
-    "Dificultad": "Facil",
-    "Pista": "Es una de las ciudades más grandes de Argentina.",
-    "OpcionesRespuestas": ["Córdoba", "Rosario", "Salta"]
-  },
-  {
-    "Texto": "¿Qué presidente argentino implementó el Plan Austral en 1985?",
-    "RespuestaCorrecta": "Raúl Alfonsín",
-    "Dificultad": "Media",
-    "Pista": "Fue presidente entre 1983 y 1989.",
-    "OpcionesRespuestas": ["Raúl Alfonsín", "Carlos Menem", "Néstor Kirchner"]
-  },
-  {
     "Texto": "¿Qué famoso músico argentino es conocido por la banda 'Soda Stereo'?",
     "RespuestaCorrecta": "Gustavo Cerati",
     "Dificultad": "Facil",
@@ -357,6 +343,112 @@
       "Ernesto Sabato",
       "Jorge Luis Borges",
       "Julio Cortázar"
+    ]
+  },
+  {
+    "Texto": "¿Quién es considerado el padre del rock nacional argentino?",
+    "RespuestaCorrecta": "Luis Alberto Spinetta",
+    "Dificultad": "Dificil",
+    "Pista": "Fundador de la banda Almendra.",
+    "OpcionesRespuestas": [
+      "Charly García",
+      "Luis Alberto Spinetta",
+      "Gustavo Cerati"
+    ]
+  },
+  {
+    "Texto": "¿Qué escritor argentino escribió 'El Aleph'?",
+    "RespuestaCorrecta": "Jorge Luis Borges",
+    "Dificultad": "Dificil",
+    "Pista": "Es uno de los escritores más influyentes de la literatura mundial.",
+    "OpcionesRespuestas": [
+      "Julio Cortázar",
+      "Jorge Luis Borges",
+      "Adolfo Bioy Casares"
+    ]
+  },
+  {
+    "Texto": "¿Qué presidente argentino nacionalizó la Universidad de Buenos Aires en 1947?",
+    "RespuestaCorrecta": "Juan Domingo Perón",
+    "Dificultad": "Dificil",
+    "Pista": "Lideró el movimiento justicialista.",
+    "OpcionesRespuestas": [
+      "Hipólito Yrigoyen",
+      "Juan Domingo Perón",
+      "Arturo Frondizi"
+    ]
+  },
+  {
+    "Texto": "¿Qué pintor argentino es conocido por su obra 'Manifestación'?",
+    "RespuestaCorrecta": "Antonio Berni",
+    "Dificultad": "Dificil",
+    "Pista": "Es uno de los máximos exponentes del realismo social en Argentina.",
+    "OpcionesRespuestas": [
+      "Benito Quinquela Martín",
+      "Antonio Berni",
+      "Xul Solar"
+    ]
+  },
+  {
+    "Texto": "¿En qué año se sancionó la Ley de Voto Femenino en Argentina?",
+    "RespuestaCorrecta": "1947",
+    "Dificultad": "Dificil",
+    "Pista": "Fue durante el primer gobierno de Juan Domingo Perón.",
+    "OpcionesRespuestas": ["1949", "1951", "1947"]
+  },
+  {
+    "Texto": "¿Qué poeta argentino escribió 'Fervor de Buenos Aires'?",
+    "RespuestaCorrecta": "Jorge Luis Borges",
+    "Dificultad": "Dificil",
+    "Pista": "Este libro marcó el inicio de su carrera literaria.",
+    "OpcionesRespuestas": [
+      "Oliverio Girondo",
+      "Jorge Luis Borges",
+      "Alfonsina Storni"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es la obra más famosa de la escultora argentina Lola Mora?",
+    "RespuestaCorrecta": "La Fuente de las Nereidas",
+    "Dificultad": "Dificil",
+    "Pista": "Es una fuente que se encuentra en la ciudad de Buenos Aires.",
+    "OpcionesRespuestas": [
+      "El Pensador",
+      "La Fuente de las Nereidas",
+      "La Primavera"
+    ]
+  },
+  {
+    "Texto": "¿Quién compuso la famosa canción 'Adiós Nonino'?",
+    "RespuestaCorrecta": "Astor Piazzolla",
+    "Dificultad": "Dificil",
+    "Pista": "Es uno de los más grandes exponentes del tango.",
+    "OpcionesRespuestas": [
+      "Carlos Gardel",
+      "Astor Piazzolla",
+      "Osvaldo Pugliese"
+    ]
+  },
+  {
+    "Texto": "¿Qué batalla marcó el fin de las guerras civiles argentinas en el siglo XIX?",
+    "RespuestaCorrecta": "Batalla de Pavón",
+    "Dificultad": "Dificil",
+    "Pista": "Tuvo lugar en 1861 entre las fuerzas de Buenos Aires y las del interior.",
+    "OpcionesRespuestas": [
+      "Batalla de Caseros",
+      "Batalla de Pavón",
+      "Batalla de Cepeda"
+    ]
+  },
+  {
+    "Texto": "¿Qué famoso muralista argentino pintó el 'Ejercicio Plástico'?",
+    "RespuestaCorrecta": "David Alfaro Siqueiros",
+    "Dificultad": "Dificil",
+    "Pista": "Este mural fue pintado en 1933 en la casa del magnate Natalio Botana.",
+    "OpcionesRespuestas": [
+      "Antonio Berni",
+      "David Alfaro Siqueiros",
+      "José Clemente Orozco"
     ]
   }
 ]
