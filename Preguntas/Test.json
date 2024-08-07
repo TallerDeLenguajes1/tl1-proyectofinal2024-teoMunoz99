@@ -1,53 +1,64 @@
 [
   {
-    "Texto": "¿Quién fue el primer presidente de Argentina?",
-    "RespuestaCorrecta": "Bernardino Rivadavia",
+    "Texto": "¿Pregunta 1 ejemplo?",
+    "RespuestaCorrecta": "Respuesta correcta",
     "Dificultad": "Media",
-    "Pista": "Fue elegido en 1826.",
+    "Pista": "Pista: Respuesta correcta",
     "OpcionesRespuestas": [
-      "Bernardino Rivadavia",
-      "Domingo Faustino Sarmiento",
-      "Juan Domingo Perón"
+      "Respuesta correcta",
+      "mal",
+      "mal"
     ]
   },
   {
-    "Texto": "¿En qué año se declaró la independencia de Argentina?",
-    "RespuestaCorrecta": "1816",
+    "Texto": "¿Pregunta 2 ejemplo?",
+    "RespuestaCorrecta": "Respuesta correcta",
     "Dificultad": "Facil",
-    "Pista": "Ocurrió en Tucumán.",
-    "OpcionesRespuestas": ["1816", "1810", "1820"]
+    "Pista": "Pista: Respuesta correcta",
+    "OpcionesRespuestas": ["Respuesta correcta", "mal", "mal"]
   },
   {
-    "Texto": "¿Qué líder militar argentino es conocido como el 'Padre de la Patria'?",
-    "RespuestaCorrecta": "José de San Martín",
+    "Texto": "¿Pregunta 3 ejemplo?",
+    "RespuestaCorrecta": "Respuesta correcta",
     "Dificultad": "Facil",
-    "Pista": "Fue un general clave en la independencia sudamericana.",
+    "Pista": "Pista: Respuesta correcta",
     "OpcionesRespuestas": [
-      "José de San Martín",
-      "Manuel Belgrano",
-      "Juan Manuel de Rosas"
+      "Respuesta correcta",
+      "mal",
+      "mal"
     ]
   },
   {
-    "Texto": "¿Qué líder militar argentino es conocido como el 'Padre de la Patria'?",
-    "RespuestaCorrecta": "José de San Martín",
+    "Texto": "¿Pregunta 4 ejemplo?",
+    "RespuestaCorrecta": "Respuesta correcta",
     "Dificultad": "Facil",
-    "Pista": "Fue un general clave en la independencia sudamericana.",
+    "Pista": "Pista: Respuesta correcta",
     "OpcionesRespuestas": [
-      "José de San Martín",
-      "Manuel Belgrano",
-      "Juan Manuel de Rosas"
+      "Respuesta correcta",
+      "mal",
+      "mal"
     ]
   },
   {
-    "Texto": "¿Qué líder militar argentino es conocido como el 'Padre de la Patria'?",
-    "RespuestaCorrecta": "José de San Martín",
+    "Texto": "¿Pregunta 5 ejemplo?",
+    "RespuestaCorrecta": "Respuesta correcta",
     "Dificultad": "Facil",
-    "Pista": "Fue un general clave en la independencia sudamericana.",
+    "Pista": "Pista: Respuesta correcta",
     "OpcionesRespuestas": [
-      "José de San Martín",
-      "Manuel Belgrano",
-      "Juan Manuel de Rosas"
+      "Respuesta correcta",
+      "mal",
+      "mal"
+    ]
+  },
+  {
+    "Texto": "¿Pregunta 6 ejemplo?",
+    "RespuestaCorrecta": "Respuesta correcta",
+    "Dificultad": "Media",
+    "Pista": "Pista: Respuesta correcta",
+    "OpcionesRespuestas": [
+      "Respuesta correcta",
+      "mal",
+      "mal"
     ]
   }
 ]
