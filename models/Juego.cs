@@ -118,7 +118,7 @@ namespace EspacioJuego
             {
                 int opcion = Menu.MostrarMenu("Elija el modelo de IA", ModelosDisponibles);
                 ModeloIA = ModelosDisponibles[opcion];
-                DificultadElegida = DefinirDificultad(ModeloIA);
+                DificultadElegida = DefinirDificultad();
                 Jugador2 = new Personaje(ModeloIA, true);
             }
             Menu.MostrarMensaje($"Duelo: {Jugador1.Nombre} VS {Jugador2.Nombre}");
@@ -411,9 +411,9 @@ namespace EspacioJuego
                 Menu.MostrarMensaje($"Respuesta incorrecta, {_jugador.Nombre} no ataca");
             }
         }
-        private string DefinirDificultad(string modelo)
+        private string DefinirDificultad()
         {
-            int indiceDificultad = Menu.MostrarMenu($"Elije la dificultad de {modelo}", ["Facil", "Media", "Dificil"]);
+            int indiceDificultad = Menu.MostrarMenu($"Elije la dificultad de {ModeloIA}", ["Facil", "Media", "Dificil"]);
             string dificultad;
             switch (indiceDificultad)
             {

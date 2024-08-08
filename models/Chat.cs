@@ -27,7 +27,6 @@ namespace EspacioIA
             {
                 Env.Load(rutaPrincipal);
             }
-            // Si no lo encuentra en la ruta principal, intentar cargarlo desde la ruta alternativa
             else if (File.Exists(rutaAlternativa))
             {
                 Env.Load(rutaAlternativa);
@@ -36,9 +35,6 @@ namespace EspacioIA
             {
                 throw new FileNotFoundException("No se encontró el archivo .env en ninguna de las rutas especificadas.");
             }
-            // Cargo la variable con la key desde archivo .env
-            //Env.Load();
-            // Leo la key desde el archivo .env
             ApiKey = Env.GetString("OPENAI_API_KEY");
             ModeloUsado = _modelo; // guardo el modelo a usar
             Comportamiento += " " + _dificultad;
