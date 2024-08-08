@@ -1,0 +1,300 @@
+[
+  {
+    "Texto": "¿Cuál de los siguientes lenguajes de programación es conocido por su simplicidad y es ampliamente utilizado en ciencia de datos?",
+    "RespuestaCorrecta": "Python",
+    "Dificultad": "Facil",
+    "Pista": "Es un lenguaje interpretado que utiliza indentación para definir bloques de código.",
+    "OpcionesRespuestas": ["Python", "C++", "Java"]
+  },
+  {
+    "Texto": "¿Qué estructura de datos utiliza la estrategia LIFO (Last In, First Out)?",
+    "RespuestaCorrecta": "Pila (Stack)",
+    "Dificultad": "Facil",
+    "Pista": "Es similar a una pila de platos, donde el último en entrar es el primero en salir.",
+    "OpcionesRespuestas": ["Cola (Queue)", "Pila (Stack)", "Lista enlazada"]
+  },
+  {
+    "Texto": "¿Qué es un bucle en programación?",
+    "RespuestaCorrecta": "Una secuencia de instrucciones que se repite",
+    "Dificultad": "Facil",
+    "Pista": "Permite ejecutar un bloque de código varias veces.",
+    "OpcionesRespuestas": [
+      "Una función que se llama a sí misma",
+      "Un error en el código",
+      "Una secuencia de instrucciones que se repite"
+    ]
+  },
+  {
+    "Texto": "¿Qué tipo de lenguaje de programación es HTML?",
+    "RespuestaCorrecta": "Lenguaje de marcado",
+    "Dificultad": "Facil",
+    "Pista": "Es utilizado para estructurar el contenido en la web.",
+    "OpcionesRespuestas": [
+      "Lenguaje de marcado",
+      "Lenguaje de programación",
+      "Lenguaje de consulta"
+    ]
+  },
+  {
+    "Texto": "¿Qué significa 'OOP' en programación?",
+    "RespuestaCorrecta": "Programación orientada a objetos",
+    "Dificultad": "Facil",
+    "Pista": "Es un paradigma de programación basado en 'objetos'.",
+    "OpcionesRespuestas": [
+      "Optimización de operaciones de programación",
+      "Programación orientada a objetos",
+      "Operaciones de orden prioritario"
+    ]
+  },
+  {
+    "Texto": "¿Cuál de los siguientes es un operador de comparación en muchos lenguajes de programación?",
+    "RespuestaCorrecta": "==",
+    "Dificultad": "Facil",
+    "Pista": "Se utiliza para comparar si dos valores son iguales.",
+    "OpcionesRespuestas": ["+", "==", "="]
+  },
+  {
+    "Texto": "¿Cuál de los siguientes es un framework popular para desarrollar aplicaciones web en JavaScript?",
+    "RespuestaCorrecta": "React",
+    "Dificultad": "Facil",
+    "Pista": "Fue desarrollado por Facebook.",
+    "OpcionesRespuestas": ["Django", "React", "Laravel"]
+  },
+  {
+    "Texto": "¿Qué palabra clave se utiliza en C# para declarar una clase?",
+    "RespuestaCorrecta": "class",
+    "Dificultad": "Facil",
+    "Pista": "Es una palabra clave que define una plantilla de objetos.",
+    "OpcionesRespuestas": ["class", "object", "new"]
+  },
+  {
+    "Texto": "¿Qué es un 'array' en programación?",
+    "RespuestaCorrecta": "Una colección de elementos del mismo tipo",
+    "Dificultad": "Facil",
+    "Pista": "Permite almacenar múltiples valores en una sola variable.",
+    "OpcionesRespuestas": [
+      "Un bloque de código que se repite",
+      "Una colección de elementos del mismo tipo",
+      "Un operador matemático"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el propósito de la función 'main' en muchos lenguajes de programación?",
+    "RespuestaCorrecta": "Es el punto de entrada de un programa",
+    "Dificultad": "Facil",
+    "Pista": "Es la función que se ejecuta primero cuando comienza un programa.",
+    "OpcionesRespuestas": [
+      "Declarar variables globales",
+      "Es el punto de entrada de un programa",
+      "Guardar el código fuente"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el propósito de la función 'git merge' en Git?",
+    "RespuestaCorrecta": "Combina cambios de diferentes ramas en una sola rama",
+    "Dificultad": "Media",
+    "Pista": "Se utiliza para integrar las modificaciones realizadas en diferentes líneas de desarrollo.",
+    "OpcionesRespuestas": [
+      "Descartar cambios no deseados",
+      "Combina cambios de diferentes ramas en una sola rama",
+      "Crear una nueva rama a partir de otra"
+    ]
+  },
+  {
+    "Texto": "¿Qué paradigma de programación se centra en el uso de funciones puras y la inmutabilidad?",
+    "RespuestaCorrecta": "Programación funcional",
+    "Dificultad": "Media",
+    "Pista": "Este paradigma evita el uso de estados y datos mutables.",
+    "OpcionesRespuestas": [
+      "Programación funcional",
+      "Programación orientada a objetos",
+      "Programación procedural"
+    ]
+  },
+  {
+    "Texto": "En SQL, ¿qué comando se utiliza para eliminar una tabla de la base de datos?",
+    "RespuestaCorrecta": "DROP",
+    "Dificultad": "Media",
+    "Pista": "Este comando es irreversible y elimina toda la estructura de la tabla.",
+    "OpcionesRespuestas": ["DELETE", "DROP", "REMOVE"]
+  },
+  {
+    "Texto": "¿Qué es el 'garbage collector' en lenguajes como Java?",
+    "RespuestaCorrecta": "Un mecanismo para la gestión automática de memoria",
+    "Dificultad": "Media",
+    "Pista": "Se encarga de liberar memoria ocupada por objetos que ya no se utilizan.",
+    "OpcionesRespuestas": [
+      "Un depurador de errores en tiempo de ejecución",
+      "Un mecanismo para la gestión automática de memoria",
+      "Un optimizador de código"
+    ]
+  },
+  {
+    "Texto": "¿Qué estructura de datos es más eficiente para realizar búsquedas binarias?",
+    "RespuestaCorrecta": "Arreglo ordenado",
+    "Dificultad": "Media",
+    "Pista": "La búsqueda binaria requiere que los elementos estén organizados en un orden específico.",
+    "OpcionesRespuestas": [
+      "Lista enlazada",
+      "Arreglo ordenado",
+      "Árbol binario"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es el propósito del patrón de diseño 'Singleton'?",
+    "RespuestaCorrecta": "Garantizar que una clase tenga solo una instancia",
+    "Dificultad": "Media",
+    "Pista": "Este patrón se usa para controlar el acceso a recursos compartidos.",
+    "OpcionesRespuestas": [
+      "Permitir la creación de múltiples instancias de una clase",
+      "Garantizar que una clase tenga solo una instancia",
+      "Proporcionar una interfaz simplificada a un conjunto de clases"
+    ]
+  },
+  {
+    "Texto": "¿Qué hace el método 'map' en muchos lenguajes de programación funcional?",
+    "RespuestaCorrecta": "Aplica una función a cada elemento de una lista y devuelve una nueva lista",
+    "Dificultad": "Media",
+    "Pista": "Es una operación que transforma una colección sin modificar la original.",
+    "OpcionesRespuestas": [
+      "Modifica cada elemento de una lista existente",
+      "Aplica una función a cada elemento de una lista y devuelve una nueva lista",
+      "Filtra los elementos de una lista según un criterio"
+    ]
+  },
+  {
+    "Texto": "En programación orientada a objetos, ¿qué es la 'herencia'?",
+    "RespuestaCorrecta": "La capacidad de crear nuevas clases basadas en clases existentes",
+    "Dificultad": "Media",
+    "Pista": "Permite reutilizar y extender el comportamiento de clases existentes.",
+    "OpcionesRespuestas": [
+      "La capacidad de sobrescribir métodos de una clase",
+      "La capacidad de encapsular datos y funciones",
+      "La capacidad de crear nuevas clases basadas en clases existentes"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es la diferencia principal entre 'ArrayList' y 'LinkedList' en Java?",
+    "RespuestaCorrecta": "ArrayList tiene acceso más rápido, LinkedList tiene inserción y eliminación más rápidas",
+    "Dificultad": "Media",
+    "Pista": "Una está basada en un array dinámico, mientras que la otra está basada en una lista doblemente enlazada.",
+    "OpcionesRespuestas": [
+      "ArrayList tiene acceso más rápido, LinkedList tiene inserción y eliminación más rápidas",
+      "LinkedList es inmutable, ArrayList es mutable",
+      "ArrayList es estática, LinkedList es dinámica"
+    ]
+  },
+  {
+    "Texto": "¿Qué es la técnica 'recursión' en programación?",
+    "RespuestaCorrecta": "Una función que se llama a sí misma para resolver un problema",
+    "Dificultad": "Media",
+    "Pista": "Esta técnica divide un problema en subproblemas más pequeños y similares al original.",
+    "OpcionesRespuestas": [
+      "Un bucle que se repite hasta que se cumpla una condición",
+      "Una función que se llama a sí misma para resolver un problema",
+      "Un método para iterar sobre estructuras de datos complejas"
+    ]
+  },
+  {
+    "Texto": "¿Qué es el problema de la parada en teoría de la computación?",
+    "RespuestaCorrecta": "Un problema no resoluble que determina si un programa se detendrá o ejecutará indefinidamente",
+    "Dificultad": "Dificil",
+    "Pista": "Fue formulado por Alan Turing en 1936.",
+    "OpcionesRespuestas": [
+      "Un problema de optimización de tiempo de ejecución",
+      "Un problema no resoluble que determina si un programa se detendrá o ejecutará indefinidamente",
+      "Un problema relacionado con la gestión de la memoria en lenguajes de bajo nivel"
+    ]
+  },
+  {
+    "Texto": "¿Qué es un 'monad' en programación funcional?",
+    "RespuestaCorrecta": "Una estructura que representa cálculos secuenciales",
+    "Dificultad": "Dificil",
+    "Pista": "Es un concepto que proviene de la teoría de las categorías en matemáticas.",
+    "OpcionesRespuestas": [
+      "Un patrón de diseño en programación orientada a objetos",
+      "Una estructura que representa cálculos secuenciales",
+      "Un tipo de función que acepta otras funciones como argumentos"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es la complejidad temporal del algoritmo de ordenación 'Heapsort' en el peor de los casos?",
+    "RespuestaCorrecta": "O(n log n)",
+    "Dificultad": "Dificil",
+    "Pista": "Es similar a la de 'Mergesort'.",
+    "OpcionesRespuestas": ["O(n^2)", "O(n log n)", "O(n)"]
+  },
+  {
+    "Texto": "¿Qué técnica se utiliza en bases de datos para garantizar la atomicidad de las transacciones?",
+    "RespuestaCorrecta": "ACID",
+    "Dificultad": "Dificil",
+    "Pista": "Incluye principios como la consistencia y el aislamiento.",
+    "OpcionesRespuestas": ["ACID", "BASE", "CAP"]
+  },
+  {
+    "Texto": "En el diseño de compiladores, ¿qué es 'backpatching'?",
+    "RespuestaCorrecta": "Una técnica para manejar instrucciones de salto durante la generación de código",
+    "Dificultad": "Dificil",
+    "Pista": "Se utiliza principalmente en la fase de generación de código.",
+    "OpcionesRespuestas": [
+      "Un método para optimizar el código intermedio",
+      "Una técnica para manejar instrucciones de salto durante la generación de código",
+      "Un proceso para convertir código de alto nivel en lenguaje de máquina"
+    ]
+  },
+  {
+    "Texto": "¿Qué es un 'quadtree' y para qué se utiliza en ciencias de la computación?",
+    "RespuestaCorrecta": "Una estructura de datos para dividir un espacio en regiones cuadrantes",
+    "Dificultad": "Dificil",
+    "Pista": "Es comúnmente utilizado en gráficos y procesamiento de imágenes.",
+    "OpcionesRespuestas": [
+      "Un tipo de algoritmo de compresión",
+      "Una estructura de datos para dividir un espacio en regiones cuadrantes",
+      "Un método para ordenar grandes cantidades de datos"
+    ]
+  },
+  {
+    "Texto": "¿Cuál es la principal ventaja de utilizar una 'tabla hash' sobre una 'lista enlazada'?",
+    "RespuestaCorrecta": "Tiempo de acceso promedio constante",
+    "Dificultad": "Dificil",
+    "Pista": "Esto se logra gracias a la función de dispersión.",
+    "OpcionesRespuestas": [
+      "Menor consumo de memoria",
+      "Tiempo de acceso promedio constante",
+      "Mayor flexibilidad en la inserción de elementos"
+    ]
+  },
+  {
+    "Texto": "¿Qué es la técnica 'memoization' en programación?",
+    "RespuestaCorrecta": "Una técnica de optimización que almacena resultados de funciones para evitar cómputos repetidos",
+    "Dificultad": "Dificil",
+    "Pista": "Es una forma de optimización utilizada en programación dinámica.",
+    "OpcionesRespuestas": [
+      "Una técnica para minimizar el uso de memoria",
+      "Una técnica de optimización que almacena resultados de funciones para evitar cómputos repetidos",
+      "Un método para paralelizar la ejecución de funciones"
+    ]
+  },
+  {
+    "Texto": "¿Qué tipo de 'garbage collection' emplea la técnica de 'marcar y barrer'?",
+    "RespuestaCorrecta": "Un recolector que marca los objetos alcanzables y luego barre los no alcanzables",
+    "Dificultad": "Dificil",
+    "Pista": "Esta técnica se usa para liberar memoria ocupada por objetos no utilizados.",
+    "OpcionesRespuestas": [
+      "Un recolector en tiempo real",
+      "Un recolector que marca los objetos alcanzables y luego barre los no alcanzables",
+      "Un recolector basado en referencia de conteo"
+    ]
+  },
+  {
+    "Texto": "En el contexto de la concurrencia, ¿qué es una 'race condition'?",
+    "RespuestaCorrecta": "Una situación donde el comportamiento del software depende del orden en que se ejecutan las instrucciones",
+    "Dificultad": "Dificil",
+    "Pista": "Es un problema común en sistemas multihilo.",
+    "OpcionesRespuestas": [
+      "Una técnica para sincronizar hilos",
+      "Una situación donde el comportamiento del software depende del orden en que se ejecutan las instrucciones",
+      "Un tipo de bloqueo que ocurre cuando dos hilos compiten por el mismo recurso"
+    ]
+  }
+]

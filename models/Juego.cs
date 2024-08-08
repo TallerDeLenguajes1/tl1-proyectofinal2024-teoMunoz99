@@ -192,7 +192,7 @@ namespace EspacioJuego
         }
         private void ElegirTema()
         {
-            int tema = Menu.MostrarMenu("Elije el tema", ["Random", "Internet/Memes/Youtubers...", "Argentina", "Futbol", "Era Medieval", "Test"]);
+            int tema = Menu.MostrarMenu("Elije el tema", ["Random", "Internet/Memes/Youtubers...", "Argentina", "Futbol", "Era Medieval", "Programacion", "Test"]);
             switch (tema)
             {
                 case 0:
@@ -221,6 +221,11 @@ namespace EspacioJuego
                     Preguntas = CargarPreguntasDesdeJson(rutaPreguntasEraMedieval, rutaPreguntasEraMedievalAlt);
                     break;
                 case 5:
+                    string rutaPregProg = "../../../Preguntas/Programacion.json";
+                    string rutaPregProgAlt = "./Preguntas/Programacion.json";
+                    Preguntas = CargarPreguntasDesdeJson(rutaPregProg, rutaPregProgAlt);
+                    break;
+                case 6:
                     string rutaTest = "../../../Preguntas/Test.json";
                     string rutaTestAlt = "./Preguntas/Test.json";
                     Preguntas = CargarPreguntasDesdeJson(rutaTest, rutaTestAlt);
